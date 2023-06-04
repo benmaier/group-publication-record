@@ -1,4 +1,6 @@
 
+default: processdata md
+
 prep:
 	mkdir -p data
 	mkdir -p cleaned_data
@@ -11,17 +13,9 @@ processdata:
 	python process_data.py
 
 md:
-	python make_md
+	python make_md.py
 
-all:
-	prep
-	scrape
-	processdata
-	md
-
-default:
-	processdata
-	md
+all: prep scrape processdata md
 
 cleandownloads:
 	rm data/*.json

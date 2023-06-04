@@ -1,7 +1,8 @@
 
 prep:
-	mkdir data
-	mkdir cleaned_data
+	mkdir -p data
+	mkdir -p cleaned_data
+	mkdir -p output
 
 scrape:
 	python build_publication_list.py

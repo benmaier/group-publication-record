@@ -1,0 +1,523 @@
+[
+  {
+    "title": "Effective containment explains subexponential growth in recent confirmed COVID-19 cases in China",
+    "pub_year": 2020,
+    "citation": "Science 368 (6492), 742-746, 2020",
+    "author": [
+      "Benjamin F Maier",
+      "Dirk Brockmann"
+    ],
+    "journal": "Science",
+    "volume": "368",
+    "number": "6492",
+    "pages": "742-746",
+    "conference": null,
+    "num_citations": 926,
+    "pub_url": "https://www.science.org/doi/abs/10.1126/science.abb4557"
+  },
+  {
+    "title": "COVID-19 lockdown induces disease-mitigating structural changes in mobility networks",
+    "pub_year": 2020,
+    "citation": "Proceedings of the National Academy of Sciences 117 (52), 32883-32890, 2020",
+    "author": [
+      "Frank Schlosser",
+      "Benjamin F Maier",
+      "Olivia Jack",
+      "David Hinrichs",
+      "Adrian Zachariae",
+      "Dirk Brockmann"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "117",
+    "number": "52",
+    "pages": "32883-32890",
+    "conference": null,
+    "num_citations": 293,
+    "pub_url": "https://www.pnas.org/doi/abs/10.1073/pnas.2012326117"
+  },
+  {
+    "title": "Cover time for random walks on arbitrary complex networks",
+    "pub_year": 2017,
+    "citation": "Physical Review E 96 (4), 042307, 2017",
+    "author": [
+      "Benjamin F Maier",
+      "Dirk Brockmann"
+    ],
+    "journal": "Physical Review E",
+    "volume": "96",
+    "number": "4",
+    "pages": "042307",
+    "conference": null,
+    "num_citations": 43,
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.042307"
+  },
+  {
+    "title": "Confining dyon gas with finite-volume effects under control",
+    "pub_year": 2012,
+    "citation": "Physical Review D 85 (3), 034502, 2012",
+    "author": [
+      "Falk Bruckmann",
+      "Simon Dinter",
+      "Ernst-Michael Ilgenfritz",
+      "Benjamin Maier",
+      "Michael M\u00fcller-Preussker",
+      "Marc Wagner"
+    ],
+    "journal": "Physical Review D",
+    "volume": "85",
+    "number": "3",
+    "pages": "034502",
+    "conference": null,
+    "num_citations": 24,
+    "pub_url": "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.85.034502"
+  },
+  {
+    "title": "Thresholding normally distributed data creates complex networks",
+    "pub_year": 2020,
+    "citation": "Physical Review E 101 (6), 062302, 2020",
+    "author": [
+      "George T Cantwell",
+      "Yanchen Liu",
+      "Benjamin F Maier",
+      "Alice C Schwarze",
+      "Carlos A Serv\u00e1n",
+      "Jordan Snyder",
+      "Guillaume St-Onge"
+    ],
+    "journal": "Physical Review E",
+    "volume": "101",
+    "number": "6",
+    "pages": "062302",
+    "conference": null,
+    "num_citations": 23,
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.062302"
+  },
+  {
+    "title": "Comprehensive integrated NGS-based surveillance and contact-network modeling unravels transmission dynamics of vancomycin-resistant enterococci in a high-risk population within a tertiary care hospital",
+    "pub_year": 2020,
+    "citation": "PloS one 15 (6), e0235160, 2020",
+    "author": [
+      "Bernd Neumann",
+      "Jennifer K Bender",
+      "Benjamin F Maier",
+      "Alice Wittig",
+      "Stephan Fuchs",
+      "Dirk Brockmann",
+      "Torsten Semmler",
+      "Hermann Einsele",
+      "Sabrina Kraus",
+      "Lothar H Wieler",
+      "Ulrich Vogel",
+      "Guido Werner"
+    ],
+    "journal": "PloS one",
+    "volume": "15",
+    "number": "6",
+    "pages": "e0235160",
+    "conference": null,
+    "num_citations": 16,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235160"
+  },
+  {
+    "title": "Netwulf: Interactive visualization of networks in Python",
+    "pub_year": 2019,
+    "citation": "Journal of Open Source Software 4 (42), 1425, 2019",
+    "author": [
+      "Ulf Aslak",
+      "Benjamin F. Maier"
+    ],
+    "journal": "Journal of Open Source Software",
+    "volume": "4",
+    "number": "42",
+    "pages": "1425",
+    "conference": null,
+    "num_citations": 12,
+    "pub_url": "https://joss.theoj.org/papers/10.21105/joss.01425.pdf"
+  },
+  {
+    "title": "Generalization of the small-world effect on a model approaching the Erd\u0151s\u2013R\u00e9nyi random graph",
+    "pub_year": 2019,
+    "citation": "Scientific reports 9 (1), 9268, 2019",
+    "author": [
+      "Benjamin F Maier"
+    ],
+    "journal": "Scientific reports",
+    "volume": "9",
+    "number": "1",
+    "pages": "9268",
+    "conference": null,
+    "num_citations": 11,
+    "pub_url": "https://link.springer.com/content/pdf/10.1038/s41598-019-45576-3.pdf"
+  },
+  {
+    "title": "Germany\u2019s fourth COVID-19 wave was mainly driven by the unvaccinated",
+    "pub_year": 2022,
+    "citation": "Communications Medicine 2 (1), 1-9, 2022",
+    "author": [
+      "Benjamin F Maier",
+      "Marc Wiedermann",
+      "Angelique Burdinski",
+      "Pascal P Klamser",
+      "Mirjam A Jenny",
+      "Cornelia Betsch",
+      "Dirk Brockmann"
+    ],
+    "journal": "Communications Medicine",
+    "volume": "2",
+    "number": "1",
+    "pages": "1-9",
+    "conference": null,
+    "num_citations": 7,
+    "pub_url": "https://www.nature.com/articles/s43856-022-00176-7"
+  },
+  {
+    "title": "Evidence for positive long-and short-term effects of vaccinations against COVID-19 in wearable sensor metrics--Insights from the German Corona Data Donation Project",
+    "pub_year": 2022,
+    "citation": "arXiv preprint arXiv:2204.02846, 2022",
+    "author": [
+      "Marc Wiedermann",
+      "Annika H Rose",
+      "Benjamin F Maier",
+      "Jakob J Kolb",
+      "David Hinrichs",
+      "Dirk Brockmann"
+    ],
+    "journal": "arXiv preprint arXiv:2204.02846",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 6,
+    "pub_url": "https://arxiv.org/abs/2204.02846"
+  },
+  {
+    "title": "epipack: An infectious disease modeling package for Python",
+    "pub_year": 2021,
+    "citation": "Journal of Open Source Software 6 (60), 3097, 2021",
+    "author": [
+      "Benjamin F Maier"
+    ],
+    "journal": "Journal of Open Source Software",
+    "volume": "6",
+    "number": "60",
+    "pages": "3097",
+    "conference": null,
+    "num_citations": 6,
+    "pub_url": "https://joss.theoj.org/papers/10.21105/joss.03097.pdf"
+  },
+  {
+    "title": "Estimating the share of SARS-CoV-2-immunologically na\u00efve individuals in Germany up to June 2022",
+    "pub_year": 2023,
+    "citation": "Epidemiology & Infection 151, e38, 2023",
+    "author": [
+      "Benjamin F Maier",
+      "Annika H Rose",
+      "Angelique Burdinski",
+      "Pascal Klamser",
+      "Hannelore Neuhauser",
+      "Ole Wichmann",
+      "Lars Schaade",
+      "Lothar H Wieler",
+      "Dirk Brockmann"
+    ],
+    "journal": "Epidemiology & Infection",
+    "volume": "151",
+    "number": null,
+    "pages": "e38",
+    "conference": null,
+    "num_citations": 5,
+    "pub_url": "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/estimating-the-share-of-sarscov2immunologically-naive-individuals-in-germany-up-to-june-2022/D465300E4136D1D63B25BD6F48EC2994"
+  },
+  {
+    "title": "Potential benefits of delaying the second mRNA COVID-19 vaccine dose",
+    "pub_year": 2021,
+    "citation": "arXiv preprint arXiv:2102.13600, 2021",
+    "author": [
+      "Benjamin F Maier",
+      "Angelique Burdinski",
+      "Annika H Rose",
+      "Frank Schlosser",
+      "David Hinrichs",
+      "Cornelia Betsch",
+      "Lars Korn",
+      "Philipp Sprengholz",
+      "Michael Meyer-Hermann",
+      "Tanmay Mitra",
+      "Karl Lauterbach",
+      "Dirk Brockmann"
+    ],
+    "journal": "arXiv preprint arXiv:2102.13600",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 5,
+    "pub_url": "https://arxiv.org/abs/2102.13600"
+  },
+  {
+    "title": "Understanding the impact of digital contact tracing during the COVID-19 pandemic",
+    "pub_year": 2022,
+    "citation": "PLOS Digital Health 1 (12), e0000149, 2022",
+    "author": [
+      "Angelique Burdinski",
+      "Dirk Brockmann",
+      "Benjamin Frank Maier"
+    ],
+    "journal": "PLOS Digital Health",
+    "volume": "1",
+    "number": "12",
+    "pages": "e0000149",
+    "conference": null,
+    "num_citations": 4,
+    "pub_url": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000149"
+  },
+  {
+    "title": "Spreading Processes in Human Systems",
+    "pub_year": 2020,
+    "citation": "Humboldt-Universit\u00e4t zu Berlin, 2020",
+    "author": [
+      "Benjamin F Maier"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 3,
+    "pub_url": "https://edoc.hu-berlin.de/handle/18452/21788"
+  },
+  {
+    "title": "Modular hierarchical and power-law small-world networks bear structural optima for minimal first passage times and cover time",
+    "pub_year": 2019,
+    "citation": "Journal of Complex Networks 7 (6), 865-895, 2019",
+    "author": [
+      "Benjamin F Maier",
+      "Cristi\u00e1n Huepe",
+      "Dirk Brockmann"
+    ],
+    "journal": "Journal of Complex Networks",
+    "volume": "7",
+    "number": "6",
+    "pages": "865-895",
+    "conference": null,
+    "num_citations": 3,
+    "pub_url": "https://academic.oup.com/comnet/article-abstract/7/6/865/5432290"
+  },
+  {
+    "title": "Enhancing global preparedness during an ongoing pandemic from partial and noisy data",
+    "pub_year": 2022,
+    "citation": "medRxiv, 2022.08. 19.22278981, 2022",
+    "author": [
+      "Pascal Klamser",
+      "Valeria d\u2019Andrea",
+      "Francesco Di Lauro",
+      "Adrian Zachariae",
+      "Sebastiano Bontorin",
+      "Antonello di Nardo",
+      "Matthew Hall",
+      "Benjamin F Maier",
+      "Luca Ferretti",
+      "Dirk Brockmann",
+      "Manlio De Domenico"
+    ],
+    "journal": "medRxiv",
+    "volume": null,
+    "number": null,
+    "pages": "2022.08. 19.22278981",
+    "conference": null,
+    "num_citations": 2,
+    "pub_url": "https://www.medrxiv.org/content/10.1101/2022.08.19.22278981.abstract"
+  },
+  {
+    "title": "Absch\u00e4tzung der Infektionswelle durch die SARS-CoV-2 VOC Omikron",
+    "pub_year": 2022,
+    "citation": "Robert Koch Institute 205, 0, 2022",
+    "author": [
+      "Benjamin F Maier",
+      "Angelique Burdinski",
+      "Marc Wiedermann",
+      "Matthias an der Heiden",
+      "Thomas Harder",
+      "Frank Schlosser",
+      "Dirk Brockmann"
+    ],
+    "journal": null,
+    "volume": "205",
+    "number": null,
+    "pages": "0",
+    "conference": null,
+    "num_citations": 2,
+    "pub_url": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Modellierung_Omikronwelle_Bericht.pdf?__blob=publicationFile"
+  },
+  {
+    "title": "Modeling the impact of the Omicron infection wave in Germany",
+    "pub_year": 2023,
+    "citation": "Biology Methods and Protocols 8 (1), bpad005, 2023",
+    "author": [
+      "Benjamin F Maier",
+      "Angelique Burdinski",
+      "Marc Wiedermann",
+      "Annika H Rose",
+      "Frank Schlosser",
+      "Matthias an der Heiden",
+      "Ole Wichmann",
+      "Thomas Harder",
+      "Dirk Brockmann"
+    ],
+    "journal": "Biology Methods and Protocols",
+    "volume": "8",
+    "number": "1",
+    "pages": "bpad005",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://academic.oup.com/biomethods/article-abstract/8/1/bpad005/7082501"
+  },
+  {
+    "title": "Die 4. COVID-19-Welle wurde durch fehlenden Impfschutz angesto\u00dfen: Was ist zu tun?",
+    "pub_year": 2021,
+    "citation": "Robert Koch-Institut, 2021",
+    "author": [
+      "Benjamin F Maier",
+      "Angelique Burdinski",
+      "Pascal Klamser",
+      "Marc Wiedermann",
+      "Mirjam A Jenny",
+      "Cornelia Betsch",
+      "Dirk Brockmann"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://edoc.rki.de/handle/176904/9069"
+  },
+  {
+    "title": "Commentary: A Network Science Summer Course for High School Students",
+    "pub_year": 2020,
+    "citation": "Network Science, 1-13, 2020",
+    "author": [
+      "Florian Klimm",
+      "Benjamin F Maier"
+    ],
+    "journal": "Network Science",
+    "volume": null,
+    "number": null,
+    "pages": "1-13",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://www.cambridge.org/core/journals/network-science/article/commentary-a-network-science-summer-course-for-highschool-students/CFCE737C7A392033AD05E9EDA9FA54CD"
+  },
+  {
+    "title": "Thermophoresis in Liquids and its Connection to Equilibrium Quantities",
+    "pub_year": 2020,
+    "citation": "arXiv preprint arXiv:2001.05556, 2020",
+    "author": [
+      "Benjamin F Maier"
+    ],
+    "journal": "arXiv preprint arXiv:2001.05556",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://arxiv.org/abs/2001.05556"
+  },
+  {
+    "title": "Inferring country-specific import risk of diseases from the world air transportation network",
+    "pub_year": 2023,
+    "citation": "arXiv preprint arXiv:2304.12087, 2023",
+    "author": [
+      "Pascal P Klamser",
+      "Adrian Zachariae",
+      "Benjamin F Maier",
+      "Olga Baranov",
+      "Clara Jongen",
+      "Frank Schlosser",
+      "Dirk Brockmann"
+    ],
+    "journal": "arXiv preprint arXiv:2304.12087",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2304.12087"
+  },
+  {
+    "title": "Simulations of Dyon Configurations in SU (2) Yang-Mills Theory",
+    "pub_year": 2020,
+    "citation": "Humboldt-Universit\u00e4t zu Berlin, 2020",
+    "author": [
+      "Benjamin Frank Maier"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://edoc.hu-berlin.de/handle/18452/21790"
+  },
+  {
+    "title": "Application of Ewald's Method for Efficient Summation of Dyon Long-Range Potentials",
+    "pub_year": 2012,
+    "citation": "arXiv preprint arXiv:1212.5557, 2012",
+    "author": [
+      "Benjamin Maier",
+      "Falk Bruckmann",
+      "Simon Dinter",
+      "Ernst-Michael Ilgenfritz",
+      "Michael Muller-Preussker",
+      "Marc Wagner"
+    ],
+    "journal": "arXiv preprint arXiv:1212.5557",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/1212.5557"
+  },
+  {
+    "title": "Confining dyon gas with finite-volume effects under control",
+    "pub_year": 2012,
+    "citation": "Verhandlungen der Deutschen Physikalischen Gesellschaft, 2012",
+    "author": [
+      "Benjamin Maier",
+      "Michael Mueller-Preussker",
+      "Falk Bruckmann",
+      "Simon Dinter",
+      "Ernst-Michael Ilgenfritz",
+      "Marc Wagner"
+    ],
+    "journal": "Verhandlungen der Deutschen Physikalischen Gesellschaft",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://inis.iaea.org/search/search.aspx?orig_q=RN:44035518"
+  },
+  {
+    "title": "Simulation of dyon ensembles in SU (2) Yang-Mills theory",
+    "pub_year": 2011,
+    "citation": "Verhandlungen der Deutschen Physikalischen Gesellschaft, 2011",
+    "author": [
+      "Benjamin Maier",
+      "Simon Dinter",
+      "Michael Mueller-Preussker",
+      "Marc Wagner",
+      "Falk Bruckmann",
+      "Ernst-Michael Ilgenfritz"
+    ],
+    "journal": "Verhandlungen der Deutschen Physikalischen Gesellschaft",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://inis.iaea.org/search/search.aspx?orig_q=RN:44000380"
+  }
+]

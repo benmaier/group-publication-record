@@ -1,0 +1,630 @@
+[
+  {
+    "title": "Mapping the NFT revolution: market trends, trade networks, and visual features",
+    "pub_year": 2021,
+    "citation": "Scientific reports 11 (1), 20902, 2021",
+    "author": [
+      "Matthieu Nadini",
+      "Laura Alessandretti",
+      "Flavio Di Giacinto",
+      "Mauro Martino",
+      "Luca Maria Aiello",
+      "Andrea Baronchelli"
+    ],
+    "journal": "Scientific reports",
+    "volume": "11",
+    "number": "1",
+    "pages": "20902",
+    "conference": null,
+    "num_citations": 322,
+    "pub_url": "https://www.nature.com/articles/s41598-021-00053-8"
+  },
+  {
+    "title": "Evolutionary dynamics of the cryptocurrency market",
+    "pub_year": 2017,
+    "citation": "Royal Society open science 4 (11), 170623, 2017",
+    "author": [
+      "Abeer ElBahrawy",
+      "Laura Alessandretti",
+      "Anne Kandler",
+      "Romualdo Pastor-Satorras",
+      "Andrea Baronchelli"
+    ],
+    "journal": "Royal Society open science",
+    "volume": "4",
+    "number": "11",
+    "pages": "170623",
+    "conference": null,
+    "num_citations": 275,
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.170623"
+  },
+  {
+    "title": "Anticipating cryptocurrency prices using machine learning",
+    "pub_year": 2018,
+    "citation": "Complexity 2018, 1-16, 2018",
+    "author": [
+      "Laura Alessandretti",
+      "Abeer ElBahrawy",
+      "Luca Maria Aiello",
+      "Andrea Baronchelli"
+    ],
+    "journal": "Complexity",
+    "volume": "2018",
+    "number": null,
+    "pages": "1-16",
+    "conference": null,
+    "num_citations": 225,
+    "pub_url": "https://www.hindawi.com/journals/complexity/2018/8983590/abs/"
+  },
+  {
+    "title": "Evidence for a conserved quantity in human mobility",
+    "pub_year": 2018,
+    "citation": "Nature human behaviour 2 (7), 485-491, 2018",
+    "author": [
+      "Laura Alessandretti",
+      "Piotr Sapiezynski",
+      "Vedran Sekara",
+      "Sune Lehmann",
+      "Andrea Baronchelli"
+    ],
+    "journal": "Nature human behaviour",
+    "volume": "2",
+    "number": "7",
+    "pages": "485-491",
+    "conference": null,
+    "num_citations": 168,
+    "pub_url": "https://www.nature.com/articles/s41562-018-0364-x"
+  },
+  {
+    "title": "The scales of human mobility",
+    "pub_year": 2020,
+    "citation": "Nature 587 (7834), 402-407, 2020",
+    "author": [
+      "Laura Alessandretti",
+      "Ulf Aslak",
+      "Sune Lehmann"
+    ],
+    "journal": "Nature",
+    "volume": "587",
+    "number": "7834",
+    "pages": "402-407",
+    "conference": null,
+    "num_citations": 132,
+    "pub_url": "https://www.nature.com/articles/s41586-020-2909-1"
+  },
+  {
+    "title": "Multi-scale spatio-temporal analysis of human mobility",
+    "pub_year": 2017,
+    "citation": "PLOS ONE, 2017",
+    "author": [
+      "Laura Alessandretti",
+      "Piotr Sapiezynski",
+      "Sune Lehmann",
+      "Andrea Baronchelli"
+    ],
+    "journal": "PLOS ONE",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 76,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171686"
+  },
+  {
+    "title": "Random walks on activity-driven networks with attractiveness",
+    "pub_year": 2017,
+    "citation": "Physical Review E 95 (5), 052318, 2017",
+    "author": [
+      "Laura Alessandretti",
+      "Kaiyuan Sun",
+      "Andrea Baronchelli",
+      "Nicola Perra"
+    ],
+    "journal": "Physical Review E",
+    "volume": "95",
+    "number": "5",
+    "pages": "052318",
+    "conference": null,
+    "num_citations": 48,
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.052318"
+  },
+  {
+    "title": "What human mobility data tell us about COVID-19 spread",
+    "pub_year": 2022,
+    "citation": "Nature Reviews Physics 4 (1), 12-13, 2022",
+    "author": [
+      "Laura Alessandretti"
+    ],
+    "journal": null,
+    "volume": "4",
+    "number": "1",
+    "pages": "12-13",
+    "conference": null,
+    "num_citations": 41,
+    "pub_url": "https://www.nature.com/articles/s42254-021-00407-1"
+  },
+  {
+    "title": "Understanding the interplay between social and spatial behaviour",
+    "pub_year": 2018,
+    "citation": "EPJ Data Science 7 (1), 36, 2018",
+    "author": [
+      "Laura Alessandretti",
+      "Sune Lehmann",
+      "Andrea Baronchelli"
+    ],
+    "journal": "EPJ Data Science",
+    "volume": "7",
+    "number": "1",
+    "pages": "36",
+    "conference": null,
+    "num_citations": 39,
+    "pub_url": "https://epjds.epj.org/articles/epjdata/abs/2018/01/13688_2018_Article_164/13688_2018_Article_164.html"
+  },
+  {
+    "title": "Collective dynamics of dark web marketplaces",
+    "pub_year": 2020,
+    "citation": "Scientific reports 10 (1), 1-8, 2020",
+    "author": [
+      "Abeer ElBahrawy",
+      "Laura Alessandretti",
+      "Leonid Rusnac",
+      "Daniel Goldsmith",
+      "Alexander Teytelboym",
+      "Andrea Baronchelli"
+    ],
+    "journal": "Scientific reports",
+    "volume": "10",
+    "number": "1",
+    "pages": "1-8",
+    "conference": null,
+    "num_citations": 38,
+    "pub_url": "https://link.springer.com/content/pdf/10.1038/s41598-020-74416-y.pdf"
+  },
+  {
+    "title": "User-based representation of time-resolved multimodal public transportation networks",
+    "pub_year": 2016,
+    "citation": "Royal Society open science 3 (7), 160156, 2016",
+    "author": [
+      "Laura Alessandretti",
+      "M\u00e1rton Karsai",
+      "Laetitia Gauvin"
+    ],
+    "journal": "Royal Society open science",
+    "volume": "3",
+    "number": "7",
+    "pages": "160156",
+    "conference": null,
+    "num_citations": 29,
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.160156"
+  },
+  {
+    "title": "Wikipedia and cryptocurrencies: interplay between collective attention and market performance",
+    "pub_year": 2019,
+    "citation": "Frontiers in Blockchain 2, 12, 2019",
+    "author": [
+      "Abeer ElBahrawy",
+      "Laura Alessandretti",
+      "Andrea Baronchelli"
+    ],
+    "journal": "Frontiers in Blockchain",
+    "volume": "2",
+    "number": null,
+    "pages": "12",
+    "conference": null,
+    "num_citations": 22,
+    "pub_url": "https://www.frontiersin.org/articles/10.3389/fbloc.2019.00012/full"
+  },
+  {
+    "title": "Machine learning meets number theory: The data science of Birch-Swinnerton-Dyer",
+    "pub_year": 2019,
+    "citation": "arXiv preprint arXiv:1911.02008, 2019",
+    "author": [
+      "Laura Alessandretti",
+      "Andrea Baronchelli",
+      "Yang-Hui He"
+    ],
+    "journal": "arXiv preprint arXiv:1911.02008",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 20,
+    "pub_url": "https://arxiv.org/abs/1911.02008"
+  },
+  {
+    "title": "Understanding components of mobility during the COVID-19 pandemic",
+    "pub_year": 2022,
+    "citation": "Philosophical Transactions of the Royal Society A 380 (2214), 20210118, 2022",
+    "author": [
+      "Peter Edsberg M\u00f8llgaard",
+      "Sune Lehmann",
+      "Laura Alessandretti"
+    ],
+    "journal": "Philosophical Transactions of the Royal Society A",
+    "volume": "380",
+    "number": "2214",
+    "pages": "20210118",
+    "conference": null,
+    "num_citations": 19,
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2021.0118"
+  },
+  {
+    "title": "Heterogeneous rarity patterns drive price dynamics in NFT collections",
+    "pub_year": 2022,
+    "citation": "Scientific reports 12 (1), 1-9, 2022",
+    "author": [
+      "Amin Mekacher",
+      "Alberto Bracci",
+      "Matthieu Nadini",
+      "Mauro Martino",
+      "Laura Alessandretti",
+      "Luca Maria Aiello",
+      "Andrea Baronchelli"
+    ],
+    "journal": "Scientific reports",
+    "volume": "12",
+    "number": "1",
+    "pages": "1-9",
+    "conference": null,
+    "num_citations": 18,
+    "pub_url": "https://link.springer.com/content/pdf/10.1038/s41598-022-17922-5.pdf"
+  },
+  {
+    "title": "From Reddit to Wall Street: the role of committed minorities in financial collective action",
+    "pub_year": 2022,
+    "citation": "Royal Society Open Science 9 (4), 211488, 2022",
+    "author": [
+      "Lorenzo Lucchini",
+      "Luca Maria Aiello",
+      "Laura Alessandretti",
+      "Gianmarco De Francisci Morales",
+      "Michele Starnini",
+      "Andrea Baronchelli"
+    ],
+    "journal": "Royal Society Open Science",
+    "volume": "9",
+    "number": "4",
+    "pages": "211488",
+    "conference": null,
+    "num_citations": 13,
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.211488"
+  },
+  {
+    "title": "Infostop: scalable stop-location detection in multi-user mobility data",
+    "pub_year": 2020,
+    "citation": "arXiv preprint arXiv:2003.14370, 2020",
+    "author": [
+      "Ulf Aslak",
+      "Laura Alessandretti"
+    ],
+    "journal": "arXiv preprint arXiv:2003.14370",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 13,
+    "pub_url": "https://arxiv.org/abs/2003.14370"
+  },
+  {
+    "title": "From code to market: Network of developers and correlated returns of cryptocurrencies",
+    "pub_year": 2020,
+    "citation": "Science Advances 6 (51), eabd2204, 2020",
+    "author": [
+      "Lorenzo Lucchini",
+      "Laura Alessandretti",
+      "Bruno Lepri",
+      "Angela Gallo",
+      "Andrea Baronchelli"
+    ],
+    "journal": "Science Advances",
+    "volume": "6",
+    "number": "51",
+    "pages": "eabd2204",
+    "conference": null,
+    "num_citations": 11,
+    "pub_url": "https://www.science.org/doi/abs/10.1126/sciadv.abd2204"
+  },
+  {
+    "title": "How rarity shapes the NFT market",
+    "pub_year": 2022,
+    "citation": "arXiv preprint arXiv:2204.10243, 2022",
+    "author": [
+      "Amin Mekacher",
+      "Alberto Bracci",
+      "Matthieu Nadini",
+      "Mauro Martino",
+      "Laura Alessandretti",
+      "Luca Maria Aiello",
+      "Andrea Baronchelli"
+    ],
+    "journal": "arXiv preprint arXiv:2204.10243",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 10,
+    "pub_url": "https://arxiv.org/abs/2204.10243"
+  },
+  {
+    "title": "Temporal and cultural limits of privacy in smartphone app usage",
+    "pub_year": 2021,
+    "citation": "Scientific reports 11 (1), 1-9, 2021",
+    "author": [
+      "Vedran Sekara",
+      "Laura Alessandretti",
+      "Enys Mones",
+      "H\u00e5kan Jonsson"
+    ],
+    "journal": "Scientific reports",
+    "volume": "11",
+    "number": "1",
+    "pages": "1-9",
+    "conference": null,
+    "num_citations": 8,
+    "pub_url": "https://link.springer.com/content/pdf/10.1038/s41598-021-82294-1.pdf"
+  },
+  {
+    "title": "Multimodal urban mobility and multilayer transport networks",
+    "pub_year": 2022,
+    "citation": "Environment and Planning B: Urban Analytics and City Science, 23998083221108190, 2022",
+    "author": [
+      "Laura Alessandretti",
+      "Luis Guillermo Natera Orozco",
+      "Meead Saberi",
+      "Michael Szell",
+      "Federico Battiston"
+    ],
+    "journal": "Environment and Planning B: Urban Analytics and City Science",
+    "volume": null,
+    "number": null,
+    "pages": "23998083221108190",
+    "conference": null,
+    "num_citations": 5,
+    "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/23998083221108190"
+  },
+  {
+    "title": "Multimodal urban mobility and multilayer transport networks",
+    "pub_year": 2021,
+    "citation": "arXiv preprint arXiv:2111.02152, 2021",
+    "author": [
+      "Luis Guillermo Natera Orozco",
+      "Laura Alessandretti",
+      "Meead Saberi",
+      "Michael Szell",
+      "Federico Battiston"
+    ],
+    "journal": "arXiv preprint arXiv:2111.02152",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 4,
+    "pub_url": "https://arxiv.org/abs/2111.02152"
+  },
+  {
+    "title": "Individual mobility in context: From high resolution trajectories to social behaviour",
+    "pub_year": 2018,
+    "citation": "City, University of London, 2018",
+    "author": [
+      "L Alessandretti"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 3,
+    "pub_url": "https://openaccess.city.ac.uk/id/eprint/20077/"
+  },
+  {
+    "title": "A new computational model for human navigation",
+    "pub_year": 2021,
+    "citation": "Nature Computational Science 1 (10), 642-643, 2021",
+    "author": [
+      "Laura Alessandretti"
+    ],
+    "journal": "Nature Computational Science",
+    "volume": "1",
+    "number": "10",
+    "pages": "642-643",
+    "conference": null,
+    "num_citations": 2,
+    "pub_url": "https://www.nature.com/articles/s43588-021-00118-8"
+  },
+  {
+    "title": "Crypocurrency co-investment network: token returns reflect investment patterns",
+    "pub_year": 2023,
+    "citation": "arXiv preprint arXiv:2301.02027, 2023",
+    "author": [
+      "Luca Mungo",
+      "Bartolucci Silvia",
+      "Laura Alessandretti"
+    ],
+    "journal": "arXiv preprint arXiv:2301.02027",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://arxiv.org/abs/2301.02027"
+  },
+  {
+    "title": "Multimodal urban mobility and multilayer transport networks",
+    "pub_year": 2021,
+    "citation": "arXiv e-prints, arXiv: 2111.02152, 2021",
+    "author": [
+      "Luis Guillermo Natera Orozco",
+      "Laura Alessandretti",
+      "Meead Saberi",
+      "Michael Szell",
+      "Federico Battiston"
+    ],
+    "journal": "arXiv e-prints",
+    "volume": null,
+    "number": null,
+    "pages": "arXiv: 2111.02152",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211102152N/abstract"
+  },
+  {
+    "title": "Trip frequency is key ingredient in new law of human travel",
+    "pub_year": 2021,
+    "citation": "Nature 593 (7860), 515-516, 2021",
+    "author": [
+      "Laura Alessandretti",
+      "Sune Lehmann"
+    ],
+    "journal": null,
+    "volume": "593",
+    "number": "7860",
+    "pages": "515-516",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://www.nature.com/articles/d41586-021-01355-7/feed/"
+  },
+  {
+    "title": "Law of human travel uncovered",
+    "pub_year": 2021,
+    "citation": "Nature 593 (7860), 515-516, 2021",
+    "author": [
+      "Laura Alessandretti",
+      "Sune Lehmann J\u00f8rgensen"
+    ],
+    "journal": "Nature",
+    "volume": "593",
+    "number": "7860",
+    "pages": "515-516",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://orbit.dtu.dk/en/publications/law-of-human-travel-uncovered"
+  },
+  {
+    "title": "Gender-specific behavior change following terror attacks",
+    "pub_year": 2020,
+    "citation": "arXiv preprint arXiv:2004.02957, 2020",
+    "author": [
+      "Jonas S Juul",
+      "Laura Alessandretti",
+      "Jesper Dammeyer",
+      "Ingo Zettler",
+      "Sune Lehmann",
+      "Joachim Mathiesen"
+    ],
+    "journal": "arXiv preprint arXiv:2004.02957",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://arxiv.org/abs/2004.02957"
+  },
+  {
+    "title": "Group-specific behavior change following terror attacks",
+    "pub_year": 2023,
+    "citation": "Journal of Computational Social Science 6 (1), 1-18, 2023",
+    "author": [
+      "Jonas L Juul",
+      "Laura Alessandretti",
+      "Jesper Dammeyer",
+      "Ingo Zettler",
+      "Sune Lehmann",
+      "Joachim Mathiesen"
+    ],
+    "journal": "Journal of Computational Social Science",
+    "volume": "6",
+    "number": "1",
+    "pages": "1-18",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/article/10.1007/s42001-022-00188-2"
+  },
+  {
+    "title": "Network approach for the analysis of the irreversible deformation of solids with soft heterogeneities",
+    "pub_year": 2022,
+    "citation": "Physical Review Materials 6 (11), L110601, 2022",
+    "author": [
+      "Tito Andriollo",
+      "Varvara Kouznetsova",
+      "Laura Alessandretti"
+    ],
+    "journal": "Physical Review Materials",
+    "volume": "6",
+    "number": "11",
+    "pages": "L110601",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.L110601"
+  },
+  {
+    "title": "Urban Mobility",
+    "pub_year": 2022,
+    "citation": "arXiv preprint arXiv:2211.00355, 2022",
+    "author": [
+      "Laura Alessandretti",
+      "Michael Szell"
+    ],
+    "journal": "arXiv preprint arXiv:2211.00355",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2211.00355"
+  },
+  {
+    "title": "From centre to centres: polycentric structures in individual mobility",
+    "pub_year": 2021,
+    "citation": "arXiv preprint arXiv:2108.08113, 2021",
+    "author": [
+      "Rohit Sahasrabuddhe",
+      "Renaud Lambiotte",
+      "Laura Alessandretti"
+    ],
+    "journal": "arXiv preprint arXiv:2108.08113",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2108.08113"
+  },
+  {
+    "title": "ORCID: 0000-0002-0255-0829 (2019)",
+    "pub_year": null,
+    "citation": "Collective Dynamics of Dark Web Marketplaces. City, Univeristy of London \u2026, 0",
+    "author": [
+      "A ElBahrawy",
+      "L Alessandretti",
+      "L Rusnac",
+      "D Goldsmith",
+      "A Teytelboym",
+      "A Baronchelli"
+    ],
+    "journal": "Collective Dynamics of Dark Web Marketplaces. City, Univeristy of London. This is the draft version of the paper. This version of the publication may differ from the final published version",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://core.ac.uk/download/pdf/266990049.pdf"
+  },
+  {
+    "title": "Multi-Scale Spatio-Temporal Analysis of Human Mobility Supporting Information",
+    "pub_year": null,
+    "citation": "",
+    "author": [
+      "Laura Alessandretti",
+      "Piotr Sapiezynski",
+      "Sune Lehmann",
+      "Andrea Baronchelli"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "http://pstorage-plos-3567654.s3.amazonaws.com/7598671/S1File.pdf"
+  }
+]

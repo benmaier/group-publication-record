@@ -1,0 +1,505 @@
+[
+  {
+    "title": "Early warnings of cyber threats in online discussions",
+    "pub_year": 2017,
+    "citation": "2017 IEEE International Conference on Data Mining Workshops (ICDMW), 667-674, 2017",
+    "author": [
+      "Anna Sapienza",
+      "Alessandro Bessi",
+      "Saranya Damodaran",
+      "Paulo Shakarian",
+      "Kristina Lerman",
+      "Emilio Ferrara"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "667-674",
+    "conference": "2017 IEEE International Conference on Data Mining Workshops (ICDMW)",
+    "num_citations": 91,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8215726/"
+  },
+  {
+    "title": "Discover: Mining online chatter for emerging cyber threats",
+    "pub_year": 2018,
+    "citation": "Companion Proceedings of the The Web Conference 2018, 983-990, 2018",
+    "author": [
+      "Anna Sapienza",
+      "Sindhu Kiranmai Ernala",
+      "Alessandro Bessi",
+      "Kristina Lerman",
+      "Emilio Ferrara"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "983-990",
+    "conference": null,
+    "num_citations": 61,
+    "pub_url": "https://dl.acm.org/doi/abs/10.1145/3184558.3191528"
+  },
+  {
+    "title": "Does streaming esports affect players\u2019 behavior and performance?",
+    "pub_year": 2020,
+    "citation": "Games and Culture 15 (1), 9-31, 2020",
+    "author": [
+      "Akira Matsui",
+      "Anna Sapienza",
+      "Emilio Ferrara"
+    ],
+    "journal": "Games and Culture",
+    "volume": "15",
+    "number": "1",
+    "pages": "9-31",
+    "conference": null,
+    "num_citations": 46,
+    "pub_url": "https://journals.sagepub.com/doi/pdf/10.1177/1555412019838095"
+  },
+  {
+    "title": "Individual performance in team-based online games",
+    "pub_year": 2018,
+    "citation": "Royal Society open science 5 (6), 180329, 2018",
+    "author": [
+      "Anna Sapienza",
+      "Yilei Zeng",
+      "Alessandro Bessi",
+      "Kristina Lerman",
+      "Emilio Ferrara"
+    ],
+    "journal": "Royal Society open science",
+    "volume": "5",
+    "number": "6",
+    "pages": "180329",
+    "conference": null,
+    "num_citations": 45,
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.180329"
+  },
+  {
+    "title": "Non-negative tensor factorization for human behavioral pattern mining in online games",
+    "pub_year": 2018,
+    "citation": "Information 9 (3), 66, 2018",
+    "author": [
+      "Anna Sapienza",
+      "Alessandro Bessi",
+      "Emilio Ferrara"
+    ],
+    "journal": "Information",
+    "volume": "9",
+    "number": "3",
+    "pages": "66",
+    "conference": null,
+    "num_citations": 43,
+    "pub_url": "https://www.mdpi.com/273168"
+  },
+  {
+    "title": "Deep neural networks for optimal team composition",
+    "pub_year": 2019,
+    "citation": "Frontiers in big Data 2, 14, 2019",
+    "author": [
+      "Anna Sapienza",
+      "Palash Goyal",
+      "Emilio Ferrara"
+    ],
+    "journal": "Frontiers in big Data",
+    "volume": "2",
+    "number": null,
+    "pages": "14",
+    "conference": null,
+    "num_citations": 37,
+    "pub_url": "https://www.frontiersin.org/articles/10.3389/fdata.2019.00014/full"
+  },
+  {
+    "title": "Recommending teammates with deep neural networks",
+    "pub_year": 2018,
+    "citation": "Proceedings of the 29th on Hypertext and Social Media, 57-61, 2018",
+    "author": [
+      "Palash Goyal",
+      "Anna Sapienza",
+      "Emilio Ferrara"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "57-61",
+    "conference": null,
+    "num_citations": 23,
+    "pub_url": "https://dl.acm.org/doi/abs/10.1145/3209542.3209569"
+  },
+  {
+    "title": "Discovering patterns of online popularity from time series",
+    "pub_year": 2020,
+    "citation": "Expert Systems with Applications 151, 113337, 2020",
+    "author": [
+      "Mert Ozer",
+      "Anna Sapienza",
+      "Andr\u00e9s Abeliuk",
+      "Goran Muric",
+      "Emilio Ferrara"
+    ],
+    "journal": "Expert Systems with Applications",
+    "volume": "151",
+    "number": null,
+    "pages": "113337",
+    "conference": null,
+    "num_citations": 21,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0957417420301627"
+  },
+  {
+    "title": "Performance dynamics and success in online games",
+    "pub_year": 2017,
+    "citation": "2017 IEEE International Conference on Data Mining Workshops (ICDMW), 902-909, 2017",
+    "author": [
+      "Anna Sapienza",
+      "Hao Peng",
+      "Emilio Ferrara"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "902-909",
+    "conference": "2017 IEEE International Conference on Data Mining Workshops (ICDMW)",
+    "num_citations": 20,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8215758/"
+  },
+  {
+    "title": "Detecting anomalies in time-varying networks using tensor decomposition",
+    "pub_year": 2015,
+    "citation": "2015 IEEE international conference on data mining workshop (ICDMW), 516-523, 2015",
+    "author": [
+      "Anna Sapienza",
+      "Andr\u00e9 Panisson",
+      "Joseph Wu",
+      "Laetitia Gauvin",
+      "Ciro Cattuto"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "516-523",
+    "conference": "2015 IEEE international conference on data mining workshop (ICDMW)",
+    "num_citations": 17,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7395712/"
+  },
+  {
+    "title": "Rac signal adaptation controls neutrophil mobilization from the bone marrow",
+    "pub_year": 2016,
+    "citation": "Science Signaling 9 (459), ra124-ra124, 2016",
+    "author": [
+      "Carlo Cosimo Campa",
+      "Giulia Germena",
+      "Elisa Ciraolo",
+      "Francesca Copperi",
+      "Anna Sapienza",
+      "Irene Franco",
+      "Alessandra Ghigo",
+      "Annalisa Camporeale",
+      "Augusta Di Savino",
+      "Miriam Martini",
+      "Alessia Perino",
+      "Remco TA Megens",
+      "Angela RM Kurz",
+      "Christoph Scheiermann",
+      "Markus Sperandio",
+      "Andrea Gamba",
+      "Emilio Hirsch"
+    ],
+    "journal": "Science Signaling",
+    "volume": "9",
+    "number": "459",
+    "pages": "ra124-ra124",
+    "conference": null,
+    "num_citations": 16,
+    "pub_url": "https://www.science.org/doi/abs/10.1126/scisignal.aah5882"
+  },
+  {
+    "title": "Massive multi-agent data-driven simulations of the github ecosystem",
+    "pub_year": 2019,
+    "citation": "Advances in Practical Applications of Survivable Agents and Multi-Agent \u2026, 2019",
+    "author": [
+      "Jim Blythe",
+      "John Bollenbacher",
+      "Di Huang",
+      "Pik-Mai Hui",
+      "Rachel Krohn",
+      "Diogo Pacheco",
+      "Goran Muric",
+      "Anna Sapienza",
+      "Alexey Tregubov",
+      "Yong-Yeol Ahn",
+      "Alessandro Flammini",
+      "Kristina Lerman",
+      "Filippo Menczer",
+      "Tim Weninger",
+      "Emilio Ferrara"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "3-15",
+    "conference": "Advances in Practical Applications of Survivable Agents and Multi-Agent Systems: The PAAMS Collection: 17th International Conference, PAAMS 2019, \u00c1vila, Spain, June 26\u201328, 2019, Proceedings 17",
+    "num_citations": 13,
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-24209-1_1"
+  },
+  {
+    "title": "Estimating the outcome of spreading processes on networks with incomplete information: A dimensionality reduction approach",
+    "pub_year": 2018,
+    "citation": "Physical Review E 98 (1), 012317, 2018",
+    "author": [
+      "Anna Sapienza",
+      "Alain Barrat",
+      "Ciro Cattuto",
+      "Laetitia Gauvin"
+    ],
+    "journal": "Physical Review E",
+    "volume": "98",
+    "number": "1",
+    "pages": "012317",
+    "conference": null,
+    "num_citations": 13,
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.012317"
+  },
+  {
+    "title": "The influence of social ties on performance in team-based online games",
+    "pub_year": 2019,
+    "citation": "IEEE Transactions on Games 13 (4), 358-367, 2019",
+    "author": [
+      "Yilei Zeng",
+      "Anna Sapienza",
+      "Emilio Ferrara"
+    ],
+    "journal": "IEEE Transactions on Games",
+    "volume": "13",
+    "number": "4",
+    "pages": "358-367",
+    "conference": null,
+    "num_citations": 12,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8737784/"
+  },
+  {
+    "title": "The DARPA SocialSim Challenge: Massive Multi-Agent Simulations of the Github Ecosystem.",
+    "pub_year": 2019,
+    "citation": "AAMAS, 1835-1837, 2019",
+    "author": [
+      "James Blythe",
+      "Emilio Ferrara",
+      "Di Huang",
+      "Kristina Lerman",
+      "Goran Muric",
+      "Anna Sapienza",
+      "Alexey Tregubov",
+      "Diogo Pacheco",
+      "John Bollenbacher",
+      "Alessandro Flammini",
+      "Pik-Mai Hui",
+      "Filippo Menczer"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "1835-1837",
+    "conference": "AAMAS",
+    "num_citations": 12,
+    "pub_url": "https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1835.pdf"
+  },
+  {
+    "title": "Anomaly detection in temporal graph data: An iterative tensor decomposition and masking approach",
+    "pub_year": 2015,
+    "citation": "International Workshop on Advanced Analytics and Learning on Temporal Data \u2026, 2015",
+    "author": [
+      "Anna Sapienza",
+      "Andr\u00e9 Panisson",
+      "JTK Wu",
+      "Laetitia Gauvin",
+      "Ciro Cattuto"
+    ],
+    "journal": "International Workshop on Advanced Analytics and Learning on Temporal Data, AALTD 2015",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 11,
+    "pub_url": "https://hub.hku.hk/handle/10722/248213"
+  },
+  {
+    "title": "Personality and behavior in role-based online games",
+    "pub_year": 2019,
+    "citation": "2019 IEEE Conference on Games (CoG), 1-8, 2019",
+    "author": [
+      "Zhao Wang",
+      "Anna Sapienza",
+      "Aron Culotta",
+      "Emilio Ferrara"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "1-8",
+    "conference": "2019 IEEE Conference on Games (CoG)",
+    "num_citations": 10,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8848027/"
+  },
+  {
+    "title": "Wearable proximity sensors for monitoring a mass casualty incident exercise: feasibility study",
+    "pub_year": 2019,
+    "citation": "Journal of medical internet research 21 (4), e12251, 2019",
+    "author": [
+      "Laura Ozella",
+      "Laetitia Gauvin",
+      "Luca Carenzo",
+      "Marco Quaggiotto",
+      "Pier Luigi Ingrassia",
+      "Michele Tizzoni",
+      "Andr\u00e9 Panisson",
+      "Davide Colombo",
+      "Anna Sapienza",
+      "Kyriaki Kalimeri",
+      "Francesco Della Corte",
+      "Ciro Cattuto"
+    ],
+    "journal": "Journal of medical internet research",
+    "volume": "21",
+    "number": "4",
+    "pages": "e12251",
+    "conference": null,
+    "num_citations": 10,
+    "pub_url": "https://www.jmir.org/2019/4/e12251/"
+  },
+  {
+    "title": "Extracting the multi-timescale activity patterns of online financial markets",
+    "pub_year": 2018,
+    "citation": "Scientific Reports 8 (1), 11184, 2018",
+    "author": [
+      "Teruyoshi Kobayashi",
+      "Anna Sapienza",
+      "Emilio Ferrara"
+    ],
+    "journal": "Scientific Reports",
+    "volume": "8",
+    "number": "1",
+    "pages": "11184",
+    "conference": null,
+    "num_citations": 5,
+    "pub_url": "https://www.nature.com/articles/s41598-018-29537-w"
+  },
+  {
+    "title": "A view from data science",
+    "pub_year": 2021,
+    "citation": "Big Data & Society 8 (2), 20539517211040198, 2021",
+    "author": [
+      "Anna Sapienza",
+      "Sune Lehmann"
+    ],
+    "journal": "Big Data & Society",
+    "volume": "8",
+    "number": "2",
+    "pages": "20539517211040198",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://journals.sagepub.com/doi/pdf/10.1177/20539517211040198"
+  },
+  {
+    "title": "A view from data science",
+    "pub_year": 2021,
+    "citation": "",
+    "author": [
+      "Sune Lehmann",
+      "Anna Sapienza"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://philpapers.org/rec/LEHAVF"
+  },
+  {
+    "title": "Playing under the influence (of Twitch) : The effects of streaming on gamers\u2019 performance.",
+    "pub_year": 2018,
+    "citation": "E-sports Conference, 2018",
+    "author": [
+      "Akira Matsui",
+      "Anna Sapienza",
+      "Emilio Ferrara"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": "E-sports Conference",
+    "num_citations": 0,
+    "pub_url": null
+  },
+  {
+    "title": "Tensor decomposition techniques for analysing time-varying networks",
+    "pub_year": 2017,
+    "citation": "Politecnico di Torino, 2017",
+    "author": [
+      "Anna Sapienza"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": null
+  },
+  {
+    "title": "Anomaly detection in temporal graph data: An iterative tensor",
+    "pub_year": 2015,
+    "citation": "",
+    "author": [
+      "A Sapienza",
+      "A Panisson",
+      "JTK Wu",
+      "L Gauvin",
+      "C Cattuto"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://core.ac.uk/download/pdf/129920900.pdf"
+  },
+  {
+    "title": "Early Warning Generation for Cyber Threats from Online Discussions",
+    "pub_year": null,
+    "citation": "",
+    "author": [
+      "Alessandro Bessi",
+      "Anna Sapienza",
+      "Kristina Lerman",
+      "Paulo Shakarian",
+      "Emilio Ferrara"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://usc-isi-i2.github.io/papers/kristina01.pdf"
+  },
+  {
+    "title": "Discovering patterns of online popularity from time series-Supplementary Material",
+    "pub_year": null,
+    "citation": "",
+    "author": [
+      "Mert Ozer",
+      "Anna Sapienza",
+      "Andr\u00e9s Abeliuk",
+      "Goran Muric",
+      "Emilio Ferrara"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://scholar.google.com/scholar?cluster=169637625181639060&hl=en&oi=scholarr"
+  }
+]

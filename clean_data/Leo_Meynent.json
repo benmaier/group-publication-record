@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Distribution inference risks: Identifying and mitigating sources of leakage",
+    "pub_year": 2022,
+    "citation": "arXiv preprint arXiv:2209.08541, 2022",
+    "author": [
+      "Valentin Hartmann",
+      "L\u00e9o Meynent",
+      "Maxime Peyrard",
+      "Dimitrios Dimitriadis",
+      "Shruti Tople",
+      "Robert West"
+    ],
+    "journal": "arXiv preprint arXiv:2209.08541",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 3,
+    "pub_url": "https://arxiv.org/abs/2209.08541"
+  }
+]

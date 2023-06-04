@@ -1,0 +1,714 @@
+[
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Early warnings of cyber threats in online discussions",
+      "pub_year": 2017,
+      "citation": "2017 IEEE International Conference on Data Mining Workshops (ICDMW), 667-674, 2017",
+      "author": "Anna Sapienza and Alessandro Bessi and Saranya Damodaran and Paulo Shakarian and Kristina Lerman and Emilio Ferrara",
+      "conference": "2017 IEEE International Conference on Data Mining Workshops (ICDMW)",
+      "pages": "667-674",
+      "publisher": "IEEE",
+      "abstract": "We introduce a system for automatically generating warnings of imminent or current cyber-threats. Our system leverages the communication of malicious actors on the darkweb, as well as activity of cyber security experts on social media platforms like Twitter. In a time period between September, 2016 and January, 2017, our method generated 661 alerts of which about 84% were relevant to current or imminent cyber-threats. In the paper, we first illustrate the rationale and workflow of our system, then we measure its performance. Our analysis is enriched by two case studies: the first shows how the method could predict DDoS attacks, and how it would have allowed organizations to prepare for the Mirai attacks that caused widespread disruption in October 2016. Second, we discuss the method's timely identification of various instances of data breaches."
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:IjCSPb-OGe4C",
+    "num_citations": 91,
+    "citedby_url": "/scholar?hl=en&cites=15875393483366998262",
+    "cites_id": [
+      "15875393483366998262"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8215726/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9iCk_UK6UNwJ:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 8,
+      "2019": 17,
+      "2020": 24,
+      "2021": 24,
+      "2022": 11,
+      "2023": 6
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Discover: Mining online chatter for emerging cyber threats",
+      "pub_year": 2018,
+      "citation": "Companion Proceedings of the The Web Conference 2018, 983-990, 2018",
+      "author": "Anna Sapienza and Sindhu Kiranmai Ernala and Alessandro Bessi and Kristina Lerman and Emilio Ferrara",
+      "pages": "983-990",
+      "abstract": "Widespread adoption of networking technologies has brought about tremendous economic and social growth, but also exposed individuals and organization to new threats from malicious cyber actors. Recent attacks by WannaCry and NotPetya ransomware crypto-worms, infected hundreds of thousands of computer systems world wide, compromising data and critical infrastructure. In order to limit their impact, it is, therefore, critical to detect---and even predict---cyber attacks before they spread. Here, we introduce DISCOVER, an early cyber threat warning system, that mines online chatter from cyber actors on social media, security blogs, and darkweb forums, to identify words that signal potential cyber attacks. We evaluate DISCOVER and find that it can identify terms related to emerging cyber threats with precision above $80%$. DISCOVER also generates a time line of related online discussions on different Web \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:Tyk-4Ss8FVUC",
+    "num_citations": 61,
+    "citedby_url": "/scholar?hl=en&cites=14722590236332163217",
+    "cites_id": [
+      "14722590236332163217"
+    ],
+    "pub_url": "https://dl.acm.org/doi/abs/10.1145/3184558.3191528",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kYA2-tAlUcwJ:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 3,
+      "2019": 12,
+      "2020": 19,
+      "2021": 12,
+      "2022": 7,
+      "2023": 8
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Does streaming esports affect players\u2019 behavior and performance?",
+      "pub_year": 2020,
+      "citation": "Games and Culture 15 (1), 9-31, 2020",
+      "author": "Akira Matsui and Anna Sapienza and Emilio Ferrara",
+      "journal": "Games and Culture",
+      "volume": "15",
+      "number": "1",
+      "pages": "9-31",
+      "publisher": "SAGE Publications",
+      "abstract": "In this work, we analyze what effect streaming gameplay on Twitch has on players\u2019 in-game behavior and performance. We hypothesized that streaming can act as a form of implicit incentive to boost players\u2019 performance and engagement. To test this hypothesis, we continuously collected data about all Twitch streams related to a popular Multiplayer Online Battle Arena (MOBA) game, League of Legends (LoL), and data of all LoL matches played during the same time frame, and cross-mapped the two data sets. We found that, counterintuitively, streaming significantly deteriorates players\u2019 in-game performance: This may be due to the burden of carrying out two cognitively intensive activities at the same time, namely, playing the game and producing its commentary for streaming purposes. On the other hand, streaming increases engagement keeping players in significantly longer game sessions. We investigate these \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:hqOjcs7Dif8C",
+    "num_citations": 46,
+    "citedby_url": "/scholar?hl=en&cites=16467644343008541022",
+    "cites_id": [
+      "16467644343008541022"
+    ],
+    "pub_url": "https://journals.sagepub.com/doi/pdf/10.1177/1555412019838095",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Xrl-2EfTiOQJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 2,
+      "2020": 7,
+      "2021": 14,
+      "2022": 17,
+      "2023": 5
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Individual performance in team-based online games",
+      "pub_year": 2018,
+      "citation": "Royal Society open science 5 (6), 180329, 2018",
+      "author": "Anna Sapienza and Yilei Zeng and Alessandro Bessi and Kristina Lerman and Emilio Ferrara",
+      "journal": "Royal Society open science",
+      "volume": "5",
+      "number": "6",
+      "pages": "180329",
+      "publisher": "The Royal Society Publishing",
+      "abstract": "Complex real-world challenges are often solved through teamwork. Of special interest are ad hoc teams assembled to complete some task. Many popular multiplayer online battle arena (MOBA) video-games adopt this team formation strategy and thus provide a natural environment to study ad hoc teams. Our work examines data from a popular MOBA game, League of Legends, to understand the evolution of individual performance within ad hoc teams. Our analysis of player performance in successive matches of a gaming session demonstrates that a player\u2019s success deteriorates over the course of the session, but this effect is mitigated by the player\u2019s experience. We also find no significant long-term improvement in the individual performance of most players. Modelling the short-term performance dynamics allows us to accurately predict when players choose to continue to play or end the session. Our findings \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:W7OEmFMy1HYC",
+    "num_citations": 45,
+    "citedby_url": "/scholar?hl=en&cites=17012553778146502565",
+    "cites_id": [
+      "17012553778146502565"
+    ],
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.180329",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:peemXIa7GOwJ:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 1,
+      "2019": 6,
+      "2020": 8,
+      "2021": 14,
+      "2022": 11,
+      "2023": 4
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Non-negative tensor factorization for human behavioral pattern mining in online games",
+      "pub_year": 2018,
+      "citation": "Information 9 (3), 66, 2018",
+      "author": "Anna Sapienza and Alessandro Bessi and Emilio Ferrara",
+      "journal": "Information",
+      "volume": "9",
+      "number": "3",
+      "pages": "66",
+      "publisher": "MDPI",
+      "abstract": "Multiplayer online battle arena is a genre of online games that has become extremely popular. Due to their success, these games also drew the attention of our research community, because they provide a wealth of information about human online interactions and behaviors. A crucial problem is the extraction of activity patterns that characterize this type of data, in an interpretable way. Here, we leverage the Non-negative Tensor Factorization to detect hidden correlated behaviors of playing in a well-known game: League of Legends. To this aim, we collect the entire gaming history of a group of about 1000 players, which accounts for roughly 100K matches. By applying our framework we are able to separate players into different groups. We show that each group exhibits similar features and playing strategies, as well as similar temporal trajectories, i.e., behavioral progressions over the course of their gaming history. We surprisingly discover that playing strategies are stable over time and we provide an explanation for this observation."
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:d1gkVwhDpl0C",
+    "num_citations": 43,
+    "citedby_url": "/scholar?hl=en&cites=14547477121110905128",
+    "cites_id": [
+      "14547477121110905128"
+    ],
+    "pub_url": "https://www.mdpi.com/273168",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KBHwpV0F48kJ:scholar.google.com/",
+    "cites_per_year": {
+      "2017": 2,
+      "2018": 5,
+      "2019": 10,
+      "2020": 13,
+      "2021": 9,
+      "2022": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Deep neural networks for optimal team composition",
+      "pub_year": 2019,
+      "citation": "Frontiers in big Data 2, 14, 2019",
+      "author": "Anna Sapienza and Palash Goyal and Emilio Ferrara",
+      "journal": "Frontiers in big Data",
+      "volume": "2",
+      "pages": "14",
+      "publisher": "Frontiers Media SA",
+      "abstract": "Cooperation is a fundamental social mechanism, whose effects on human performance have been investigated in several environments. Online games are modern-days natural settings in which cooperation strongly affects human behavior. Every day, millions of players connect and play together in team-based games: the patterns of cooperation can either foster or hinder individual skill learning and performance. This work has three goals: (i) identifying teammates' influence on players' performance in the short and long term, (ii) designing a computational framework to recommend teammates to improve players' performance, and (iii) setting to demonstrate that such improvements can be predicted via deep learning. We leverage a large dataset from Dota 2, a popular Multiplayer Online Battle Arena game. We generate a directed co-play network, whose links' weights depict the effect of teammates on players' performance. Specifically, we propose a measure of network influence that captures skill transfer from player to player over time. We then use such framing to design a recommendation system to suggest new teammates based on a modified deep neural autoencoder and we demonstrate its state-of-the-art recommendation performance. We finally provide insights into skill transfer effects: our experimental results demonstrate that such dynamics can be predicted using deep neural networks."
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:Y0pCki6q_DkC",
+    "num_citations": 37,
+    "citedby_url": "/scholar?hl=en&cites=4139660280386257958,4229157856285639963",
+    "cites_id": [
+      "4139660280386257958",
+      "4229157856285639963"
+    ],
+    "pub_url": "https://www.frontiersin.org/articles/10.3389/fdata.2019.00014/full",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:JoQ3lxcHczkJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 3,
+      "2020": 7,
+      "2021": 10,
+      "2022": 14,
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Recommending teammates with deep neural networks",
+      "pub_year": 2018,
+      "citation": "Proceedings of the 29th on Hypertext and Social Media, 57-61, 2018",
+      "author": "Palash Goyal and Anna Sapienza and Emilio Ferrara",
+      "pages": "57-61",
+      "abstract": "The effects of team collaboration on performance have been explored in a variety of settings. Online games enable people with significantly different skills to cooperate and compete within a shared context. Players can affect teammates' performance either via direct communication or by influencing teammates' actions. Understanding such effects can help us provide insights into human behavior as well as make team recommendations. In this work, we aim at recommending teammates to each individual player for maximal skill growth. We study the effect of collaboration in online games using a large dataset from Dota 2, a popular Multiplayer Online Battle Arena game. To this aim, we construct an online co-play teammate network of players, whose links are weighted based on the gain in skill achieved due to team collaboration. We then use the performance network to devise a recommendation system based on a \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:WF5omc3nYNoC",
+    "num_citations": 23,
+    "citedby_url": "/scholar?hl=en&cites=12146656733534303854",
+    "cites_id": [
+      "12146656733534303854"
+    ],
+    "pub_url": "https://dl.acm.org/doi/abs/10.1145/3209542.3209569",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bjbrgvGXkagJ:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 1,
+      "2019": 0,
+      "2020": 10,
+      "2021": 5,
+      "2022": 4,
+      "2023": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Discovering patterns of online popularity from time series",
+      "pub_year": 2020,
+      "citation": "Expert Systems with Applications 151, 113337, 2020",
+      "author": "Mert Ozer and Anna Sapienza and Andr\u00e9s Abeliuk and Goran Muric and Emilio Ferrara",
+      "journal": "Expert Systems with Applications",
+      "volume": "151",
+      "pages": "113337",
+      "publisher": "Pergamon",
+      "abstract": "How is popularity gained online? Is being successful strictly related to rapidly becoming viral in an online platform, or is it possible to acquire popularity in a steady and disciplined fashion? What are other temporal characteristics that can unveil the popularity of online content? To answer these questions, we leverage a multifaceted temporal analysis of the evolution of popular online content. We present dipm-SC: a multidimensional shape-based time-series clustering algorithm with a heuristic to find the optimal number of clusters. First, we validate the accuracy of our algorithm on synthetic datasets generated from benchmark time series models. Second, we show that dipm-SC can uncover meaningful clusters of popularity behaviors in real-world GitHub and Twitter datasets. By clustering the multidimensional time-series of the popularity of contents coupled with other domain-specific dimensions, we discover two \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:Se3iqnhoufwC",
+    "num_citations": 21,
+    "citedby_url": "/scholar?hl=en&cites=17935982018073478322",
+    "cites_id": [
+      "17935982018073478322"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0957417420301627",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:skQQ1Z1o6fgJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 1,
+      "2020": 5,
+      "2021": 3,
+      "2022": 7,
+      "2023": 5
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Performance dynamics and success in online games",
+      "pub_year": 2017,
+      "citation": "2017 IEEE International Conference on Data Mining Workshops (ICDMW), 902-909, 2017",
+      "author": "Anna Sapienza and Hao Peng and Emilio Ferrara",
+      "conference": "2017 IEEE International Conference on Data Mining Workshops (ICDMW)",
+      "pages": "902-909",
+      "publisher": "IEEE",
+      "abstract": "Online data provide a way to monitor how users behave in social systems like social networks and online games, and understand which features turn an ordinary individual into a successful one. Here, we propose to study individual performance and success in Multiplayer Online Battle Arena (MOBA) games. Our purpose is to identify those behaviors and playing styles that are characteristic of players with high skill level and that distinguish them from other players. To this aim, we study Defense of the ancient 2 (Dota 2), a popular MOBA game. Our findings highlight three main aspects to be successful in the game: (i) players need to have a warm-up period to enhance their performance in the game; (ii) having a long in-game experience does not necessarily translate in achieving better skills; but rather, (iii) players that reach high skill levels differentiate from others because of their aggressive playing strategy, which \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:UeHWp8X0CEIC",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=13468376854936861024",
+    "cites_id": [
+      "13468376854936861024"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8215758/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YLmaG2RJ6boJ:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 3,
+      "2019": 5,
+      "2020": 3,
+      "2021": 3,
+      "2022": 4,
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Detecting anomalies in time-varying networks using tensor decomposition",
+      "pub_year": 2015,
+      "citation": "2015 IEEE international conference on data mining workshop (ICDMW), 516-523, 2015",
+      "author": "Anna Sapienza and Andr\u00e9 Panisson and Joseph Wu and Laetitia Gauvin and Ciro Cattuto",
+      "conference": "2015 IEEE international conference on data mining workshop (ICDMW)",
+      "pages": "516-523",
+      "publisher": "IEEE",
+      "abstract": "New data sources from sensor networks and Internet-of-Things applications promise a wealth of interaction data that can be naturally represented as time-varying networks. This brings forth new challenges for the identification and removal of time-varying graph anomalies that entail complex correlations of topological features and temporal activity patterns. Here we present an anomaly detection approach for temporal graph data, based on an iterative tensor decomposition and masking procedure. We test this approach using high-resolution social network data from wearable proximity sensors. The dataset includes metadata that allow to independently build a ground truth, used to validate the anomaly detection method. Our approach achieves high accuracy in identifying meso-scale network anomalies due to sensor wearing protocol, proving the practical viability of the method for a real-world application."
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:u-x6o8ySG0sC",
+    "num_citations": 17,
+    "citedby_url": "/scholar?hl=en&cites=10392188697585269191",
+    "cites_id": [
+      "10392188697585269191"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7395712/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:xzlmbo94OJAJ:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 4,
+      "2019": 1,
+      "2020": 6,
+      "2021": 2,
+      "2022": 2,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Rac signal adaptation controls neutrophil mobilization from the bone marrow",
+      "pub_year": 2016,
+      "citation": "Science Signaling 9 (459), ra124-ra124, 2016",
+      "author": "Carlo Cosimo Campa and Giulia Germena and Elisa Ciraolo and Francesca Copperi and Anna Sapienza and Irene Franco and Alessandra Ghigo and Annalisa Camporeale and Augusta Di Savino and Miriam Martini and Alessia Perino and Remco TA Megens and Angela RM Kurz and Christoph Scheiermann and Markus Sperandio and Andrea Gamba and Emilio Hirsch",
+      "journal": "Science Signaling",
+      "volume": "9",
+      "number": "459",
+      "pages": "ra124-ra124",
+      "publisher": "American Association for the Advancement of Science",
+      "abstract": "Mobilization of neutrophils from the bone marrow determines neutrophil blood counts and thus is medically important. Balanced neutrophil mobilization from the bone marrow depends on the retention-promoting chemokine CXCL12 and its receptor CXCR4 and the egression-promoting chemokine CXCL2 and its receptor CXCR2. Both pathways activate the small guanosine triphosphatase Rac, leaving the role of this signaling event in neutrophil retention and egression ambiguous. On the assumption that active Rac determines persistent directional cell migration, we generated a mathematical model to link chemokine-mediated Rac modulation to neutrophil egression time. Our computer simulation indicated that, in the bone marrow, where the retention signal predominated, egression time strictly depended on the time it took Rac to return to its basal activity (namely, adaptation). This prediction was validated in mice \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:qjMakFHDy7sC",
+    "num_citations": 16,
+    "citedby_url": "/scholar?hl=en&cites=13190789648969172731",
+    "cites_id": [
+      "13190789648969172731"
+    ],
+    "pub_url": "https://www.science.org/doi/abs/10.1126/scisignal.aah5882",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-wa1RUwZD7cJ:scholar.google.com/",
+    "cites_per_year": {
+      "2017": 2,
+      "2018": 1,
+      "2019": 6,
+      "2020": 3,
+      "2021": 2,
+      "2022": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Massive multi-agent data-driven simulations of the github ecosystem",
+      "pub_year": 2019,
+      "citation": "Advances in Practical Applications of Survivable Agents and Multi-Agent \u2026, 2019",
+      "author": "Jim Blythe and John Bollenbacher and Di Huang and Pik-Mai Hui and Rachel Krohn and Diogo Pacheco and Goran Muric and Anna Sapienza and Alexey Tregubov and Yong-Yeol Ahn and Alessandro Flammini and Kristina Lerman and Filippo Menczer and Tim Weninger and Emilio Ferrara",
+      "conference": "Advances in Practical Applications of Survivable Agents and Multi-Agent Systems: The PAAMS Collection: 17th International Conference, PAAMS 2019, \u00c1vila, Spain, June 26\u201328, 2019, Proceedings 17",
+      "pages": "3-15",
+      "publisher": "Springer International Publishing",
+      "abstract": " Simulating and predicting planetary-scale techno-social systems poses heavy computational and modeling challenges. The DARPA SocialSim program set the challenge to model the evolution of GitHub, a large collaborative software-development ecosystem, using massive multi-agent simulations. We describe our best performing models and our agent-based simulation framework, which we are currently extending to allow simulating other planetary-scale techno-social systems. The challenge problem measured participant\u2019s ability, given 30 months of meta-data on user activity on GitHub, to predict the next months\u2019 activity as measured by a broad range of metrics applied to ground truth, using agent-based simulation. The challenge required scaling to a simulation of roughly 3 million agents producing a combined 30 million actions, acting on 6 million repositories with commodity hardware. It was also \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:MXK_kJrjxJIC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=8527940853011695591",
+    "cites_id": [
+      "8527940853011695591"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-24209-1_1",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:58dN2QVVWXYJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 1,
+      "2020": 5,
+      "2021": 4,
+      "2022": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Estimating the outcome of spreading processes on networks with incomplete information: A dimensionality reduction approach",
+      "pub_year": 2018,
+      "citation": "Physical Review E 98 (1), 012317, 2018",
+      "author": "Anna Sapienza and Alain Barrat and Ciro Cattuto and Laetitia Gauvin",
+      "journal": "Physical Review E",
+      "volume": "98",
+      "number": "1",
+      "pages": "012317",
+      "publisher": "American Physical Society",
+      "abstract": "Recent advances in data collection have facilitated the access to time-resolved human proximity data that can conveniently be represented as temporal networks of contacts between individuals. While the structural and dynamical information revealed by this type of data is fundamental to investigate how information or diseases propagate in a population, data often suffer from incompleteness, which possibly leads to biased estimations in data-driven models. A major challenge is thus to estimate the outcome of spreading processes occurring on temporal networks built from partial information. To cope with this problem, we devise an approach based on non-negative tensor factorization, a dimensionality reduction technique from multilinear algebra. The key idea is to learn a low-dimensional representation of the temporal network built from partial information and to use it to construct a surrogate network similar to the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:eQOLeE2rZwMC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=1802650407855518882",
+    "cites_id": [
+      "1802650407855518882"
+    ],
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.012317",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ovRwvv5MBBkJ:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 2,
+      "2019": 3,
+      "2020": 3,
+      "2021": 1,
+      "2022": 3,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "The influence of social ties on performance in team-based online games",
+      "pub_year": 2019,
+      "citation": "IEEE Transactions on Games 13 (4), 358-367, 2019",
+      "author": "Yilei Zeng and Anna Sapienza and Emilio Ferrara",
+      "journal": "IEEE Transactions on Games",
+      "volume": "13",
+      "number": "4",
+      "pages": "358-367",
+      "publisher": "IEEE",
+      "abstract": "Social ties are the invisible glue that keeps together human ecosystems. Despite the massive amount of research studying the role of social ties in communities (groups, teams, etc.) and society at large, little attention has been devoted to study their interplay with other human behavioral dynamics. Of particular interest is the influence that social ties have on human performance in collaborative team-based settings. Our research aims to elucidate the influence of social ties on individual and team performance dynamics. We will focus on a popular multiplayer online battle arena (MOBA) collaborative team-based game,  Defense of the Ancients 2 (Dota 2) , a rich data set with millions of players and matches. Our research reveals that, when playing with their friends, individuals are systematically more active in the game as opposed to taking part in a team of strangers. However, we find that increased activity does not \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:roLk4NBRz8UC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=16520234476132266861",
+    "cites_id": [
+      "16520234476132266861"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8737784/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bXMGZLqpQ-UJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 1,
+      "2020": 2,
+      "2021": 2,
+      "2022": 5,
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "The DARPA SocialSim Challenge: Massive Multi-Agent Simulations of the Github Ecosystem.",
+      "pub_year": 2019,
+      "citation": "AAMAS, 1835-1837, 2019",
+      "author": "James Blythe and Emilio Ferrara and Di Huang and Kristina Lerman and Goran Muric and Anna Sapienza and Alexey Tregubov and Diogo Pacheco and John Bollenbacher and Alessandro Flammini and Pik-Mai Hui and Filippo Menczer",
+      "conference": "AAMAS",
+      "pages": "1835-1837",
+      "abstract": "The DARPA SocialSim challenge problem measured participant\u2019s ability, given 30 months of meta-data on user activity on GitHub, to predict the next months\u2019 activity as measured by a broad range of metrics applied to ground truth, using agent-based simulation. The challenge involved making predictions about roughly 3 million individuals performing a combined 30 million actions on 6 million repositories. We describe the agent framework and the models we employed. Our team used a variety of learning methods contributing to six different types of agents that were tested against a wide range of metrics. The broadly most successful method of those tried sampled from a stationary probability distribution of actions and target repositories for each agent. First, we describe the agent-based simulator we developed to carry out massive-scale simulations of techno-social systems. Second, we present the inference methods that we employed to implement different agent-based models, based on statistical modeling of historical activity, graph embedding to infer future interactions, Bayesian models to capture activity processes, and methods to predict the emergence of new users and repositories that did not exist in the historical data. These are novel applications of existing analytical tools to derive agent models from available data. Third, we provide a rigorous evaluation of the performance of six different models, as measured by a wide range of metrics. We also describe"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:0EnyYjriUFMC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=9393162206825005231",
+    "cites_id": [
+      "9393162206825005231"
+    ],
+    "pub_url": "https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1835.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:r8Btj0I3W4IJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 2,
+      "2021": 1,
+      "2022": 8,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Anomaly detection in temporal graph data: An iterative tensor decomposition and masking approach",
+      "pub_year": 2015,
+      "citation": "International Workshop on Advanced Analytics and Learning on Temporal Data \u2026, 2015",
+      "author": "Anna Sapienza and Andr\u00e9 Panisson and JTK Wu and Laetitia Gauvin and Ciro Cattuto",
+      "journal": "International Workshop on Advanced Analytics and Learning on Temporal Data, AALTD 2015",
+      "abstract": "Sensors and Internet-of-Things scenarios promise a wealth of interaction data that can be naturally represented by means of timevarying graphs. This brings forth new challenges for the identification and removal of temporal graph anomalies that entail complex correlations of topological features and activity patterns. Here we present an anomaly detection approach for temporal graph data based on an iterative tensor decomposition and masking procedure. We test this approach using highresolution social network data from wearable sensors and show that it successfully detects anomalies due to sensor wearing time protocols."
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:u5HHmVD_uO8C",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=15867838485824266182",
+    "cites_id": [
+      "15867838485824266182"
+    ],
+    "pub_url": "https://hub.hku.hk/handle/10722/248213",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:xt_TDAjjNdwJ:scholar.google.com/",
+    "cites_per_year": {
+      "2015": 2,
+      "2016": 1,
+      "2017": 1,
+      "2018": 1,
+      "2019": 2,
+      "2020": 0,
+      "2021": 2,
+      "2022": 0,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Personality and behavior in role-based online games",
+      "pub_year": 2019,
+      "citation": "2019 IEEE Conference on Games (CoG), 1-8, 2019",
+      "author": "Zhao Wang and Anna Sapienza and Aron Culotta and Emilio Ferrara",
+      "conference": "2019 IEEE Conference on Games (CoG)",
+      "pages": "1-8",
+      "publisher": "IEEE",
+      "abstract": "Both offline and online human behaviors are affected by personality. Of special interests are online games, where players have to impersonate specific roles and their behaviors are extensively tracked by the game. In this paper, we propose to study the relationship between players' personality and game behavior in League of Legends (LoL), one of the most popular Multiplayer Online Battle Arena (MOBA) games. We use linear mixed effects (LME) models to describe relationships between players' personality traits (measured by the Five Factor Model) and two major aspects of the game: the impersonated roles and in-game actions. On the one hand, we study relationships within the game environment by modeling role attributes from match behaviors and vice versa. On the other hand, we analyze the relationship between a player's five personality traits and their game behavior by showing significant correlations \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:5nxA0vEk-isC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=17766193078574319424",
+    "cites_id": [
+      "17766193078574319424"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8848027/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QAdtw3kyjvYJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 1,
+      "2021": 4,
+      "2022": 3,
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Wearable proximity sensors for monitoring a mass casualty incident exercise: feasibility study",
+      "pub_year": 2019,
+      "citation": "Journal of medical internet research 21 (4), e12251, 2019",
+      "author": "Laura Ozella and Laetitia Gauvin and Luca Carenzo and Marco Quaggiotto and Pier Luigi Ingrassia and Michele Tizzoni and Andr\u00e9 Panisson and Davide Colombo and Anna Sapienza and Kyriaki Kalimeri and Francesco Della Corte and Ciro Cattuto",
+      "journal": "Journal of medical internet research",
+      "volume": "21",
+      "number": "4",
+      "pages": "e12251",
+      "publisher": "JMIR Publications",
+      "abstract": "Over the past several decades, naturally occurring and man-made mass casualty incidents (MCIs) have increased in frequency and number worldwide. To test the impact of such events on medical resources, simulations can provide a safe, controlled setting while replicating the chaotic environment typical of an actual disaster. A standardized method to collect and analyze data from mass casualty exercises is needed to assess preparedness and performance of the health care staff involved.In this study, we aimed to assess the feasibility of using wearable proximity sensors to measure proximity events during an MCI simulation. In the first instance, our objective was to demonstrate how proximity sensors can collect spatial and temporal information about the interactions between medical staff and patients during an MCI exercise in a quasi-autonomous way. In addition, we assessed how the deployment of this technology could help improve future simulations by analyzing the flow of patients in the hospital.Data were obtained and collected through the deployment of wearable proximity sensors during an MCI functional exercise. The scenario included 2 areas: the accident site and the Advanced Medical Post, and the exercise lasted 3 hours. A total of 238 participants were involved in the exercise and classified in categories according to their role: 14 medical doctors, 16 nurses, 134 victims, 47 Emergency Medical Services staff members, and 27 health care assistants and other hospital support staff. Each victim was assigned a score related to the severity of his \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:_FxGoFyzp5QC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=15638635147466444183",
+    "cites_id": [
+      "15638635147466444183"
+    ],
+    "pub_url": "https://www.jmir.org/2019/4/e12251/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lw2tQM-XB9kJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 2,
+      "2020": 1,
+      "2021": 4,
+      "2022": 2,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Extracting the multi-timescale activity patterns of online financial markets",
+      "pub_year": 2018,
+      "citation": "Scientific Reports 8 (1), 11184, 2018",
+      "author": "Teruyoshi Kobayashi and Anna Sapienza and Emilio Ferrara",
+      "journal": "Scientific Reports",
+      "volume": "8",
+      "number": "1",
+      "pages": "11184",
+      "publisher": "https://doi.org/10.1038/s41598-018-29537-w",
+      "abstract": "Online financial markets can be represented as complex systems where trading dynamics can be captured and characterized at different resolutions and time scales. In this work, we develop a methodology based on non-negative tensor factorization (NTF) aimed at extracting and revealing the multi-timescale trading dynamics governing online financial systems. We demonstrate the advantage of our strategy first using synthetic data, and then on real-world data capturing all interbank transactions (over a million) occurred in an Italian online financial market (e-MID) between 2001 and 2015. Our results demonstrate how NTF can uncover hidden activity patterns that characterize groups of banks exhibiting different trading strategies (normal vs. early vs. flash trading, etc.). We further illustrate how our methodology can reveal \u201ccrisis modalities\u201d in trading triggered by endogenous and exogenous system shocks: as an \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:zYLM7Y9cAGgC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=1330663044184340415",
+    "cites_id": [
+      "1330663044184340415"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41598-018-29537-w",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:v_dYEP12dxIJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 2,
+      "2020": 2,
+      "2021": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "A view from data science",
+      "pub_year": 2021,
+      "citation": "Big Data & Society 8 (2), 20539517211040198, 2021",
+      "author": "Anna Sapienza and Sune Lehmann",
+      "journal": "Big Data & Society",
+      "volume": "8",
+      "number": "2",
+      "pages": "20539517211040198",
+      "publisher": "SAGE Publications",
+      "abstract": "For better and worse, our world has been transformed by Big Data. To understand digital traces generated by individuals, we need to design multidisciplinary approaches that combine social and data science. Data and social scientists face the challenge of effectively building upon each other\u2019s approaches to overcome the limitations inherent in each side. Here, we offer a \u201cdata science perspective\u201d on the challenges that arise when working to establish this interdisciplinary environment. We discuss how we perceive the differences and commonalities of the questions we ask to understand digital behaviors (including how we answer them), and how our methods may complement each other. Finally, we describe what a path toward common ground between these fields looks like when viewed from data science."
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:YOwf2qJgpHMC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=18343084506718046029",
+    "cites_id": [
+      "18343084506718046029"
+    ],
+    "pub_url": "https://journals.sagepub.com/doi/pdf/10.1177/20539517211040198",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:TYfmSyy6j_4J:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "A view from data science",
+      "pub_year": 2021,
+      "citation": "",
+      "author": "Sune Lehmann and Anna Sapienza",
+      "abstract": "For better and worse, our world has been transformed by Big Data. To understand digital traces generated by individuals, we need to design multidisciplinary approaches that combine social and data science. Data and social scientists face the challenge of effectively building upon each other\u2019s approaches to overcome the limitations inherent in each side. Here, we offer a \u201cdata science perspective\u201d on the challenges that arise when working to establish this interdisciplinary environment. We discuss how we perceive the differences and commonalities of the questions we ask to understand digital behaviors, and how our methods may complement each other. Finally, we describe what a path toward common ground between these fields looks like when viewed from data science."
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:aqlVkmm33-oC",
+    "num_citations": 0,
+    "pub_url": "https://philpapers.org/rec/LEHAVF",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Playing under the influence (of Twitch) : The effects of streaming on gamers\u2019 performance.",
+      "pub_year": 2018,
+      "citation": "E-sports Conference, 2018",
+      "author": "Akira Matsui and Anna Sapienza and Emilio Ferrara",
+      "conference": "E-sports Conference"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:LkGwnXOMwfcC",
+    "num_citations": 0,
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Tensor decomposition techniques for analysing time-varying networks",
+      "pub_year": 2017,
+      "citation": "Politecnico di Torino, 2017",
+      "author": "Anna Sapienza"
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:9yKSN-GCB0IC",
+    "num_citations": 0,
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Anomaly detection in temporal graph data: An iterative tensor",
+      "pub_year": 2015,
+      "citation": "",
+      "author": "A Sapienza and A Panisson and JTK Wu and L Gauvin and C Cattuto",
+      "abstract": "Sensors and Internet-of-Things scenarios promise a wealth of interaction data that can be naturally represented by means of timevarying graphs. This brings forth new challenges for the identification and removal of temporal graph anomalies that entail complex correlations of topological features and activity patterns. Here we present an anomaly detection approach for temporal graph data based on an iterative tensor decomposition and masking procedure. We test this approach using highresolution social network data from wearable sensors and show that it successfully detects anomalies due to sensor wearing time protocols."
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:KlAtU1dfN6UC",
+    "num_citations": 0,
+    "pub_url": "https://core.ac.uk/download/pdf/129920900.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zjObDVPYiSwJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Early Warning Generation for Cyber Threats from Online Discussions",
+      "citation": "",
+      "author": "Alessandro Bessi and Anna Sapienza and Kristina Lerman and Paulo Shakarian and Emilio Ferrara",
+      "abstract": "We introduce a system for automatically generating warnings of imminent or current cyber-threats. Our system leverages the communication of malicious actors on the darkweb, as well as activity of cyber security experts on social media platforms like Twitter. In a time period between September, 2016 and January, 2017, our method generated 661 alerts of which about 84% were relevant to current or imminent cyber-threats. In the paper, we first illustrate the rationale and workflow of our system, then we measure its performance. Our analysis is enriched by three case studies: the first shows how the method could predict DDoS attacks, and how it would have allowed organizations to prepare for the Mirai attacks that caused widespread disruption in October 2016. Second, we discuss the method\u2019s timely identification of new malware and ransomware threats, focusing on gooligan and luabot. Concluding, we demonstrate the ability of our algorithm to timely detect various instances of data breaches."
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:ULOm3_A8WrAC",
+    "num_citations": 0,
+    "pub_url": "https://usc-isi-i2.github.io/papers/kristina01.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:LHGIxwhd1xQJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Discovering patterns of online popularity from time series-Supplementary Material",
+      "citation": "",
+      "author": "Mert Ozer and Anna Sapienza and Andr\u00e9s Abeliuk and Goran Muric and Emilio Ferrara",
+      "abstract": "This document introduces further experimental results for the proposed dipm-SC method. First, we present our algorithm\u2019s performance on synthetically generated time series datasets. We show the superior performance of the method over other possible shape-based extensions. Next, we present another real-world use-case scenario for GitHub repository dataset. We show by clustering multidimensional time-series of popularity of GitHub repositories coupled with other GitHub specific activities, we uncover underlying bursty and steady patterns of popularity gain similar to what we present in the original paper for Twitter hashtag dataset."
+    },
+    "filled": true,
+    "author_pub_id": "ghzDSbUAAAAJ:UebtZRa9Y70C",
+    "num_citations": 0,
+    "pub_url": "https://scholar.google.com/scholar?cluster=169637625181639060&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lBF-dYWsWgIJ:scholar.google.com/",
+    "cites_per_year": {}
+  }
+]

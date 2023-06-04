@@ -1,0 +1,61 @@
+[
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Macroprudential Stress Test of the Euro Area Banking System Amid the Coronavirus (COVID-19) Pandemic",
+      "pub_year": 2021,
+      "citation": "European Central Bank report on euro area macroprudential stress test, ECB, 2021",
+      "author": "Katarzyna Barbara Budnik and Louis Boucherie and Marcin Borsuk and Ivan Dimitrov and Giacomo Giraldo and Johannes Gro\u00df and Martina Jancokova and Max Lampe and Gianluca Vagliano and Matjaz Volk",
+      "journal": "European Central Bank report on euro area macroprudential stress test, ECB",
+      "abstract": "The macroprudential stress test for 2021-23 aims to provide insights into the resilience of the European banking sector following the coronavirus (COVID-19) crisis. The assessment builds on a macro-micro model with individual euro area economies and significant banks, and the two scenarios from the 2021 EU-wise stress test exercise. In the baseline scenario, the system-wide transitional CET1 ratio goes down from 15.5% in 2020 to its pre-pandemic level of 14.4%. In the adverse scenario, the CET1 ratio drops by 5.2 percentage points from 15.5% in 2020 to 10.3% in 2023. Macro-financial amplification in the macroprudential stress test results in higher capital depletion in the adverse scenario compared to the EBA/Single Supervisory Mechanism (SSM) stress test. Bank lending expands in the baseline scenario and shrinks in the adverse scenario. The outstanding COVID-19 mitigation policies have a pronounced positive lending effect, especially in the adverse scenario. The banking sector-real economy feedback loop amplifies the severity of the adverse scenario. The adopted assumption on banks\u2019 intentions to use capital buffers can affect the outcomes of the macroprudential stress test."
+    },
+    "filled": true,
+    "author_pub_id": "UtfTBZ4AAAAJ:2osOgNQ5qMEC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=10473403331731236077",
+    "cites_id": [
+      "10473403331731236077"
+    ],
+    "pub_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4112397",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7aQ7-dYAWZEJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Characterizing Polarization in Social Networks using the Signed Relational Latent Distance Model",
+      "pub_year": 2023,
+      "citation": "Proceedings of The 26th International Conference on Artificial Intelligence \u2026, 2023",
+      "author": "Nikolaos Nakis and Abdulkadir Celikkanat and Louis Boucherie and Christian Djurhuus and Felix Burmester and Daniel Mathias Holmelund and Monika Frolcov\u00e1 and Morten M\u00f8rup",
+      "conference": "Proceedings of The 26th International Conference on Artificial Intelligence and Statistics",
+      "volume": "206",
+      "number": "11489-11505",
+      "abstract": "Graph representation learning has become a prominent tool for the characterization and understanding of the structure of networks in general and social networks in particular. Typically, these representation learning approaches embed the networks into a low-dimensional space in which the role of each individual can be characterized in terms of their latent position. A major current concern in social networks is the emergence of polarization and filter bubbles promoting a mindset of \"us-versus-them\" that may be defined by extreme positions believed to ultimately lead to political violence and the erosion of democracy. Such polarized networks are typically characterized in terms of signed links reflecting likes and dislikes. We propose the latent Signed relational Latent dIstance Model (SLIM) utilizing for the first time the Skellam distribution as a likelihood function for signed networks and extend the modeling to the characterization of distinct extreme positions by constraining the embedding space to polytopes. On four real social signed networks of polarization, we demonstrate that the model extracts low-dimensional characterizations that well predict friendships and animosity while providing interpretable visualizations defined by extreme positions when endowing the model with an embedding space restricted to polytopes."
+    },
+    "filled": true,
+    "author_pub_id": "UtfTBZ4AAAAJ:9yKSN-GCB0IC",
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2301.09507",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Looking at the evolution of macroprudential policy stance: A growth-at-risk experiment with a semi-structural model",
+      "pub_year": 2022,
+      "citation": "ECB Occasional Paper, 2022",
+      "author": "Louis Boucherie and Katarzyna Barbara Budnik and Jiri Panos",
+      "journal": "ECB Occasional Paper",
+      "number": "2022/301",
+      "abstract": "This paper proposes a methodology for measuring the macroprudential policy stance based on a distance-to-tail metric perspective. This approach employs a large-scale semi-structural model reflecting the dynamics of 91 significant euro area banks and 19 euro area economies and is presented through an assessment of the stance evolution for the aggregate euro area economy and for the individual euro area countries. Our results uncover mild tightening of the macroprudential policy stance before the end of 2019. This trend is abruptly interrupted at the onset of the Covid-19 pandemic but reappears at the end of 2020 before picking up again over the first half of 2021. Our assessment also reveals a marginal impact of the macro-financial policies applied, which is particularly notable throughout 2020."
+    },
+    "filled": true,
+    "author_pub_id": "UtfTBZ4AAAAJ:u-x6o8ySG0sC",
+    "num_citations": 0,
+    "pub_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4217219",
+    "cites_per_year": {}
+  }
+]

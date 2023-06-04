@@ -1,0 +1,967 @@
+[
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Mapping the NFT revolution: market trends, trade networks, and visual features",
+      "pub_year": 2021,
+      "citation": "Scientific reports 11 (1), 20902, 2021",
+      "author": "Matthieu Nadini and Laura Alessandretti and Flavio Di Giacinto and Mauro Martino and Luca Maria Aiello and Andrea Baronchelli",
+      "journal": "Scientific reports",
+      "volume": "11",
+      "number": "1",
+      "pages": "20902",
+      "publisher": "Nature Publishing Group UK",
+      "abstract": "Non Fungible Tokens (NFTs) are digital assets that represent objects like art, collectible, and in-game items. They are traded online, often with cryptocurrency, and are generally encoded within smart contracts on a blockchain. Public attention towards NFTs has exploded in 2021, when their market has experienced record sales, but little is known about the overall structure and evolution of its market. Here, we analyse data concerning 6.1 million trades of 4.7 million NFTs between June 23, 2017 and April 27, 2021, obtained primarily from Ethereum and WAX blockchains. First, we characterize statistical properties of the market. Second, we build the network of interactions, show that traders typically specialize on NFTs associated with similar objects and form tight clusters with other traders that exchange the same kind of objects. Third, we cluster objects associated to NFTs according to their visual features and show \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:YOwf2qJgpHMC",
+    "num_citations": 322,
+    "citedby_url": "/scholar?hl=en&cites=18237293774726438732",
+    "cites_id": [
+      "18237293774726438732"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41598-021-00053-8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:TB8DExDiF_0J:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 15,
+      "2022": 193,
+      "2023": 108
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Evolutionary dynamics of the cryptocurrency market",
+      "pub_year": 2017,
+      "citation": "Royal Society open science 4 (11), 170623, 2017",
+      "author": "Abeer ElBahrawy and Laura Alessandretti and Anne Kandler and Romualdo Pastor-Satorras and Andrea Baronchelli",
+      "journal": "Royal Society open science",
+      "volume": "4",
+      "number": "11",
+      "pages": "170623",
+      "publisher": "The Royal Society Publishing",
+      "abstract": "The cryptocurrency market surpassed the barrier of $100 billion market capitalization in June 2017, after months of steady growth. Despite its increasing relevance in the financial world, a comprehensive analysis of the whole system is still lacking, as most studies have focused exclusively on the behaviour of one (Bitcoin) or few cryptocurrencies. Here, we consider the history of the entire market and analyse the behaviour of 1469 cryptocurrencies introduced between April 2013 and May 2017. We reveal that, while new cryptocurrencies appear and disappear continuously and their market capitalization is increasing (super-)exponentially, several statistical properties of the market have been stable for years. These include the number of active cryptocurrencies, market share distribution and the turnover of cryptocurrencies. Adopting an ecological perspective, we show that the so-called neutral model of evolution is \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:Tyk-4Ss8FVUC",
+    "num_citations": 275,
+    "citedby_url": "/scholar?hl=en&cites=5358796774729678698",
+    "cites_id": [
+      "5358796774729678698"
+    ],
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.170623",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:an9FRUZFXkoJ:scholar.google.com/",
+    "cites_per_year": {
+      "2016": 1,
+      "2017": 1,
+      "2018": 37,
+      "2019": 59,
+      "2020": 50,
+      "2021": 50,
+      "2022": 48,
+      "2023": 21
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Anticipating cryptocurrency prices using machine learning",
+      "pub_year": 2018,
+      "citation": "Complexity 2018, 1-16, 2018",
+      "author": "Laura Alessandretti and Abeer ElBahrawy and Luca Maria Aiello and Andrea Baronchelli",
+      "journal": "Complexity",
+      "volume": "2018",
+      "pages": "1-16",
+      "publisher": "Hindawi Limited",
+      "abstract": "Machine learning and AI-assisted trading have attracted growing interest for the past few years. Here, we use this approach to test the hypothesis that the inefficiency of the cryptocurrency market can be exploited to generate abnormal profits. We analyse daily data for  cryptocurrencies for the period between Nov. 2015 and Apr. 2018. We show that simple trading strategies assisted by state-of-the-art machine learning algorithms outperform standard benchmarks. Our results show that nontrivial, but ultimately simple, algorithmic mechanisms can help anticipate the short-term evolution of the cryptocurrency market."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:_FxGoFyzp5QC",
+    "num_citations": 225,
+    "citedby_url": "/scholar?hl=en&cites=14904138179822558652,1806434173281616705",
+    "cites_id": [
+      "14904138179822558652",
+      "1806434173281616705"
+    ],
+    "pub_url": "https://www.hindawi.com/journals/complexity/2018/8983590/abs/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:vB2pg7Ui1s4J:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 9,
+      "2019": 30,
+      "2020": 52,
+      "2021": 53,
+      "2022": 56,
+      "2023": 22
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Evidence for a conserved quantity in human mobility",
+      "pub_year": 2018,
+      "citation": "Nature human behaviour 2 (7), 485-491, 2018",
+      "author": "Laura Alessandretti and Piotr Sapiezynski and Vedran Sekara and Sune Lehmann and Andrea Baronchelli",
+      "journal": "Nature human behaviour",
+      "volume": "2",
+      "number": "7",
+      "pages": "485-491",
+      "publisher": "Nature Publishing Group UK",
+      "abstract": "Recent seminal works on human mobility have shown that individuals constantly exploit a small set of repeatedly visited locations\u2013. A concurrent study has emphasized the explorative nature of human behaviour, showing that the number of visited places grows steadily over time\u2013. How to reconcile these seemingly contradicting facts remains an open question. Here, we analyse high-resolution multi-year traces of ~40,000 individuals from 4 datasets and show that this tension vanishes when the long-term evolution of mobility patterns is considered. We reveal that mobility patterns evolve significantly yet smoothly, and that the number of familiar locations an individual visits at any point is a conserved quantity with a typical size of ~25. We use this finding to improve state-of-the-art modelling of human mobility,. Furthermore, shifting the attention from aggregated quantities to individual behaviour, we show that the size \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:u-x6o8ySG0sC",
+    "num_citations": 168,
+    "citedby_url": "/scholar?hl=en&cites=12724142067619020998",
+    "cites_id": [
+      "12724142067619020998"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41562-018-0364-x",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:xkAJjMs7lbAJ:scholar.google.com/",
+    "cites_per_year": {
+      "2017": 1,
+      "2018": 11,
+      "2019": 25,
+      "2020": 34,
+      "2021": 45,
+      "2022": 29,
+      "2023": 21
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "The scales of human mobility",
+      "pub_year": 2020,
+      "citation": "Nature 587 (7834), 402-407, 2020",
+      "author": "Laura Alessandretti and Ulf Aslak and Sune Lehmann",
+      "journal": "Nature",
+      "volume": "587",
+      "number": "7834",
+      "pages": "402-407",
+      "publisher": "Nature Publishing Group UK",
+      "abstract": "There is a contradiction at the heart of our current understanding of individual and collective mobility patterns. On the one hand, a highly influential body of literature on human mobility driven by analyses of massive empirical datasets finds that human movements show no evidence of characteristic spatial scales. There, human mobility is described as scale free\u2013. On the other hand, geographically, the concept of scale\u2014referring to meaningful levels of description from individual buildings to neighbourhoods, cities, regions and countries\u2014is central for the description of various aspects of human behaviour, such as socioeconomic interactions, or political and cultural dynamics,. Here we resolve this apparent paradox by showing that day-to-day human mobility does indeed contain meaningful scales, corresponding to spatial \u2018containers\u2019 that restrict mobility behaviour. The scale-free results arise from aggregating \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:kNdYIx-mwKoC",
+    "num_citations": 132,
+    "citedby_url": "/scholar?hl=en&cites=15980504205207885890",
+    "cites_id": [
+      "15980504205207885890"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41586-020-2909-1",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QlgNA-gnxt0J:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 3,
+      "2021": 38,
+      "2022": 62,
+      "2023": 29
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Multi-scale spatio-temporal analysis of human mobility",
+      "pub_year": 2017,
+      "citation": "PLOS ONE, 2017",
+      "author": "Laura Alessandretti and Piotr Sapiezynski and Sune Lehmann and Andrea Baronchelli",
+      "journal": "PLOS ONE",
+      "abstract": "The recent availability of digital traces generated by phone calls and online logins has significantly increased the scientific understanding of human mobility. Until now, however, limited data resolution and coverage have hindered a coherent description of human displacements across different spatial and temporal scales. Here, we characterise mobility behaviour across several orders of magnitude by analysing \u223c850 individuals\u2019 digital traces sampled every \u223c16 seconds for 25 months with \u223c10 meters spatial resolution. We show that the distributions of distances and waiting times between consecutive locations are best described by log-normal and gamma distributions, respectively, and that natural time-scales emerge from the regularity of human mobility. We point out that log-normal distributions also characterise the patterns of discovery of new places, implying that they are not a simple consequence of the routine of modern life."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:d1gkVwhDpl0C",
+    "num_citations": 76,
+    "citedby_url": "/scholar?hl=en&cites=12036742174495111086",
+    "cites_id": [
+      "12036742174495111086"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171686",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rne--zsZC6cJ:scholar.google.com/",
+    "cites_per_year": {
+      "2017": 4,
+      "2018": 7,
+      "2019": 14,
+      "2020": 12,
+      "2021": 15,
+      "2022": 18,
+      "2023": 6
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Random walks on activity-driven networks with attractiveness",
+      "pub_year": 2017,
+      "citation": "Physical Review E 95 (5), 052318, 2017",
+      "author": "Laura Alessandretti and Kaiyuan Sun and Andrea Baronchelli and Nicola Perra",
+      "journal": "Physical Review E",
+      "volume": "95",
+      "number": "5",
+      "pages": "052318",
+      "publisher": "American Physical Society",
+      "abstract": "Virtually all real-world networks are dynamical entities. In social networks, the propensity of nodes to engage in social interactions (activity) and their chances to be selected by active nodes (attractiveness) are heterogeneously distributed. Here, we present a time-varying network model where each node and the dynamical formation of ties are characterized by these two features. We study how these properties affect random-walk processes unfolding on the network when the time scales describing the process and the network evolution are comparable. We derive analytical solutions for the stationary state and the mean first-passage time of the process, and we study cases informed by empirical observations of social networks. Our work shows that previously disregarded properties of real social systems, such as heterogeneous distributions of activity and attractiveness as well as the correlations between them \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:qjMakFHDy7sC",
+    "num_citations": 48,
+    "citedby_url": "/scholar?hl=en&cites=16241912876049606580,305861239428542418",
+    "cites_id": [
+      "16241912876049606580",
+      "305861239428542418"
+    ],
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.052318",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:tKfHGbXdZuEJ:scholar.google.com/",
+    "cites_per_year": {
+      "2016": 1,
+      "2017": 4,
+      "2018": 11,
+      "2019": 9,
+      "2020": 3,
+      "2021": 11,
+      "2022": 6,
+      "2023": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "What human mobility data tell us about COVID-19 spread",
+      "pub_year": 2022,
+      "citation": "Nature Reviews Physics 4 (1), 12-13, 2022",
+      "author": "Laura Alessandretti",
+      "volume": "4",
+      "number": "1",
+      "pages": "12-13",
+      "publisher": "Nature Publishing Group UK",
+      "abstract": "Peoples\u2019 movements \u2014 both local and long-distance \u2014 have driven the spread of COVID-19, within and between communities. At the same time, although most contagion events involve human travel, not all human travel leads to contagion events, and deriving information about virus spread from what is known about human mobility remains a challenge. In the past two years, new datasets and analyses have shed fresh light on the problem."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:7PzlFSSx8tAC",
+    "num_citations": 41,
+    "citedby_url": "/scholar?hl=en&cites=12210158257028342459",
+    "cites_id": [
+      "12210158257028342459"
+    ],
+    "pub_url": "https://www.nature.com/articles/s42254-021-00407-1",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:uyJ6GT4yc6kJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 21,
+      "2023": 20
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Understanding the interplay between social and spatial behaviour",
+      "pub_year": 2018,
+      "citation": "EPJ Data Science 7 (1), 36, 2018",
+      "author": "Laura Alessandretti and Sune Lehmann and Andrea Baronchelli",
+      "journal": "EPJ Data Science",
+      "volume": "7",
+      "number": "1",
+      "pages": "36",
+      "publisher": "Springer Berlin Heidelberg",
+      "abstract": "According to personality psychology, personality traits determine many aspects of human behaviour. However, validating this insight in large groups has been challenging so far, due to the scarcity of multi-channel data. Here, we focus on the relationship between mobility and social behaviour by analysing trajectories and mobile phone interactions of \u223c1000 individuals from two high-resolution longitudinal datasets. We identify a connection between the way in which individuals explore new resources and exploit known assets in the social and spatial spheres. We show that different individuals balance the exploration-exploitation trade-off in different ways and we explain part of the variability in the data by the big five personality traits. We point out that, in both realms, extraversion correlates with the attitude towards exploration and routine diversity, while neuroticism and openness account for the tendency \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:ufrVoPGSRksC",
+    "num_citations": 39,
+    "citedby_url": "/scholar?hl=en&cites=15309129358194559117,3877752661197782842",
+    "cites_id": [
+      "15309129358194559117",
+      "3877752661197782842"
+    ],
+    "pub_url": "https://epjds.epj.org/articles/epjdata/abs/2018/01/13688_2018_Article_164/13688_2018_Article_164.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jciwPwr0dNQJ:scholar.google.com/",
+    "cites_per_year": {
+      "2017": 1,
+      "2018": 0,
+      "2019": 9,
+      "2020": 6,
+      "2021": 9,
+      "2022": 10,
+      "2023": 4
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Collective dynamics of dark web marketplaces",
+      "pub_year": 2020,
+      "citation": "Scientific reports 10 (1), 1-8, 2020",
+      "author": "Abeer ElBahrawy and Laura Alessandretti and Leonid Rusnac and Daniel Goldsmith and Alexander Teytelboym and Andrea Baronchelli",
+      "journal": "Scientific reports",
+      "volume": "10",
+      "number": "1",
+      "pages": "1-8",
+      "publisher": "Nature Publishing Group",
+      "abstract": "Dark web marketplaces are websites that facilitate trade in illicit goods, mainly using Bitcoin. Since dark web marketplaces are unregulated, they do not offer any user protection, so police raids and scams regularly cause large losses to marketplace participants. However, the uncertainty has not prevented the proliferation of dark web marketplaces. Here, we investigate how the dark web marketplace ecosystem reorganises itself following marketplace closures. We analyse 24 separate episodes of unexpected marketplace closure by inspecting 133 million Bitcoin transactions among 38 million users. We focus on \u201cmigrating users\u201d who move their trading activity to a different marketplace after a closure. We find that most migrating users continue their trading activity on a single coexisting marketplace, typically the one with the highest trading volume. User migration is swift and trading volumes of migrating users \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:0EnyYjriUFMC",
+    "num_citations": 38,
+    "citedby_url": "/scholar?hl=en&cites=4130023630417054807",
+    "cites_id": [
+      "4130023630417054807"
+    ],
+    "pub_url": "https://link.springer.com/content/pdf/10.1038/s41598-020-74416-y.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:V0z6LJzKUDkJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 10,
+      "2022": 19,
+      "2023": 8
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "User-based representation of time-resolved multimodal public transportation networks",
+      "pub_year": 2016,
+      "citation": "Royal Society open science 3 (7), 160156, 2016",
+      "author": "Laura Alessandretti and M\u00e1rton Karsai and Laetitia Gauvin",
+      "journal": "Royal Society open science",
+      "volume": "3",
+      "number": "7",
+      "pages": "160156",
+      "publisher": "The Royal Society",
+      "abstract": "Multimodal transportation systems, with several coexisting services like bus, tram and metro, can be represented as time-resolved multilayer networks where the different transportation modes connecting the same set of nodes are associated with distinct network layers. Their quantitative description became possible recently due to openly accessible datasets describing the geo-localized transportation dynamics of large urban areas. Advancements call for novel analytics, which combines earlier established methods and exploits the inherent complexity of the data. Here, we provide a novel user-based representation of public transportation systems, which combines representations, accounting for the presence of multiple lines and reducing the effect of spatial embeddedness, while considering the total travel time, its variability across the schedule, and taking into account the number of transfers necessary. After the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:u5HHmVD_uO8C",
+    "num_citations": 29,
+    "citedby_url": "/scholar?hl=en&cites=4221925959358564875,8108450268484866544",
+    "cites_id": [
+      "4221925959358564875",
+      "8108450268484866544"
+    ],
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.160156",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:C0qRk0pLlzoJ:scholar.google.com/",
+    "cites_per_year": {
+      "2016": 1,
+      "2017": 3,
+      "2018": 6,
+      "2019": 6,
+      "2020": 4,
+      "2021": 5,
+      "2022": 3,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Wikipedia and cryptocurrencies: interplay between collective attention and market performance",
+      "pub_year": 2019,
+      "citation": "Frontiers in Blockchain 2, 12, 2019",
+      "author": "Abeer ElBahrawy and Laura Alessandretti and Andrea Baronchelli",
+      "journal": "Frontiers in Blockchain",
+      "volume": "2",
+      "pages": "12",
+      "publisher": "Frontiers Media SA",
+      "abstract": "The production and consumption of information on Bitcoin and other digital-, or crypto-, currencies have grown, along with their market capitalization. However, a systematic investigation of the relationship between online attention and market dynamics across multiple digital currencies is still lacking. Here, we quantify the interplay between the attention to digital currencies in Wikipedia and their market performance. We consider the entire edit history of currency-related pages and their views history from July 2015. First, we quantify the evolution of cryptocurrency presence in Wikipedia by analyzing the editorial activity and the network of co-edited pages. We found that a small community of tightly connected editors are responsible for most of the production of information about cryptocurrencies in Wikipedia. Then, we show that a simple trading strategy informed by Wikipedia views, performs better than baseline strategies, in terms of returns on investment, for most of the covered period, although the \u201cbuy and hold strategy\u201d dominates during the periods of explosive market expansion. Our results contribute to the recent literature on the interplay between online information and investment markets, and we anticipate that it will be of interest for researchers as well as investors."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:roLk4NBRz8UC",
+    "num_citations": 22,
+    "citedby_url": "/scholar?hl=en&cites=18202694923493459913",
+    "cites_id": [
+      "18202694923493459913"
+    ],
+    "pub_url": "https://www.frontiersin.org/articles/10.3389/fbloc.2019.00012/full",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:yUeiRZf2nPwJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 1,
+      "2020": 8,
+      "2021": 3,
+      "2022": 7,
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Machine learning meets number theory: The data science of Birch-Swinnerton-Dyer",
+      "pub_year": 2019,
+      "citation": "arXiv preprint arXiv:1911.02008, 2019",
+      "author": "Laura Alessandretti and Andrea Baronchelli and Yang-Hui He",
+      "journal": "arXiv preprint arXiv:1911.02008",
+      "abstract": "Empirical analysis is often the first step towards the birth of a conjecture. This is the case of the Birch-Swinnerton-Dyer (BSD) Conjecture describing the rational points on an elliptic curve, one of the most celebrated unsolved problems in mathematics. Here we extend the original empirical approach, to the analysis of the Cremona database of quantities relevant to BSD, inspecting more than 2.5 million elliptic curves by means of the latest techniques in data science, machine-learning and topological data analysis. Key quantities such as rank, Weierstrass coefficients, period, conductor, Tamagawa number, regulator and order of the Tate-Shafarevich group give rise to a high-dimensional point-cloud whose statistical properties we investigate. We reveal patterns and distributions in the rank versus Weierstrass coefficients, as well as the Beta distribution of the BSD ratio of the quantities. Via gradient boosted trees, machine learning is applied in finding inter-correlation amongst the various quantities. We anticipate that our approach will spark further research on the statistical properties of large datasets in Number Theory and more in general in pure Mathematics."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:hqOjcs7Dif8C",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=13717899482370344115",
+    "cites_id": [
+      "13717899482370344115"
+    ],
+    "pub_url": "https://arxiv.org/abs/1911.02008",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:swQzD-bEX74J:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 1,
+      "2019": 0,
+      "2020": 4,
+      "2021": 8,
+      "2022": 6,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Understanding components of mobility during the COVID-19 pandemic",
+      "pub_year": 2022,
+      "citation": "Philosophical Transactions of the Royal Society A 380 (2214), 20210118, 2022",
+      "author": "Peter Edsberg M\u00f8llgaard and Sune Lehmann and Laura Alessandretti",
+      "journal": "Philosophical Transactions of the Royal Society A",
+      "volume": "380",
+      "number": "2214",
+      "pages": "20210118",
+      "publisher": "The Royal Society",
+      "abstract": "Travel restrictions have proven to be an effective strategy to control the spread of the COVID-19 epidemics, in part because they help delay disease propagation across territories. The question, however, as to how different types of travel behaviour, from commuting to holiday-related travel, contribute to the spread of infectious diseases remains open. Here, we address this issue by using factorization techniques to decompose the temporal network describing mobility flows throughout 2020 into interpretable components. Our results are based on two mobility datasets: the first is gathered from Danish mobile network operators; the second originates from the Facebook Data-For-Good project. We find that mobility patterns can be described as the aggregation of three mobility network components roughly corresponding to travel during workdays, weekends and holidays, respectively. We show that, across datasets, in \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:dhFuZR0502QC",
+    "num_citations": 19,
+    "citedby_url": "/scholar?hl=en&cites=15778004796776284334",
+    "cites_id": [
+      "15778004796776284334"
+    ],
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2021.0118",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:roBCaMS79toJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 12,
+      "2023": 7
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Heterogeneous rarity patterns drive price dynamics in NFT collections",
+      "pub_year": 2022,
+      "citation": "Scientific reports 12 (1), 1-9, 2022",
+      "author": "Amin Mekacher and Alberto Bracci and Matthieu Nadini and Mauro Martino and Laura Alessandretti and Luca Maria Aiello and Andrea Baronchelli",
+      "journal": "Scientific reports",
+      "volume": "12",
+      "number": "1",
+      "pages": "1-9",
+      "publisher": "Nature Publishing Group",
+      "abstract": "We quantify Non Fungible Token (NFT) rarity and investigate how it impacts market behaviour by analysing a dataset of 3.7 M transactions collected between January 2018 and June 2022, involving 1.4 M NFTs distributed across 410 collections. First, we consider the rarity of an NFT based on the set of human-readable attributes it possesses and show that most collections present heterogeneous rarity patterns, with few rare NFTs and a large number of more common ones. Then, we analyze market performance and show that, on average, rarer NFTs:(i) sell for higher prices,(ii) are traded less frequently,(iii) guarantee higher returns on investment, and (iv) are less risky, ie, less prone to yield negative returns. We anticipate that these findings will be of interest to researchers as well as NFT creators, collectors, and traders."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:HDshCWvjkbEC",
+    "num_citations": 18,
+    "citedby_url": "/scholar?hl=en&cites=3346756011765107228",
+    "cites_id": [
+      "3346756011765107228"
+    ],
+    "pub_url": "https://link.springer.com/content/pdf/10.1038/s41598-022-17922-5.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HIopX9wQci4J:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 2,
+      "2023": 16
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "From Reddit to Wall Street: the role of committed minorities in financial collective action",
+      "pub_year": 2022,
+      "citation": "Royal Society Open Science 9 (4), 211488, 2022",
+      "author": "Lorenzo Lucchini and Luca Maria Aiello and Laura Alessandretti and Gianmarco De Francisci Morales and Michele Starnini and Andrea Baronchelli",
+      "journal": "Royal Society Open Science",
+      "volume": "9",
+      "number": "4",
+      "pages": "211488",
+      "publisher": "The Royal Society",
+      "abstract": "In January 2021, retail investors coordinated on Reddit to target short-selling activity by hedge funds on GameStop shares, causing a surge in the share price and triggering significant losses for the funds involved. Such an effective collective action was unprecedented in finance, and its dynamics remain unclear. Here, we analyse Reddit and financial data and rationalize the events based on recent findings describing how a small fraction of committed individuals may trigger behavioural cascades. First, we operationalize the concept of individual commitment in financial discussions. Second, we show that the increase of commitment within Reddit pre-dated the initial surge in price. Third, we reveal that initial committed users occupied a central position in the network of Reddit conversations. Finally, we show that the social identity of the broader Reddit community grew as the collective action unfolded. These findings \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:M3ejUd6NZC8C",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=5795691567146086054",
+    "cites_id": [
+      "5795691567146086054"
+    ],
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.211488",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:pi54_8VublAJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1,
+      "2022": 6,
+      "2023": 6
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Infostop: scalable stop-location detection in multi-user mobility data",
+      "pub_year": 2020,
+      "citation": "arXiv preprint arXiv:2003.14370, 2020",
+      "author": "Ulf Aslak and Laura Alessandretti",
+      "journal": "arXiv preprint arXiv:2003.14370",
+      "abstract": "Data-driven research in mobility has prospered in recent years, providing solutions to real-world challenges including forecasting epidemics and planning transportation. These advancements were facilitated by computational tools enabling the analysis of large-scale data-sets of digital traces. One of the challenges when pre-processing spatial trajectories is the so-called stop location detection, that entails the reduction of raw time series to sequences of destinations where an individual was stationary. The most widely adopted solution to this problem was proposed by Hariharan and Toyama (2004) and involves filtering out non-stationary measurements, then applying agglomerative clustering on the stationary points. This state-of-the-art solution, however, suffers of two limitations: (i) frequently visited places located very close (such as adjacent buildings) are likely to be merged into a unique location, due to inherent measurement noise, (ii) traces for multiple users can not be analysed simultaneously, thus the definition of destination is not shared across users. In this paper, we describe the Infostop algorithm that overcomes the limitations of the state-of-the-art solution by leveraging the flow-based network community detection algorithm Infomap. We test Infostop for a population of  individuals with highly overlapping mobility. We show that the size of locations detected by Infostop saturates for increasing number of users and that time complexity grows slower than for previous solutions. We demonstrate that Infostop can be used to easily infer social meetings. Finally, we provide an open-source implementation of Infostop, written in Python \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:5nxA0vEk-isC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=5912683617003304764",
+    "cites_id": [
+      "5912683617003304764"
+    ],
+    "pub_url": "https://arxiv.org/abs/2003.14370",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PPfARGwSDlIJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 2,
+      "2021": 3,
+      "2022": 5,
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "From code to market: Network of developers and correlated returns of cryptocurrencies",
+      "pub_year": 2020,
+      "citation": "Science Advances 6 (51), eabd2204, 2020",
+      "author": "Lorenzo Lucchini and Laura Alessandretti and Bruno Lepri and Angela Gallo and Andrea Baronchelli",
+      "journal": "Science Advances",
+      "volume": "6",
+      "number": "51",
+      "pages": "eabd2204",
+      "publisher": "American Association for the Advancement of Science",
+      "abstract": "\u201cCode is law\u201d is the founding principle of cryptocurrencies. The security, transferability, availability, and other properties of crypto-assets are determined by the code through which they are created. If code is open source, as is customary for cryptocurrencies, this would prevent manipulations and grant transparency to users and traders. However, this approach considers cryptocurrencies as isolated entities, neglecting possible connections between them. Here, we show that 4% of developers contribute to the code of more than one cryptocurrency and that the market reflects these cross-asset dependencies. In particular, we reveal that the first coding event linking two cryptocurrencies through a common developer leads to the synchronization of their returns. Our results identify a clear link between the collaborative development of cryptocurrencies and their market behavior. More broadly, they reveal a so-far \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:MXK_kJrjxJIC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=8896397604753643774",
+    "cites_id": [
+      "8896397604753643774"
+    ],
+    "pub_url": "https://www.science.org/doi/abs/10.1126/sciadv.abd2204",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_hj6g3xadnsJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 1,
+      "2021": 3,
+      "2022": 5,
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "How rarity shapes the NFT market",
+      "pub_year": 2022,
+      "citation": "arXiv preprint arXiv:2204.10243, 2022",
+      "author": "Amin Mekacher and Alberto Bracci and Matthieu Nadini and Mauro Martino and Laura Alessandretti and Luca Maria Aiello and Andrea Baronchelli",
+      "journal": "arXiv preprint arXiv:2204.10243",
+      "abstract": "We quantify Non Fungible Token (NFT) rarity and investigate how it impacts market behaviour by analysing a dataset of 3.7M transactions collected between January 2018 and March 2022, involving 1.3M NFTs distributed across 410 collections. First, we consider the rarity of an NFT based on the set of human-readable attributes it possesses and show that most collections present heterogeneous rarity patterns, with few rare NFTs and a large number of more common ones. Then, we analyse market performance and show that, on average, rarer NFTs: (i) sell for higher prices, (ii) are traded less frequently, (iii) guarantee higher returns on investment (ROIs), and (iv) are less risky, i.e., less prone to yield negative returns. We anticipate that these findings will be of interest to researchers as well as NFT creators, collectors, and traders."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:hC7cP41nSMkC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=13940232727102769914",
+    "cites_id": [
+      "13940232727102769914"
+    ],
+    "pub_url": "https://arxiv.org/abs/2204.10243",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-ko8ic6ndcEJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 6,
+      "2023": 4
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Temporal and cultural limits of privacy in smartphone app usage",
+      "pub_year": 2021,
+      "citation": "Scientific reports 11 (1), 1-9, 2021",
+      "author": "Vedran Sekara and Laura Alessandretti and Enys Mones and H\u00e5kan Jonsson",
+      "journal": "Scientific reports",
+      "volume": "11",
+      "number": "1",
+      "pages": "1-9",
+      "publisher": "Nature Publishing Group",
+      "abstract": "Large-scale collection of human behavioural data by companies raises serious privacy concerns. We show that behaviour captured in the form of application usage data collected from smartphones is highly unique even in large datasets encompassing millions of individuals. This makes behaviour-based re-identification of users across datasets possible. We study 12 months of data from 3.5 million people from 33 countries and show that although four apps are enough to uniquely re-identify 91.2% of individuals using a simple strategy based on public information, there are considerable seasonal and cultural variations in re-identification rates. We find that people have more unique app-fingerprints during summer months making it easier to re-identify them. Further, we find significant variations in uniqueness across countries, and reveal that American users are the easiest to re-identify, while Finns have the least \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:Zph67rFs4hoC",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=17758909330542441834",
+    "cites_id": [
+      "17758909330542441834"
+    ],
+    "pub_url": "https://link.springer.com/content/pdf/10.1038/s41598-021-82294-1.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ajVaBfJRdPYJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1,
+      "2022": 7
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Multimodal urban mobility and multilayer transport networks",
+      "pub_year": 2022,
+      "citation": "Environment and Planning B: Urban Analytics and City Science, 23998083221108190, 2022",
+      "author": "Laura Alessandretti and Luis Guillermo Natera Orozco and Meead Saberi and Michael Szell and Federico Battiston",
+      "journal": "Environment and Planning B: Urban Analytics and City Science",
+      "pages": "23998083221108190",
+      "publisher": "SAGE Publications",
+      "abstract": "Transportation networks, from bicycle paths to buses and railways, are the backbone of urban mobility. In large metropolitan areas, the integration of different transport modes has become crucial to guarantee the fast and sustainable flow of people. Using a network science approach, multimodal transport systems can be described as multilayer networks, where the networks associated to different transport modes are not considered in isolation, but as a set of interconnected layers. Despite the importance of multimodality in modern cities, a unified view of the topic is currently missing. Here, we provide a comprehensive overview of the emerging research areas of multilayer transport networks and multimodal urban mobility, focusing on contributions from the interdisciplinary fields of complex systems, urban data science, and science of cities. First, we present an introduction to the mathematical framework of multilayer \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:mB3voiENLucC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=10702199267237340710",
+    "cites_id": [
+      "10702199267237340710"
+    ],
+    "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/23998083221108190",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:JqYg54fZhZQJ:scholar.google.com/",
+    "cites_per_year": {
+      "2023": 4
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Multimodal urban mobility and multilayer transport networks",
+      "pub_year": 2021,
+      "citation": "arXiv preprint arXiv:2111.02152, 2021",
+      "author": "Luis Guillermo Natera Orozco and Laura Alessandretti and Meead Saberi and Michael Szell and Federico Battiston",
+      "journal": "arXiv preprint arXiv:2111.02152",
+      "abstract": "Transportation networks, from bicycle paths to buses and railways, are the backbone of urban mobility. In large metropolitan areas, the integration of different transport modes has become crucial to guarantee the fast and sustainable flow of people. Using a network science approach, multimodal transport systems can be described as multilayer networks, where the networks associated to different transport modes are not considered in isolation, but as a set of interconnected layers. Despite the importance of multimodality in modern cities, a unified view of the topic is currently missing. Here, we provide a comprehensive overview of the emerging research areas of multilayer transport networks and multimodal urban mobility, focusing on contributions from the interdisciplinary fields of complex systems, urban data science, and science of cities. First, we present an introduction to the mathematical framework of multilayer networks. We apply it to survey models of multimodal infrastructures, as well as measures used for quantifying multimodality, and related empirical findings. We review modelling approaches and observational evidence in multimodal mobility and public transport system dynamics, focusing on integrated real-world mobility patterns, where individuals navigate urban systems using different transport modes. We then provide a survey of freely available datasets on multimodal infrastructure and mobility, and a list of open source tools for their analyses. Finally, we conclude with an outlook on open research questions and promising directions for future research."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:Wp0gIr-vW9MC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=8429363035886195838",
+    "cites_id": [
+      "8429363035886195838"
+    ],
+    "pub_url": "https://arxiv.org/abs/2111.02152",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fhTOPAUd-3QJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1,
+      "2022": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Individual mobility in context: From high resolution trajectories to social behaviour",
+      "pub_year": 2018,
+      "citation": "City, University of London, 2018",
+      "author": "L Alessandretti",
+      "abstract": "Understanding human mobility can help creating solutions to society-wide issues, from urban planning and traffic forecasting, to the modelling of epidemics. Existing studies have shown that knowledge on how single individuals take spatial decisions is fundamental for modelling collective mobility patterns. However, individual mobility remains poorly understood, also due to the lack of suitable data. In this thesis, we use novel datasets to characterize and model mobility in relation to other individual aspects: social behaviour, personality, and demographic attributes. Our study focuses on mobility across unprecedented spatial ranges, from ~ 10 m to ~ 10000 Km, and temporal scales, from seconds to years."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:WF5omc3nYNoC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=3365509983026255585",
+    "cites_id": [
+      "3365509983026255585"
+    ],
+    "pub_url": "https://openaccess.city.ac.uk/id/eprint/20077/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4ZZPkn-xtC4J:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 1,
+      "2019": 0,
+      "2020": 1,
+      "2021": 0,
+      "2022": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "A new computational model for human navigation",
+      "pub_year": 2021,
+      "citation": "Nature Computational Science 1 (10), 642-643, 2021",
+      "author": "Laura Alessandretti",
+      "journal": "Nature Computational Science",
+      "volume": "1",
+      "number": "10",
+      "pages": "642-643",
+      "publisher": "Nature Publishing Group US",
+      "abstract": "Mobile-phone data reveal a cognitive strategy in human navigation and motivate the development of a new route planning model, with potential implications for traffic forecasting and transportation planning."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:4DMP91E08xMC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=13272999714027841569",
+    "cites_id": [
+      "13272999714027841569"
+    ],
+    "pub_url": "https://www.nature.com/articles/s43588-021-00118-8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Iah9ouoqM7gJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Crypocurrency co-investment network: token returns reflect investment patterns",
+      "pub_year": 2023,
+      "citation": "arXiv preprint arXiv:2301.02027, 2023",
+      "author": "Luca Mungo and Bartolucci Silvia and Laura Alessandretti",
+      "journal": "arXiv preprint arXiv:2301.02027",
+      "abstract": "Since the introduction of Bitcoin in 2009, the dramatic and unsteady evolution of the cryptocurrency market has also been driven by large investments by traditional and cryptocurrency-focused hedge funds. Notwithstanding their critical role, our understanding of the relationship between institutional investments and the evolution of the cryptocurrency market has remained limited, also due to the lack of comprehensive data describing investments over time. In this study, we present a quantitative study of cryptocurrency institutional investments based on a dataset collected for 1324 currencies in the period between 2014 and 2022 from Crunchbase, one of the largest platforms gathering business information. We show that the evolution of the cryptocurrency market capitalization is highly correlated with the size of institutional investments, thus confirming their important role. Further, we find that the market is dominated by the presence of a group of prominent investors who tend to specialise by focusing on particular technologies. Finally, studying the co-investment network of currencies that share common investors, we show that assets with shared investors tend to be characterized by similar market behavior. Our work sheds light on the role played by institutional investors and provides a basis for further research on their influence in the cryptocurrency ecosystem."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:bEWYMUwI8FkC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=12081019924863464592",
+    "cites_id": [
+      "12081019924863464592"
+    ],
+    "pub_url": "https://arxiv.org/abs/2301.02027",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kDTnGZ1nqKcJ:scholar.google.com/",
+    "cites_per_year": {
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Multimodal urban mobility and multilayer transport networks",
+      "pub_year": 2021,
+      "citation": "arXiv e-prints, arXiv: 2111.02152, 2021",
+      "author": "Luis Guillermo Natera Orozco and Laura Alessandretti and Meead Saberi and Michael Szell and Federico Battiston",
+      "journal": "arXiv e-prints",
+      "pages": "arXiv: 2111.02152",
+      "abstract": "Transportation networks, from bicycle paths to buses and railways, are the backbone of urban mobility. In large metropolitan areas, the integration of different transport modes has become crucial to guarantee the fast and sustainable flow of people. Using a network science approach, multimodal transport systems can be described as multilayer networks, where the networks associated to different transport modes are not considered in isolation, but as a set of interconnected layers. Despite the importance of multimodality in modern cities, a unified view of the topic is currently missing. Here, we provide a comprehensive overview of the emerging research areas of multilayer transport networks and multimodal urban mobility, focusing on contributions from the interdisciplinary fields of complex systems, urban data science, and science of cities. First, we present an introduction to the mathematical framework of multilayer \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:mVmsd5A6BfQC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=8599540960585916931",
+    "cites_id": [
+      "8599540960585916931"
+    ],
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211102152N/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:AyIl-_C0V3cJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Trip frequency is key ingredient in new law of human travel",
+      "pub_year": 2021,
+      "citation": "Nature 593 (7860), 515-516, 2021",
+      "author": "Laura Alessandretti and Sune Lehmann",
+      "volume": "593",
+      "number": "7860",
+      "pages": "515-516",
+      "publisher": "Nature Publishing Group",
+      "abstract": "An analysis of mobile-phone tracking data has revealed a universal pattern that describes the interplay between the distances travelled by humans on trips and the frequency with which those trips are made."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:ULOm3_A8WrAC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=12414939588676432561",
+    "cites_id": [
+      "12414939588676432561"
+    ],
+    "pub_url": "https://www.nature.com/articles/d41586-021-01355-7/feed/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sTL-Wse5SqwJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Law of human travel uncovered",
+      "pub_year": 2021,
+      "citation": "Nature 593 (7860), 515-516, 2021",
+      "author": "Laura Alessandretti and Sune Lehmann J\u00f8rgensen",
+      "journal": "Nature",
+      "volume": "593",
+      "number": "7860",
+      "pages": "515-516",
+      "publisher": "Nature Publishing Group",
+      "abstract": "An analysis of mobile-phone tracking data has revealed a universal pattern that describes the interplay between the distances travelled by humans on trips and the frequency with which those trips are made. A relationship between trip frequency and distance travelled."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:_kc_bZDykSQC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=1157017517965584274",
+    "cites_id": [
+      "1157017517965584274"
+    ],
+    "pub_url": "https://orbit.dtu.dk/en/publications/law-of-human-travel-uncovered",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kic-bU2NDhAJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Gender-specific behavior change following terror attacks",
+      "pub_year": 2020,
+      "citation": "arXiv preprint arXiv:2004.02957, 2020",
+      "author": "Jonas S Juul and Laura Alessandretti and Jesper Dammeyer and Ingo Zettler and Sune Lehmann and Joachim Mathiesen",
+      "journal": "arXiv preprint arXiv:2004.02957",
+      "abstract": "Terrorists use violence in pursuit of political goals. While terror often has severe consequences for victims, it remains an open question how terror attacks affect the general population. We study the behavioral response of citizens of cities affected by  different terror attacks. We compare real-time mobile communication patterns in the first  hours following a terror attack to the corresponding patterns on days with no terror attack. On ordinary days, the group of female and male participants have different activity patterns. Following a terror attack, however, we observe a significant increase of the gender differences. Knowledge about citizens' behavior response patterns following terror attacks may have important implications for the public response during and after an attack."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:8k81kl-MbHgC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=7996605135810437907",
+    "cites_id": [
+      "7996605135810437907"
+    ],
+    "pub_url": "https://arxiv.org/abs/2004.02957",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:E6ML0QCm-W4J:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Group-specific behavior change following terror attacks",
+      "pub_year": 2023,
+      "citation": "Journal of Computational Social Science 6 (1), 1-18, 2023",
+      "author": "Jonas L Juul and Laura Alessandretti and Jesper Dammeyer and Ingo Zettler and Sune Lehmann and Joachim Mathiesen",
+      "journal": "Journal of Computational Social Science",
+      "volume": "6",
+      "number": "1",
+      "pages": "1-18",
+      "publisher": "Springer Nature Singapore",
+      "abstract": "Terrorists use violence in pursuit of political goals. While terror often has severe consequences for victims, it remains an open question how terror attacks affect the general population. We study the behavioral response of citizens of cities affected by 7 different terror attacks. We compare real-time mobile communication patterns in the first 24 hours following a terror attack to the corresponding patterns on days with no terror attack. We find that the difference between male and female communication patterns are amplified following a terror attack. Knowledge about citizens\u2019 behavior response patterns following terror attacks may have important implications for the public response during and after an attack."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:RHpTSmoSYBkC",
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/article/10.1007/s42001-022-00188-2",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1Waqmnoyn7MJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Network approach for the analysis of the irreversible deformation of solids with soft heterogeneities",
+      "pub_year": 2022,
+      "citation": "Physical Review Materials 6 (11), L110601, 2022",
+      "author": "Tito Andriollo and Varvara Kouznetsova and Laura Alessandretti",
+      "journal": "Physical Review Materials",
+      "volume": "6",
+      "number": "11",
+      "pages": "L110601",
+      "publisher": "American Physical Society",
+      "abstract": "We introduce the concept of shear band network (SBN) in ductile solids containing soft particles to investigate their irreversible deformation. Drawing on network science tools, we show that the evolution of the SBN explains the material strength at the coarse scale. To gain physical understanding of the activation order of the SBN links during tensile loading, we develop an analytical model based on the continuum theory of irreversible deformation. The results are used to construct an efficient, parameter-free indicator of the material strength that is solely based on the particle size and spatial distribution, thus proving that network science can advance the understanding of strength mechanisms in ductile solids."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:iH-uZ7U-co4C",
+    "num_citations": 0,
+    "pub_url": "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.L110601",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:T8_p5zb_xwIJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Urban Mobility",
+      "pub_year": 2022,
+      "citation": "arXiv preprint arXiv:2211.00355, 2022",
+      "author": "Laura Alessandretti and Michael Szell",
+      "journal": "arXiv preprint arXiv:2211.00355",
+      "abstract": "In this chapter, we discuss urban mobility from a complexity science perspective. First, we give an overview of the datasets that enable this approach, such as mobile phone records, location-based social network traces, or GPS trajectories from sensors installed on vehicles. We then review the empirical and theoretical understanding of the properties of human movements, including the distribution of travel distances and times, the entropy of trajectories, and the interplay between exploration and exploitation of locations. Next, we explain generative and predictive models of individual mobility, and their limitations due to intrinsic limits of predictability. Finally, we discuss urban transport from a systemic perspective, including system-wide challenges like ridesharing, multimodality, and sustainable transport."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:e5wmG9Sq2KIC",
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2211.00355",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Jt7zJPPoouAJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "From centre to centres: polycentric structures in individual mobility",
+      "pub_year": 2021,
+      "citation": "arXiv preprint arXiv:2108.08113, 2021",
+      "author": "Rohit Sahasrabuddhe and Renaud Lambiotte and Laura Alessandretti",
+      "journal": "arXiv preprint arXiv:2108.08113",
+      "abstract": "The availability of large-scale datasets collected via mobile phones has opened up opportunities to study human mobility at an individual level. The granular nature of these datasets calls for the design of summary statistics that can be used to describe succinctly mobility patterns. In this work, we show that the radius of gyration, a popular summary statistic to quantify the extent of an individual's whereabouts, suffers from a sensitivity to outliers, and is incapable of capturing mobility organised around multiple centres. We propose a natural generalisation of the radius of gyration to a polycentric setting, as well as a novel metric to assess the quality of its description. With these notions, we propose a method to identify the centres in an individual's mobility and apply it to two large mobility datasets with socio-demographic features, showing that a polycentric description can capture features that a monocentric model is incapable of."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:qxL8FJ1GzNcC",
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2108.08113",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jodMckoyvG4J:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "ORCID: 0000-0002-0255-0829 (2019)",
+      "citation": "Collective Dynamics of Dark Web Marketplaces. City, Univeristy of London \u2026, 0",
+      "author": "A ElBahrawy and L Alessandretti and L Rusnac and D Goldsmith and A Teytelboym and A Baronchelli",
+      "journal": "Collective Dynamics of Dark Web Marketplaces. City, Univeristy of London. This is the draft version of the paper. This version of the publication may differ from the final published version",
+      "abstract": "Dark markets are commercial websites that use Bitcoin to sell or broker transactions involving drugs, weapons, and other illicit goods. Being illegal, they do not offer any user protection, and several police raids and scams have caused large losses to both customers and vendors over the past years. However, this uncertainty has not prevented a steady growth of the dark market phenomenon and a proliferation of new markets. The origin of this resilience have remained unclear so far, also due to the difficulty of identifying relevant Bitcoin transaction data. Here, we investigate how the dark market ecosystem re-organises following the disappearance of a market, due to factors including raids and scams. To do so, we analyse 24 episodes of unexpected market closure through a novel datasets of 133 million Bitcoin transactions involving 31 dark markets and their users, totalling 4 billion USD. We show that coordinated user migration from the closed market to coexisting markets guarantees overall systemic resilience beyond the intrinsic fragility of individual markets. The migration is swift, efficient and common to all market closures. We find that migrants are on average more active users in comparison to non-migrants and move preferentially towards the coexisting market with the highest trading volume. Our findings shed light on the resilience of the dark market ecosystem and we anticipate that they may inform future research on the self-organisation of emerging online markets."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:hFOr9nPyWt4C",
+    "num_citations": 0,
+    "pub_url": "https://core.ac.uk/download/pdf/266990049.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:etiFtgUgZnEJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Multi-Scale Spatio-Temporal Analysis of Human Mobility Supporting Information",
+      "citation": "",
+      "author": "Laura Alessandretti and Piotr Sapiezynski and Sune Lehmann and Andrea Baronchelli",
+      "abstract": "We determine the routers\u2019 locations using the approach described in [1] with a slight modification. The original method used only GPS location estimations calculated at the same second as a corresponding WiFi scan. Here, we consider all location estimations from Android Location API, including network based estimations. Additionally, we relax the same-second requirement as follows. In the spatio-temporal trace of each user we identify periods from time t0 to time tN where the user was stationary, also referred to as stop locations. This means that the distance between the user\u2019s location at t0 and tN is below d meters, and that there exist a location estimation between t0 and tN at least every n seconds. Also, it implies that each location estimation within the stop location is within d from the user\u2019s location at tN. At tN, the individual stop-location changes. We select n as 305 seconds, thus requiring no missing data, since the sampling period of GPS location in the experiment is approximately 300 seconds. We select d as 30 meters, a safe range compared to the typical GPS errors, thus requiring that the user remains in the same location within the resolution of a building. After identifying these stop locations, we assign the geometric median position of estimations to all routers scanned in these periods."
+    },
+    "filled": true,
+    "author_pub_id": "2265XuYAAAAJ:Se3iqnhoufwC",
+    "num_citations": 0,
+    "pub_url": "http://pstorage-plos-3567654.s3.amazonaws.com/7598671/S1File.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZPTzBRpVYFoJ:scholar.google.com/",
+    "cites_per_year": {}
+  }
+]

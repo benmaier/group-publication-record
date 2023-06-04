@@ -1,0 +1,251 @@
+[
+  {
+    "title": "Comparing information diffusion mechanisms by matching on cascade size",
+    "pub_year": 2021,
+    "citation": "Proceedings of the National Academy of Sciences 118 (46), e2100786118, 2021",
+    "author": [
+      "Jonas L Juul",
+      "Johan Ugander"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "118",
+    "number": "46",
+    "pages": "e2100786118",
+    "conference": null,
+    "num_citations": 43,
+    "pub_url": "https://www.pnas.org/doi/abs/10.1073/pnas.2100786118"
+  },
+  {
+    "title": "Hipsters on networks: How a minority group of individuals can lead to an antiestablishment majority",
+    "pub_year": 2019,
+    "citation": "Physical Review E 99 (2), 022313, 2019",
+    "author": [
+      "Jonas S Juul",
+      "Mason A Porter"
+    ],
+    "journal": "Physical Review E",
+    "volume": "99",
+    "number": "2",
+    "pages": "022313",
+    "conference": null,
+    "num_citations": 39,
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.022313"
+  },
+  {
+    "title": "Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles",
+    "pub_year": 2021,
+    "citation": "Nature physics 17 (1), 5-8, 2021",
+    "author": [
+      "Jonas L Juul",
+      "Kaare Gr\u00e6sb\u00f8ll",
+      "Lasse Engbo Christiansen",
+      "Sune Lehmann"
+    ],
+    "journal": "Nature physics",
+    "volume": "17",
+    "number": "1",
+    "pages": "5-8",
+    "conference": null,
+    "num_citations": 17,
+    "pub_url": "https://www.nature.com/articles/s41567-020-01121-y"
+  },
+  {
+    "title": "Synergistic effects in threshold models on networks",
+    "pub_year": 2018,
+    "citation": "Chaos: An Interdisciplinary Journal of Nonlinear Science 28 (1), 013115, 2018",
+    "author": [
+      "Jonas S Juul",
+      "Mason A Porter"
+    ],
+    "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
+    "volume": "28",
+    "number": "1",
+    "pages": "013115",
+    "conference": null,
+    "num_citations": 17,
+    "pub_url": "https://aip.scitation.org/doi/abs/10.1063/1.5017962"
+  },
+  {
+    "title": "Descendant distributions for the impact of mutant contagion on networks",
+    "pub_year": 2020,
+    "citation": "Physical Review Research 2 (3), 033005, 2020",
+    "author": [
+      "Jonas S Juul",
+      "Steven H Strogatz"
+    ],
+    "journal": "Physical Review Research",
+    "volume": "2",
+    "number": "3",
+    "pages": "033005",
+    "conference": null,
+    "num_citations": 8,
+    "pub_url": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033005"
+  },
+  {
+    "title": "Are fast test results preferable to high test sensitivity in contact-tracing strategies?",
+    "pub_year": 2021,
+    "citation": "medRxiv, 2021.02. 17.21251921, 2021",
+    "author": [
+      "Jonas L Juul",
+      "Kaare Gr\u00e6sb\u00f8ll"
+    ],
+    "journal": "medRxiv",
+    "volume": null,
+    "number": null,
+    "pages": "2021.02. 17.21251921",
+    "conference": null,
+    "num_citations": 5,
+    "pub_url": "https://www.medrxiv.org/content/10.1101/2021.02.17.21251921.abstract"
+  },
+  {
+    "title": "Entrainment as a means of controlling phase waves in populations of coupled oscillators",
+    "pub_year": 2018,
+    "citation": "Physical Review E 98 (6), 062412, 2018",
+    "author": [
+      "Jonas S Juul",
+      "Sandeep Krishna",
+      "Mogens H Jensen"
+    ],
+    "journal": "Physical Review E",
+    "volume": "98",
+    "number": "6",
+    "pages": "062412",
+    "conference": null,
+    "num_citations": 5,
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.062412"
+  },
+  {
+    "title": "Hypergraph patterns and collaboration structure",
+    "pub_year": 2022,
+    "citation": "arXiv preprint arXiv:2210.02163, 2022",
+    "author": [
+      "Jonas L Juul",
+      "Austin R Benson",
+      "Jon Kleinberg"
+    ],
+    "journal": "arXiv preprint arXiv:2210.02163",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 4,
+    "pub_url": "https://arxiv.org/abs/2210.02163"
+  },
+  {
+    "title": "Isospectral discrete and quantum graphs with the same flip counts and nodal counts",
+    "pub_year": 2018,
+    "citation": "Journal of Physics A: Mathematical and Theoretical 51 (24), 245101, 2018",
+    "author": [
+      "Jonas S Juul",
+      "Christopher H Joyner"
+    ],
+    "journal": "Journal of Physics A: Mathematical and Theoretical",
+    "volume": "51",
+    "number": "24",
+    "pages": "245101",
+    "conference": null,
+    "num_citations": 4,
+    "pub_url": "https://iopscience.iop.org/article/10.1088/1751-8121/aac039/meta"
+  },
+  {
+    "title": "Constraints on somite formation in developing embryos",
+    "pub_year": 2019,
+    "citation": "Journal of the Royal Society Interface 16, 2019",
+    "author": [
+      "Jonas S. Juul",
+      "Mogens H. Jensen",
+      "Sandeep Krishna"
+    ],
+    "journal": "Journal of the Royal Society Interface",
+    "volume": "16",
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 3,
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2019.0451"
+  },
+  {
+    "title": "Group-specific behavior change following terror attacks",
+    "pub_year": 2023,
+    "citation": "Journal of Computational Social Science 6 (1), 1-18, 2023",
+    "author": [
+      "Jonas L Juul",
+      "Laura Alessandretti",
+      "Jesper Dammeyer",
+      "Ingo Zettler",
+      "Sune Lehmann",
+      "Joachim Mathiesen"
+    ],
+    "journal": "Journal of Computational Social Science",
+    "volume": "6",
+    "number": "1",
+    "pages": "1-18",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://link.springer.com/article/10.1007/s42001-022-00188-2"
+  },
+  {
+    "title": "How a minority can win: Unrepresentative outcomes in a simple model of voter turnout",
+    "pub_year": 2021,
+    "citation": "Physical Review E 104 (5), 054307, 2021",
+    "author": [
+      "Ekaterina Landgren",
+      "Jonas L Juul",
+      "Steven H Strogatz"
+    ],
+    "journal": "Physical Review E",
+    "volume": "104",
+    "number": "5",
+    "pages": "054307",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054307"
+  },
+  {
+    "title": "Comparing the efficiency of forward and backward contact tracing",
+    "pub_year": 2022,
+    "citation": "arXiv preprint arXiv:2206.15080, 2022",
+    "author": [
+      "Jonas L Juul",
+      "Steven H Strogatz"
+    ],
+    "journal": "arXiv preprint arXiv:2206.15080",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2206.15080"
+  },
+  {
+    "title": "The Rules of Contagion: Why Things Spread\u2014And Why They Stop: by Adam Kucharski BASIC BOOKS, 2020, 352 PP., US$30.00, ISBN-13: 978154167431",
+    "pub_year": 2022,
+    "citation": "The Mathematical Intelligencer 44 (1), 76-77, 2022",
+    "author": [
+      "Sune Lehmann",
+      "Jonas L Juul"
+    ],
+    "journal": null,
+    "volume": "44",
+    "number": "1",
+    "pages": "76-77",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/article/10.1007/s00283-021-10107-4"
+  },
+  {
+    "title": "Synchronisation, shocks and contagion in a connected world",
+    "pub_year": 2019,
+    "citation": "Niels Bohr Institute, 2019",
+    "author": [
+      "Jonas S\u00f8gaard Juul"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://nbi.ku.dk/english/theses/phd-theses/jonas-soegaard-juul/JonasL-Juul.pdf"
+  }
+]

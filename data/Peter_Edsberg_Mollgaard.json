@@ -1,0 +1,31 @@
+[
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Understanding components of mobility during the COVID-19 pandemic",
+      "pub_year": 2022,
+      "citation": "Philosophical Transactions of the Royal Society A 380 (2214), 20210118, 2022",
+      "author": "Peter Edsberg M\u00f8llgaard and Sune Lehmann and Laura Alessandretti",
+      "journal": "Philosophical Transactions of the Royal Society A",
+      "volume": "380",
+      "number": "2214",
+      "pages": "20210118",
+      "publisher": "The Royal Society",
+      "abstract": "Travel restrictions have proven to be an effective strategy to control the spread of the COVID-19 epidemics, in part because they help delay disease propagation across territories. The question, however, as to how different types of travel behaviour, from commuting to holiday-related travel, contribute to the spread of infectious diseases remains open. Here, we address this issue by using factorization techniques to decompose the temporal network describing mobility flows throughout 2020 into interpretable components. Our results are based on two mobility datasets: the first is gathered from Danish mobile network operators; the second originates from the Facebook Data-For-Good project. We find that mobility patterns can be described as the aggregation of three mobility network components roughly corresponding to travel during workdays, weekends and holidays, respectively. We show that, across datasets, in \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "fOsXIgcAAAAJ:u5HHmVD_uO8C",
+    "num_citations": 19,
+    "citedby_url": "/scholar?hl=en&cites=15778004796776284334",
+    "cites_id": [
+      "15778004796776284334"
+    ],
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2021.0118",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:roBCaMS79toJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 12,
+      "2023": 7
+    }
+  }
+]

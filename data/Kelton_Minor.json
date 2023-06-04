@@ -1,0 +1,500 @@
+[
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "The 2021 report of the Lancet Countdown on health and climate change: code red for a healthy future",
+      "pub_year": 2021,
+      "citation": "The Lancet 398 (10311), 1619-1662, 2021",
+      "author": "Marina Romanello and Alice McGushin and Claudia Di Napoli and Paul Drummond and Nick Hughes and Louis Jamart and Harry Kennard and Pete Lampard and Baltazar Solano Rodriguez and Nigel Arnell and Sonja Ayeb-Karlsson and Kristine Belesova and Wenjia Cai and Diarmid Campbell-Lendrum and Stuart Capstick and Jonathan Chambers and Lingzhi Chu and Luisa Ciampi and Carole Dalin and Niheer Dasandi and Shouro Dasgupta and Michael Davies and Paula Dominguez-Salas and Robert Dubrow and Kristie L Ebi and Matthew Eckelman and Paul Ekins and Luis E Escobar and Lucien Georgeson and Delia Grace and Hilary Graham and Samuel H Gunther and Stella Hartinger and Kehan He and Clare Heaviside and Jeremy Hess and Shih-Che Hsu and Slava Jankin and Marcia P Jimenez and Ilan Kelman and Gregor Kiesewetter and Patrick L Kinney and Tord Kjellstrom and Dominic Kniveton and Jason KW Lee and Bruno Lemke and Yang Liu and Zhao Liu and Melissa Lott and Rachel Lowe and Jaime Martinez-Urtaza and Mark Maslin and Lucy McAllister and Celia McMichael and Zhifu Mi and James Milner and Kelton Minor and Nahid Mohajeri and Maziar Moradi-Lakeh and Karyn Morrissey and Simon Munzert and Kris A Murray and Tara Neville and Maria Nilsson and Nick Obradovich and Maquins Odhiambo Sewe and Tadj Oreszczyn and Matthias Otto and Fereidoon Owfi and Olivia Pearman and David Pencheon and Mahnaz Rabbaniha and Elizabeth Robinson and Joacim Rockl\u00f6v and Renee N Salas and Jan C Semenza and Jodi Sherman and Liuhua Shi and Marco Springmann and Meisam Tabatabaei and Jonathon Taylor and Joaquin Trinanes and Joy Shumake-Guillemot and Bryan Vu and Fabian Wagner and Paul Wilkinson and Matthew Winning and Marisol Yglesias and Shihui Zhang and Peng Gong and Hugh Montgomery and Anthony Costello and Ian Hamilton",
+      "volume": "398",
+      "number": "10311",
+      "pages": "1619-1662",
+      "publisher": "Elsevier",
+      "abstract": "The Lancet Countdown is an international collaboration that independently monitors the health consequences of a changing climate. Publishing updated, new, and improved indicators each year, the Lancet Countdown represents the consensus of leading researchers from 43 academic institutions and UN agencies. The 44 indicators of this report expose an unabated rise in the health impacts of climate change and the current health consequences of the delayed and inconsistent response of countries around the globe\u2014providing a clear imperative for accelerated action that puts the health of people and planet above all else."
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:WF5omc3nYNoC",
+    "num_citations": 566,
+    "citedby_url": "/scholar?hl=en&cites=15606338732411823025",
+    "cites_id": [
+      "15606338732411823025"
+    ],
+    "pub_url": "https://www.thelancet.com/article/S0140-6736(21)01787-6/fulltext",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:saPTJWTalNgJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 26,
+      "2022": 334,
+      "2023": 182
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Ecological grief and anxiety: the start of a healthy response to climate change?",
+      "pub_year": 2020,
+      "citation": "The Lancet Planetary Health 4 (7), e261-e263, 2020",
+      "author": "Ashlee Cunsolo and Sherilee L Harper and Kelton Minor and Katie Hayes and Kimberly G Williams and Courtney Howard",
+      "journal": "The Lancet Planetary Health",
+      "volume": "4",
+      "number": "7",
+      "pages": "e261-e263",
+      "publisher": "Elsevier",
+      "abstract": "There is increasing global awareness that the next 10 years must be a period of extensive and rapid mitigation and adaptation to safeguard humanity from the worst harms of the climate crisis. An urgent need for action was recently underscored by three Intergovernmental Panel on Climate Change Special Reports: the Special Report on Global Warming of 1\u00b7 5 C, the Special Report on Climate Change and Land, and the Special Report on the Ocean and Cryosphere in a Changing Climate. Similarly, the 2019 report of the Lancet"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:UeHWp8X0CEIC",
+    "num_citations": 186,
+    "citedby_url": "/scholar?hl=en&cites=11023954698048626555",
+    "cites_id": [
+      "11023954698048626555"
+    ],
+    "pub_url": "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(20)30144-3/fulltext",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:e98v9WP0_JgJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 11,
+      "2021": 30,
+      "2022": 101,
+      "2023": 37
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "The 2022 report of the Lancet Countdown on health and climate change: health at the mercy of fossil fuels",
+      "pub_year": 2022,
+      "citation": "The Lancet 400 (10363), 1619-1654, 2022",
+      "author": "Marina Romanello and Claudia Di Napoli and Paul Drummond and Carole Green and Harry Kennard and Pete Lampard and Daniel Scamman and Nigel Arnell and Sonja Ayeb-Karlsson and Lea Berrang Ford and Kristine Belesova and Kathryn Bowen and Wenjia Cai and Max Callaghan and Diarmid Campbell-Lendrum and Jonathan Chambers and Kim R van Daalen and Carole Dalin and Niheer Dasandi and Shouro Dasgupta and Michael Davies and Paula Dominguez-Salas and Robert Dubrow and Kristie L Ebi and Matthew Eckelman and Paul Ekins and Luis E Escobar and Lucien Georgeson and Hilary Graham and Samuel H Gunther and Ian Hamilton and Yun Hang and Risto H\u00e4nninen and Stella Hartinger and Kehan He and Jeremy J Hess and Shih-Che Hsu and Slava Jankin and Louis Jamart and Ollie Jay and Ilan Kelman and Gregor Kiesewetter and Patrick Kinney and Tord Kjellstrom and Dominic Kniveton and Jason KW Lee and Bruno Lemke and Yang Liu and Zhao Liu and Melissa Lott and Martin Lotto Batista and Rachel Lowe and Frances MacGuire and Maquins Odhiambo Sewe and Jaime Martinez-Urtaza and Mark Maslin and Lucy McAllister and Alice McGushin and Celia McMichael and Zhifu Mi and James Milner and Kelton Minor and Jan C Minx and Nahid Mohajeri and Maziar Moradi-Lakeh and Karyn Morrissey and Simon Munzert and Kris A Murray and Tara Neville and Maria Nilsson and Nick Obradovich and Megan B O'Hare and Tadj Oreszczyn and Matthias Otto and Fereidoon Owfi and Olivia Pearman and Mahnaz Rabbaniha and Elizabeth JZ Robinson and Joacim Rockl\u00f6v and Renee N Salas and Jan C Semenza and Jodi D Sherman and Liuhua Shi and Joy Shumake-Guillemot and Grant Silbert and Mikhail Sofiev and Marco Springmann and Jennifer Stowell and Meisam Tabatabaei and Jonathon Taylor and Joaquin Tri\u00f1anes and Fabian Wagner and Paul Wilkinson and Matthew Winning and Marisol Yglesias-Gonz\u00e1lez and Shihui Zhang and Peng Gong and Hugh Montgomery and Anthony Costello",
+      "volume": "400",
+      "number": "10363",
+      "pages": "1619-1654",
+      "publisher": "Elsevier",
+      "abstract": "The 2022 report of the Lancet Countdown is published as the world confronts profound and concurrent systemic shocks. Countries and health systems continue to contend with the health, social, and economic impacts of the COVID-19 pandemic, while Russia's invasion of Ukraine and a persistent fossil fuel overdependence has pushed the world into global energy and cost-of-living crises. As these crises unfold, climate change escalates unabated. Its worsening impacts are increasingly affecting the foundations of human health and wellbeing, exacerbating the vulnerability of the world's populations to concurrent health threats."
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:0EnyYjriUFMC",
+    "num_citations": 157,
+    "citedby_url": "/scholar?hl=en&cites=16353583540916704261,6787818390039930988",
+    "cites_id": [
+      "16353583540916704261",
+      "6787818390039930988"
+    ],
+    "pub_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01540-9/fulltext?trk=organization_guest_main-feed-card_feed-article-content",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:BdQD4ZWZ8-IJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 27,
+      "2023": 124
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Gender differences in nighttime sleep patterns and variability across the adult lifespan: a global-scale wearables study",
+      "pub_year": 2021,
+      "citation": "Sleep 44 (2), zsaa169, 2021",
+      "author": "Sigga Svala Jonasdottir and Kelton Minor and Sune Lehmann",
+      "journal": "Sleep",
+      "volume": "44",
+      "number": "2",
+      "pages": "zsaa169",
+      "publisher": "Oxford University Press",
+      "abstract": "Previous research on sleep patterns across the lifespan have largely been limited to self-report measures and constrained to certain geographic regions. Using a global sleep dataset of in situ observations from wearable activity trackers, we examine how sleep duration, timing, misalignment, and variability develop with age and vary by gender and BMI for nonshift workers.We analyze 11.14 million nights from 69,650 adult nonshift workers aged 19\u201367 from 47 countries. We use mixed effects models to examine age-related trends in naturalistic sleep patterns and assess gender and BMI differences in these trends while controlling for user and country-level variation.Our results confirm that sleep duration decreases, the prevalence of nighttime awakenings increases, while sleep onset and offset advance to become earlier \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:Tyk-4Ss8FVUC",
+    "num_citations": 64,
+    "citedby_url": "/scholar?hl=en&cites=1432769998622218843",
+    "cites_id": [
+      "1432769998622218843"
+    ],
+    "pub_url": "https://academic.oup.com/sleep/article-abstract/44/2/zsaa169/5901589",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:W9q2_Lg44hMJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 2,
+      "2021": 12,
+      "2022": 33,
+      "2023": 16
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Rising temperatures erode human sleep globally",
+      "pub_year": 2022,
+      "citation": "One Earth 5 (5), 534-549, 2022",
+      "author": "Kelton Minor and Andreas Bjerre-Nielsen and Sigga Svala Jonasdottir and Sune Lehmann and Nick Obradovich",
+      "journal": "One Earth",
+      "volume": "5",
+      "number": "5",
+      "pages": "534-549",
+      "publisher": "Cell Press",
+      "abstract": "Ambient temperatures are rising worldwide, with the greatest increases recorded at night. Concurrently, the prevalence of insufficient sleep is rising in many populations. Yet it remains unclear whether warmer-than-average temperatures causally impact objective measures of sleep globally. Here, we link billions of repeated sleep measurements from sleep-tracking wristbands comprising over 7 million sleep records (n = 47,628) across 68 countries to local daily meteorological data. Controlling for individual, seasonal, and time-varying confounds, increased temperature shortens sleep primarily through delayed onset, increasing the probability of insufficient sleep. The temperature effect on sleep loss is substantially larger for residents from lower-income countries and older adults, and females are affected more than males. Those in hotter regions experience comparably more sleep loss per degree of warming \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:LkGwnXOMwfcC",
+    "num_citations": 33,
+    "citedby_url": "/scholar?hl=en&cites=348395274187170426,15311232835326987179,5717556223518959391,12103821452851205289",
+    "cites_id": [
+      "348395274187170426",
+      "15311232835326987179",
+      "5717556223518959391",
+      "12103821452851205289"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2590332222002093",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:euJZ76e_1QQJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1,
+      "2022": 16,
+      "2023": 15
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Greenlandic Perspectives on Climate Change 2018\u20132019: Results from a National Survey",
+      "pub_year": 2019,
+      "citation": "University of Greenland and University of Copenhagen. Kraks Fond Institute \u2026, 2019",
+      "author": "Kelton Minor and Gustav Agneman and Davidsen Navarana and Kleemann Nadine and Markussen Ulunnguaq and Lassen David Dreyer and Rosing Minik Thorleif",
+      "publisher": "University of Greenland and University of Copenhagen. Kraks Fond Institute for Urban Research",
+      "abstract": "This report presents the findings from the Greenlandic Perspectives Survey (GPS), a nationally representative survey of residents\u2019 views of environmental changes and Greenland\u2019s future in a changing climate. The survey was conducted by the University of Copenhagen, the University of Greenland, Kraks Fond Institute for Urban Research and Greenland Perspective. With statistical support from Statistics Greenland, surveys were randomly allocated to residents living in randomly selected towns and settlements across Greenland\u2019s municipalities and geographic regions, as well as Nuuk and Upernavik. 646 residents in Greenland (~ 1.5% of the adult population) took the survey from July 2018-January 2019. Average margin of error:+/-3 percentage points at the 95% confidence level. Additional details about the sampling method can be found in the appendix of the report. The research was funded by Kraks Fond Institute for Urban Research, with additional support provided by Greenland Perspective and the Copenhagen Center for Social Data Science. Several filmed interviews were conducted in each location which can also be viewed online:"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:d1gkVwhDpl0C",
+    "num_citations": 30,
+    "citedby_url": "/scholar?hl=en&cites=8352510444198219740,6192173434955147692,11795921191290884820",
+    "cites_id": [
+      "8352510444198219740",
+      "6192173434955147692",
+      "11795921191290884820"
+    ],
+    "pub_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3667214",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3M8s2f4T6nMJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 5,
+      "2021": 10,
+      "2022": 12,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "The negative effect of smartphone use on academic performance may be overestimated: Evidence from a 2-year panel study",
+      "pub_year": 2020,
+      "citation": "Psychological Science 31 (11), 1351-1362, 2020",
+      "author": "Andreas Bjerre-Nielsen and Asger Andersen and Kelton Minor and David Dreyer Lassen",
+      "journal": "Psychological Science",
+      "volume": "31",
+      "number": "11",
+      "pages": "1351-1362",
+      "publisher": "Sage Publications",
+      "abstract": "In this study, we monitored 470 university students\u2019 smartphone usage continuously over 2 years to assess the relationship between in-class smartphone use and academic performance. We used a novel data set in which smartphone use and grades were recorded across multiple courses, allowing us to examine this relationship at the student level and the student-in-course level. In accordance with the existing literature, our results showed that students\u2019 in-class smartphone use was negatively associated with their grades, even when we controlled for a broad range of observed student characteristics. However, the magnitude of the association decreased substantially in a fixed-effects model, which leveraged the panel structure of the data to control for all stable student and course characteristics, including those not observed by researchers. This suggests that the size of the effect of smartphone usage on \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:Y0pCki6q_DkC",
+    "num_citations": 26,
+    "citedby_url": "/scholar?hl=en&cites=13832402182791968686",
+    "cites_id": [
+      "13832402182791968686"
+    ],
+    "pub_url": "https://journals.sagepub.com/doi/pdf/10.1177/0956797620956613",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rjenf3-Q9r8J:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 1,
+      "2021": 12,
+      "2022": 10,
+      "2023": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Inferring transportation mode from smartphone sensors: Evaluating the potential of Wi-Fi and Bluetooth",
+      "pub_year": 2020,
+      "citation": "PloS one 15 (7), e0234003, 2020",
+      "author": "Andreas Bjerre-Nielsen and Kelton Minor and Piotr Sapie\u017cy\u0144ski and Sune Lehmann and David Dreyer Lassen",
+      "journal": "PloS one",
+      "volume": "15",
+      "number": "7",
+      "pages": "e0234003",
+      "publisher": "Public Library of Science",
+      "abstract": "Understanding which transportation modes people use is critical for smart cities and planners to better serve their citizens. We show that using information from pervasive Wi-Fi access points and Bluetooth devices can enhance GPS and geographic information to improve transportation detection on smartphones. Wi-Fi information also improves the identification of transportation mode and helps conserve battery since it is already collected by most mobile phones. Our approach uses a machine learning approach to determine the mode from pre-prepocessed data. This approach yields an overall accuracy of 89% and average F1 score of 83% for inferring the three grouped modes of self-powered, car-based, and public transportation. When broken out by individual modes, Wi-Fi features improve detection accuracy of bus trips, train travel, and driving compared to GPS features alone and can substitute for GIS features without decreasing performance. Our results suggest that Wi-Fi and Bluetooth can be useful in urban transportation research, for example by improving mobile travel surveys and urban sensing applications."
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:qjMakFHDy7sC",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=11836224703354795224,11005037488598524202,12337196000792136150",
+    "cites_id": [
+      "11836224703354795224",
+      "11005037488598524202",
+      "12337196000792136150"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234003",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2HQqHai3QqQJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 1,
+      "2020": 1,
+      "2021": 7,
+      "2022": 10,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Data platforms and cities",
+      "pub_year": 2018,
+      "citation": "TECNOSCIENZA: Italian Journal of Science & Technology Studies 8 (2), 175-220, 2018",
+      "author": "Anders Blok and Antoine Courmont and Rolien Hoyng and Cl\u00e9ment Marquet and Kelton Minor and Christian Nold and Meg Young",
+      "journal": "TECNOSCIENZA: Italian Journal of Science & Technology Studies",
+      "volume": "8",
+      "number": "2",
+      "pages": "175-220",
+      "abstract": "This section offers a series of joint reflections on (open) data platform from a variety of cases, from cycling, traffic and mapping to activism, environment and data brokering. Data platforms play a key role in contemporary urban governance. Linked to open data initiatives, such platforms are often proposed as both mechanisms for enhancing the accountability of administrations and performing as sites for'bottom-up'digital invention. Such promises of smooth flows of data, however, rarely materialise unproblematically. The development of data platforms is always situated in legal and administrative cultures, databases are often built according to the standards of existing digital ecologies, access always involves processes of social negotiation, and interfaces (such as sensors) may become objects of public contestation. The following contributions explore the contested and mutable character of open data platforms as part of heterogeneous publics and trace the pathways of data through different knowledge, skills, public and private configurations. They also reflect on the value of STS approaches to highlight issues and tensions as well as to shape design and governance."
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:KlAtU1dfN6UC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=3556714419536381664",
+    "cites_id": [
+      "3556714419536381664"
+    ],
+    "pub_url": "http://www.tecnoscienza.net/index.php/tsj/article/view/323",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4Mb5l-v8WzEJ:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 1,
+      "2019": 3,
+      "2020": 4,
+      "2021": 2,
+      "2022": 0,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Identifying and preparing for the mental health burden of climate change",
+      "pub_year": 2022,
+      "citation": "JAMA psychiatry 79 (4), 285-286, 2022",
+      "author": "Nick Obradovich and Kelton Minor",
+      "journal": "JAMA psychiatry",
+      "volume": "79",
+      "number": "4",
+      "pages": "285-286",
+      "publisher": "American Medical Association",
+      "abstract": "Climate change poses an unprecedented threat to human health. 1 Among the myriad likely human impacts of climate change, the potential for environmental stressors to undermine global mental health and emotional well-being is one of the most considerable. Relative to other topics, however, it is also one of the impacts that thus far has been understudied. 1 Much of the literature related to climate change and mental health draws on previous bodies of work from clinical psychiatry and clinical psychology that show the direct toll of exposure to environmental stressors2 on mental well-being and examines what these relationships can tell us about the risk of future climatic changes. 3 And most empirical studies that do exist focus on data from local or regional contexts. Relatively few national\u2014and even fewer global\u2014investigations of the potential of climate change to impact mental health exist. It is this relative gap \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:_FxGoFyzp5QC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=74835182817378961",
+    "cites_id": [
+      "74835182817378961"
+    ],
+    "pub_url": "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2789483",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kQKIyDPeCQEJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 7,
+      "2023": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Opportunistic climate adaptation and public support for sand extraction in Greenland",
+      "pub_year": 2022,
+      "citation": "Nature Sustainability, 1-9, 2022",
+      "author": "Mette Bendixen and Rasmus Leander Nielsen and Jane Lund Plesner and Kelton Minor",
+      "journal": "Nature Sustainability",
+      "pages": "1-9",
+      "publisher": "Nature Publishing Group UK",
+      "abstract": "Climate change leads to the deposition of substantial amounts of sediment along the coasts of Kalaallit Nunaat (Greenland) amid rapidly growing global demand for these resources. Yet, little is known about what the predominantly Inuit population of Kalaallit Nunaat thinks about adaptation opportunities arising from the melt of the Greenland Ice Sheet. Here we conduct a nationally representative survey (N\u2009=\u2009939) of Kalaallit (Greenlanders\u2019) views on glacially derived sand extraction, finding that large majorities support extracting and exporting sand but oppose foreign involvement. This pattern of support persists at both the national and subnational levels. Public preferences largely align with Kalaallit Nunaat\u2019s current mineral policy mandating environmental and economic impact assessments of new resource opportunities. In addition, those aware of human-caused climate change have significantly higher odds of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:Se3iqnhoufwC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=9772190985926675680,7072301555961674856",
+    "cites_id": [
+      "9772190985926675680",
+      "7072301555961674856"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41893-022-00922-8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4AxvKe3LnYcJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 1,
+      "2023": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Nature Exposure is Associated With Reduced Smartphone Use",
+      "pub_year": 2023,
+      "citation": "Environment and Behavior, 00139165231167165, 2023",
+      "author": "Kelton Minor and Kristoffer Lind Glavind and Aaron J Schwartz and Christopher M Danforth and Sune Lehmann and Andreas Bjerre-Nielsen",
+      "journal": "Environment and Behavior",
+      "pages": "00139165231167165",
+      "publisher": "SAGE Publications",
+      "abstract": "Evidence links greenspace exposure with restorative benefits to cognition and well-being, yet nature contact is declining for younger demographics. Although natural settings have been shown to restore the capacity to inhibit distracting stimuli, it remains unknown whether smartphone attention capture disrupts nature contact. Here, we analyzed ~2.5 million observations of logged smartphone use, texting, calling, and environmental exposures for 701 young adults over 2\u2009years. Participants\u2019 weekly smartphone screen-time was over double their green-time. The relationship between greenspace exposure and smartphone activity differed by exposure dose, type, and mobility state. Calling and texting increased during short recreational greenspace visits while all smartphone use declined over the first 3\u2009hr in nature areas, suggesting that nature exposure may support digital impulse inhibition. Those with elevated \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:4TOpqqG69KYC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=7697512390527553428",
+    "cites_id": [
+      "7697512390527553428"
+    ],
+    "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/00139165231167165",
+    "cites_per_year": {
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Climate Change and Substance-Use Behaviors: A Risk-Pathways Framework",
+      "pub_year": 2022,
+      "citation": "Perspectives on Psychological Science, 17456916221132739, 2022",
+      "author": "Francis Vergunst and Helen L Berry and Kelton Minor and Nicholas Chadi",
+      "journal": "Perspectives on Psychological Science",
+      "pages": "17456916221132739",
+      "publisher": "SAGE Publications",
+      "abstract": "Climate change is undermining the mental and physical health of global populations, but the question of how it is affecting substance-use behaviors has not been systematically examined. In this narrative synthesis, we find that climate change could increase harmful substance use worldwide through at least five pathways: psychosocial stress arising from the destabilization of social, environmental, economic, and geopolitical support systems; increased rates of mental disorders; increased physical-health burden; incremental harmful changes to established behavior patterns; and worry about the dangers of unchecked climate change. These pathways could operate independently, additively, interactively, and cumulatively to increase substance-use vulnerability. Young people face disproportionate risks because of their high vulnerability to mental-health problems and substance-use disorders and greater number of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:5nxA0vEk-isC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=13085069759529439461",
+    "cites_id": [
+      "13085069759529439461"
+    ],
+    "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/17456916221132739",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5VD1XZ6Bl7UJ:scholar.google.com/",
+    "cites_per_year": {
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "A systematic review of ambient heat and sleep in a warming climate",
+      "pub_year": 2023,
+      "citation": "medRxiv, 2023.03. 28.23287841, 2023",
+      "author": "Guillaume Chevance and Kelton Minor and Constanza Vielma and Emmanuel Campi and Cristina O\u2019Callaghan-Gordo and Xavier Basaga\u00f1a and Joan Ballester and Paquito Bernard",
+      "pages": "2023.03. 28.23287841",
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "abstract": "Earlier reviews documented the effects of a broad range of climate change outcomes on sleep but have not yet evaluated the effect of ambient temperature. This systematic review aims to identify and summarize the literature on ambient temperature and sleep outcomes in a warming world.For this systematic review, we searched online databases (PubMed, Scopus, JSTOR, GreenFILE, GeoRef and PsycARTICLES) together with relevant journals for studies published before February 2023. We included articles reporting associations between objective indicators of ambient temperature and valid sleep outcomes measured in real-life environments. We included studies conducted among adults, adolescents, and children. A narrative synthesis of the literature was then performed.The present systematic review shows that higher outdoor or indoor ambient temperatures, expressed either as daily mean or night-time temperature, are negatively associated with sleep quality and quantity worldwide. The negative effect of higher ambient temperatures on sleep is stronger in the warmest months of the year, among vulnerable populations and in the warmest areas of the world. This result appears consistent across several sleep indicators and measures.Although this work identified several methodological limitations of the extant literature, a strong body of evidence from both this systematic review and previous experimental studies converge on the negative impact of elevated temperatures on sleep quality and quantity. In absence of solid evidence on fast adaptation to the effects of heat on sleep, rising \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:_kc_bZDykSQC",
+    "num_citations": 0,
+    "pub_url": "https://www.medrxiv.org/content/10.1101/2023.03.28.23287841.abstract",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "The role of global reanalyses in climate services for health: Insights from the Lancet Countdown",
+      "pub_year": 2023,
+      "citation": "Meteorological applications 30 (2), e2122, 2023",
+      "author": "Claudia Di Napoli and Marina Romanello and Kelton Minor and Jonathan Chambers and Shouro Dasgupta and Luis E Escobar and Yun Hang and Risto H\u00e4nninen and Yang Liu and Martin Lotto Batista and Rachel Lowe and Kris A Murray and Fereidoon Owfi and Mahnaz Rabbaniha and Liuhua Shi and Mikhail Sofiev and Meisam Tabatabaei and Elizabeth JZ Robinson",
+      "journal": "Meteorological applications",
+      "volume": "30",
+      "number": "2",
+      "pages": "e2122",
+      "publisher": "John Wiley & Sons, Ltd.",
+      "abstract": "As the linkages between extreme weather events, changes in climatic conditions and health impacts in exposed populations become clearer, so does the need for climate\u2010smart decisions aimed at making the public health sector more responsive and resilient. By integrating climate and health information, climate services for health provide robust decision\u2010support tools. The Lancet Countdown monitoring system uses global climate reanalyses products to track annual changes in a set of health\u2010related outcomes. In the monitoring system, multiple variables from reanalysis datasets such as ERA5 and ERA5\u2010Land are retrieved and processed to capture heatwaves, precipitation extremes, wildfires, droughts, warming and ecosystem changes across the globe and over multiple decades. This reanalysis\u2010derived information is then input into a hazard\u2013exposure\u2013vulnerability framework that delivers, as outcomes \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:YOwf2qJgpHMC",
+    "num_citations": 0,
+    "pub_url": "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.2122",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Adverse weather amplifies social media activity",
+      "pub_year": 2023,
+      "citation": "arXiv preprint arXiv:2302.08456, 2023",
+      "author": "Kelton Minor and Esteban Moro and Nick Obradovich",
+      "journal": "arXiv preprint arXiv:2302.08456",
+      "abstract": "Humanity spends an increasing proportion of its time interacting online. Scholars are intensively investigating the societal drivers and resultant impacts of this collective shift in our allocation of time and attention. Yet, the external factors that regularly shape online behavior remain markedly understudied. Do environmental factors alter rates of online activity? Here we show that adverse meteorological conditions markedly increase social media use in the United States. To do so, we employ climate econometric methods alongside over three and a half billion social media posts from tens of millions of individuals from both Facebook and Twitter between 2009 and 2016. We find that more extreme temperatures and added precipitation each independently amplify social media activity. Weather that is adverse on both the temperature and precipitation dimensions produces markedly larger increases in social media activity. On average across both platforms, compared to the temperate weather baseline, days colder than -5{\\deg}C with 1.5-2cm of precipitation elevate social media activity by 35%. This effect is nearly three times the typical increase in social media activity observed on New Year's Eve in New York City. We observe meteorological effects on social media participation at both the aggregate and individual level, even accounting for individual-specific, temporal, and location-specific potential confounds."
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:ULOm3_A8WrAC",
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2302.08456",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Experience Exceeds Awareness of Anthropogenic Climate Change in Greenland",
+      "pub_year": 2022,
+      "citation": "",
+      "author": "Kelton Minor and Manumina Lund-Jensen and Lawrence Hamilton and Mette Bendixen and David Dreyer Lassen and Minik Rosing",
+      "abstract": "Greenland\u2019s residents and Ice Sheet are both exposed to pronounced Arctic warming. Although Greenland is a hub for climate science, the climate perceptions of Greenland\u2019s predominantly Indigenous population remained unstudied through the past decade of multi-national climate opinion polls. Conducting two original nationally representative surveys, here we show that Greenlanders are more likely than residents of top oil-producing Arctic countries to perceive that climate change is happening, and about twice as likely to have personally experienced its effects. However, half are unaware that climate change is human-caused, and those who are most affected appear to be least aware. An Inuit cultural dimension, indicated by the intertwined social ecological factors of Indigenous identity, subsistence occupation, village community scale and no post-elementary education, proves to be the main positive predictor of climate change experience but also the strongest negative predictor of awareness of human-caused climate change. Despite Greenland\u2019s centrality to climate research, we uncover a widespread gap between the scientific consensus and coastal Kalaallit views of climate change, particularly among the country\u2019s youth, fishers, and hunters. This sciencesociety gulf has immediate and prospective implications for local climate adaptation, climate science communication and knowledge exchange between generations, institutions, and communities."
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:3fE2CSJIrl8C",
+    "num_citations": 0,
+    "pub_url": "https://www.researchsquare.com/article/rs-2304659/latest.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:AgJPFW0-klsJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Awareness of Human-Caused Climate Change in Greenland: Illuminating a Science-Society Gulf",
+      "pub_year": 2022,
+      "citation": "AGU Fall Meeting Abstracts 2022, SY34B-01, 2022",
+      "author": "Kelton Minor and Lawrence Hamilton and Manumina Lund Jensen and Mette Bendixen and Minik Rosing and David Dreyer Lassen",
+      "journal": "AGU Fall Meeting Abstracts",
+      "volume": "2022",
+      "pages": "SY34B-01",
+      "abstract": "Kalaallit Nunaat's (Greenland's) residents and Ice Sheet are both exposed to pronounced Arctic warming. Despite being the site of numerous physical climate surveys that have contributed substantially to the international scientific knowledgebase on past and now human-caused climate change, relatively little is known about the climate perceptions of Kalaallit Nunaat's predominantly Inuit population. Drawing on the past decade of multi-national climate change public opinion surveys, we show that the views of Greenlanders have been long neglected by these global fora. Here we address this knowledge gap by conducting two large, nationally representative social surveys (N1= 646, N2= 939) taken by~ 4% of Kalaallit Nunaat's adult population from 2018\u20132021. Compared with residents of the top oil-producing Arctic countries, we find that Greenlanders are more likely to perceive that climate change is happening \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:kNdYIx-mwKoC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2022AGUFMSY34B..01M/abstract",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Planetary Monitoring and Attribution of Expressed Emotional Responses to Heatwaves and Extreme Precipitation",
+      "pub_year": 2022,
+      "citation": "AGU Fall Meeting Abstracts 2022, GH21D-02, 2022",
+      "author": "Kelton Minor and Nick Obradovich",
+      "journal": "AGU Fall Meeting Abstracts",
+      "volume": "2022",
+      "pages": "GH21D-02",
+      "abstract": "Climate change is increasing the frequency of heat and precipitation extremes that span across county, regional and country borders, posing diverse risks to mental well-being on a planetary scale. The spatial and temporal extent of many regionally intensifying stressors\u2013including heatwaves and extreme precipitation events\u2013demand new approaches for monitoring their complex human impacts and subclinical psychosocial responses. Here we link the lexical content of 7.7 billion tweets from 190 countries and over 43,000 unique counties with daily data on meteorological conditions and climate extremes in order to conduct a global natural experiment from 2015 to 2021. Exposure to as good as random precipitation extremes and heatwaves consistently worsened expressed sentiments during the recent record compared to control days in the same location and time of year. A record reduction in the rate of positive \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "sFysqyQAAAAJ:8k81kl-MbHgC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2022AGUFMGH21D..02M/abstract",
+    "cites_per_year": {}
+  }
+]

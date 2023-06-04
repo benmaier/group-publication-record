@@ -1,0 +1,728 @@
+[
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Effective containment explains subexponential growth in recent confirmed COVID-19 cases in China",
+      "pub_year": 2020,
+      "citation": "Science 368 (6492), 742-746, 2020",
+      "author": "Benjamin F Maier and Dirk Brockmann",
+      "journal": "Science",
+      "volume": "368",
+      "number": "6492",
+      "pages": "742-746",
+      "publisher": "American Association for the Advancement of Science",
+      "abstract": "The recent outbreak of coronavirus disease 2019 (COVID-19) in mainland China was characterized by a distinctive subexponential increase of confirmed cases during the early phase of the epidemic, contrasting with an initial exponential growth expected for an unconstrained outbreak. We show that this effect can be explained as a direct consequence of containment policies that effectively deplete the susceptible population. To this end, we introduce a parsimonious model that captures both quarantine of symptomatic infected individuals, as well as population-wide isolation practices in response to containment policies or behavioral changes, and show that the model captures the observed growth behavior accurately. The insights provided here may aid the careful implementation of containment strategies for ongoing secondary outbreaks of COVID-19 or similar future outbreaks of other emergent infectious diseases."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:ufrVoPGSRksC",
+    "num_citations": 926,
+    "citedby_url": "/scholar?hl=en&cites=13849842129827407441,15725093336762670104",
+    "cites_id": [
+      "13849842129827407441",
+      "15725093336762670104"
+    ],
+    "pub_url": "https://www.science.org/doi/abs/10.1126/science.abb4557",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:USaalwmGNMAJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 3,
+      "2020": 350,
+      "2021": 324,
+      "2022": 187,
+      "2023": 56
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "COVID-19 lockdown induces disease-mitigating structural changes in mobility networks",
+      "pub_year": 2020,
+      "citation": "Proceedings of the National Academy of Sciences 117 (52), 32883-32890, 2020",
+      "author": "Frank Schlosser and Benjamin F Maier and Olivia Jack and David Hinrichs and Adrian Zachariae and Dirk Brockmann",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "117",
+      "number": "52",
+      "pages": "32883-32890",
+      "publisher": "National Academy of Sciences",
+      "abstract": "In the wake of the COVID-19 pandemic many countries implemented containment measures to reduce disease transmission. Studies using digital data sources show that the mobility of individuals was effectively reduced in multiple countries. However, it remains unclear whether these reductions caused deeper structural changes in mobility networks and how such changes may affect dynamic processes on the network. Here we use movement data of mobile phone users to show that mobility in Germany has not only been reduced considerably: Lockdown measures caused substantial and long-lasting structural changes in the mobility network. We find that long-distance travel was reduced disproportionately strongly. The trimming of long-range network connectivity leads to a more local, clustered network and a moderation of the \u201csmall-world\u201d effect. We demonstrate that these structural changes have a \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:YOwf2qJgpHMC",
+    "num_citations": 293,
+    "citedby_url": "/scholar?hl=en&cites=1562402562380070424,4082499816521417146",
+    "cites_id": [
+      "1562402562380070424",
+      "4082499816521417146"
+    ],
+    "pub_url": "https://www.pnas.org/doi/abs/10.1073/pnas.2012326117",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GP7SPtrErhUJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 19,
+      "2021": 108,
+      "2022": 115,
+      "2023": 50
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Cover time for random walks on arbitrary complex networks",
+      "pub_year": 2017,
+      "citation": "Physical Review E 96 (4), 042307, 2017",
+      "author": "Benjamin F Maier and Dirk Brockmann",
+      "journal": "Physical Review E",
+      "volume": "96",
+      "number": "4",
+      "pages": "042307",
+      "publisher": "American Physical Society",
+      "abstract": "We present an analytical method for computing the mean cover time of a discrete-time random walk process on arbitrary, complex networks. The cover time is defined as the time a random walker requires to visit every node in the network at least once. This quantity is particularly important for random search processes and target localization on network structures. Based on the global mean first-passage time of target nodes, we derive a method for computing the cumulative distribution function of the cover time based on first-passage time statistics. Our method is viable for networks on which random walks equilibrate quickly. We show that it can be applied successfully to various model and real-world networks. Our results reveal an intimate link between first-passage and cover time statistics and offer a computationally efficient way for estimating cover times in network-related applications."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:2osOgNQ5qMEC",
+    "num_citations": 43,
+    "citedby_url": "/scholar?hl=en&cites=12112681251908476470",
+    "cites_id": [
+      "12112681251908476470"
+    ],
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.042307",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Nt6JQWzjGKgJ:scholar.google.com/",
+    "cites_per_year": {
+      "2017": 1,
+      "2018": 3,
+      "2019": 6,
+      "2020": 9,
+      "2021": 7,
+      "2022": 11,
+      "2023": 6
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Confining dyon gas with finite-volume effects under control",
+      "pub_year": 2012,
+      "citation": "Physical Review D 85 (3), 034502, 2012",
+      "author": "Falk Bruckmann and Simon Dinter and Ernst-Michael Ilgenfritz and Benjamin Maier and Michael M\u00fcller-Preussker and Marc Wagner",
+      "journal": "Physical Review D",
+      "volume": "85",
+      "number": "3",
+      "pages": "034502",
+      "publisher": "American Physical Society",
+      "abstract": "As an approach to describe the long-range properties of non-Abelian gauge theories at nonzero temperature T< T c, we consider a noninteracting ensemble of dyons (magnetic monopoles) with nontrivial holonomy. We show analytically that the quark-antiquark free energy from the Polyakov loop correlator grows linearly with the distance, and how the string tension scales with the dyon density. In numerical treatments, the long-range tails of the dyon fields cause severe finite-volume effects. Therefore, we demonstrate the application of Ewald\u2019s summation method to this system. Finite-volume effects are shown to be under control, which is a crucial requirement for numerical studies of interacting dyon ensembles."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:u5HHmVD_uO8C",
+    "num_citations": 24,
+    "citedby_url": "/scholar?hl=en&cites=17036586616212733926",
+    "cites_id": [
+      "17036586616212733926"
+    ],
+    "pub_url": "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.85.034502",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5r-IhEMdbuwJ:scholar.google.com/",
+    "cites_per_year": {
+      "2012": 4,
+      "2013": 2,
+      "2014": 4,
+      "2015": 5,
+      "2016": 2,
+      "2017": 3,
+      "2018": 0,
+      "2019": 2,
+      "2020": 0,
+      "2021": 0,
+      "2022": 1,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Thresholding normally distributed data creates complex networks",
+      "pub_year": 2020,
+      "citation": "Physical Review E 101 (6), 062302, 2020",
+      "author": "George T Cantwell and Yanchen Liu and Benjamin F Maier and Alice C Schwarze and Carlos A Serv\u00e1n and Jordan Snyder and Guillaume St-Onge",
+      "journal": "Physical Review E",
+      "volume": "101",
+      "number": "6",
+      "pages": "062302",
+      "publisher": "American Physical Society",
+      "abstract": "Network data sets are often constructed by some kind of thresholding procedure. The resulting networks frequently possess properties such as heavy-tailed degree distributions, clustering, large connected components, and short average shortest path lengths. These properties are considered typical of complex networks and appear in many contexts, prompting consideration of their universality. Here we introduce a simple model for correlated relational data and study the network ensemble obtained by thresholding it. We find that some, but not all, of the properties associated with complex networks can be seen after thresholding the correlated data, even though the underlying data are not \u201ccomplex.\u201d In particular, we observe heavy-tailed degree distributions, a large numbers of triangles, and short path lengths, while we do not observe nonvanishing clustering or community structure."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:zYLM7Y9cAGgC",
+    "num_citations": 23,
+    "citedby_url": "/scholar?hl=en&cites=12962300419475294102",
+    "cites_id": [
+      "12962300419475294102"
+    ],
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.062302",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lse45o1X47MJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 3,
+      "2021": 11,
+      "2022": 4,
+      "2023": 5
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Comprehensive integrated NGS-based surveillance and contact-network modeling unravels transmission dynamics of vancomycin-resistant enterococci in a high-risk population within a tertiary care hospital",
+      "pub_year": 2020,
+      "citation": "PloS one 15 (6), e0235160, 2020",
+      "author": "Bernd Neumann and Jennifer K Bender and Benjamin F Maier and Alice Wittig and Stephan Fuchs and Dirk Brockmann and Torsten Semmler and Hermann Einsele and Sabrina Kraus and Lothar H Wieler and Ulrich Vogel and Guido Werner",
+      "journal": "PloS one",
+      "volume": "15",
+      "number": "6",
+      "pages": "e0235160",
+      "publisher": "Public Library of Science",
+      "abstract": "Vancomycin-resistant E. faecium (VRE) are an important cause of nosocomial infections, which are rapidly transmitted in hospitals. To identify possible transmission routes, we applied combined genomics and contact-network modeling to retrospectively evaluate routine VRE screening data generated by the infection control program of a hemato-oncology unit. Over 1 year, a total of 111 VRE isolates from 111 patients were collected by anal swabs in a tertiary care hospital in Southern Germany. All isolated VRE were whole-genome sequenced, followed by different in-depth bioinformatics analyses including genotyping and determination of phylogenetic relations, aiming to evaluate a standardized workflow. Patient movement data were used to overlay sequencing data to infer transmission events and strain dynamics over time. A predominant clone harboring vanB and exhibiting genotype ST117/CT469 (n = 67) was identified. Our comprehensive combined analyses suggested intra-hospital spread, especially of clone ST117/CT469, despite of extensive screening, single room placement, and contact isolation. A new interactive tool to visualize these complex data was designed. Furthermore, a patient-contact network-modeling approach was developed, which indicates both the periodic import of the clone into the hospital and its spread within the hospital due to patient movements. The analyzed spread of VRE was most likely due to placement of patients in the same room prior to positivity of screening. We successfully demonstrated the added value for this combined strategy to extract well-founded knowledge from interdisciplinary data sources \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:roLk4NBRz8UC",
+    "num_citations": 16,
+    "citedby_url": "/scholar?hl=en&cites=2389240208757548201",
+    "cites_id": [
+      "2389240208757548201"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235160",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qeQSpk9JKCEJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 1,
+      "2021": 8,
+      "2022": 5,
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Netwulf: Interactive visualization of networks in Python",
+      "pub_year": 2019,
+      "citation": "Journal of Open Source Software 4 (42), 1425, 2019",
+      "author": "Ulf Aslak and Benjamin F. Maier",
+      "journal": "Journal of Open Source Software",
+      "volume": "4",
+      "number": "42",
+      "pages": "1425",
+      "abstract": "Network visualization is an effective way to illustrate properties of a complex system. It is an important tool for exploring and finding patterns, and is used by researchers and practitioners across many fields and industries. Currently, there exist a number of tools for visualizing networks. Networkx (Hagberg, Schult, & Swart, 2008) is a popular Python package for network analysis which provides limited functionality for computing layouts and plotting networks statically. Layout computations are done in Python or using the php-based software Graphviz (Ellson, Gansner, Koutsofios, North, & Woodhull, 2002), which is slow. Another Python package for network analysis and visualization is graph-tool (Peixoto, 2014), which relies on a high number of external C++-libraries for installation/compilation which can be overwhelming for beginners. Furthermore, its visualization functions have limited interactive features. Gephi (Bastian, Heymann, & Jacomy, 2009) and Cytoscape (Shannon et al., 2003) are dedicated interactive visualization and analysis software programs. They are both Javabased and run desktop clients with a GUI where users save and load networks as separate files. Webweb (Wapman & Larremore, 2019) enables interactive visualization for Python and Matlab networks using the d3. js (Bostock, Ogievetsky, & Heer, 2011) force layout. Its main purpose, however, is exploration of network features and exporting one-time visualizations as SVG or HTML.For many users, these tools offer the necessary functionality to visualize networks in most desired ways. However, since a growing population of network researchers and practitioners are relying \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:Tyk-4Ss8FVUC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=4299224684458142856",
+    "cites_id": [
+      "4299224684458142856"
+    ],
+    "pub_url": "https://joss.theoj.org/papers/10.21105/joss.01425.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:iOy3fhLqqTsJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 1,
+      "2020": 3,
+      "2021": 5,
+      "2022": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Generalization of the small-world effect on a model approaching the Erd\u0151s\u2013R\u00e9nyi random graph",
+      "pub_year": 2019,
+      "citation": "Scientific reports 9 (1), 9268, 2019",
+      "author": "Benjamin F Maier",
+      "journal": "Scientific reports",
+      "volume": "9",
+      "number": "1",
+      "pages": "9268",
+      "publisher": "Nature Publishing Group",
+      "abstract": "The famous Watts\u2013Strogatz (WS) small-world network model does not approach the Erd\u0151s\u2013R\u00e9nyi (ER) random graph model in the limit of total randomization which can lead to confusion and complicates certain analyses. In this paper we discuss a simple alternative which was first introduced by Song and Wang, where instead of rewiring, edges are drawn between pairs of nodes with a distance-based connection probability. We show that this model is simpler to analyze, approaches the true ER random graph model in the completely randomized limit, and demonstrate that the WS model and the alternative model may yield different quantitative results using the example of a random walk temporal observable. An efficient sampling algorithm for the alternative model is proposed. Analytic results regarding the degree distribution, degree variance, number of two-stars per node, number of triangles per node, clustering \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:Y0pCki6q_DkC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=12421665274605924788,4115157916724130442",
+    "cites_id": [
+      "12421665274605924788",
+      "4115157916724130442"
+    ],
+    "pub_url": "https://link.springer.com/content/pdf/10.1038/s41598-019-45576-3.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tPGwI8GeYqwJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 2,
+      "2021": 5,
+      "2022": 4
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Germany\u2019s fourth COVID-19 wave was mainly driven by the unvaccinated",
+      "pub_year": 2022,
+      "citation": "Communications Medicine 2 (1), 1-9, 2022",
+      "author": "Benjamin F Maier and Marc Wiedermann and Angelique Burdinski and Pascal P Klamser and Mirjam A Jenny and Cornelia Betsch and Dirk Brockmann",
+      "journal": "Communications Medicine",
+      "volume": "2",
+      "number": "1",
+      "pages": "1-9",
+      "publisher": "Nature Publishing Group",
+      "abstract": "While the majority of the German population was fully vaccinated at the time (about 65%), COVID-19 incidence started growing exponentially in October 2021 with about 41% of recorded new cases aged twelve or above being symptomatic breakthrough infections, presumably also contributing to the dynamics. So far, it remained elusive how significant this contribution was and whether targeted non-pharmaceutical interventions (NPIs) may have stopped the amplification of the crisis.We develop and introduce a contribution matrix approach based on the next-generation matrix of a population-structured compartmental infectious disease model to derive contributions of respective inter- and intragroup infection pathways of unvaccinated and vaccinated subpopulations to the effective reproduction number and new infections, considering empirical data of vaccine efficacies against infection and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:7PzlFSSx8tAC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=829751671156072627,4371807301542208084",
+    "cites_id": [
+      "829751671156072627",
+      "4371807301542208084"
+    ],
+    "pub_url": "https://www.nature.com/articles/s43856-022-00176-7",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:s2ALq7_egwsJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1,
+      "2022": 3,
+      "2023": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Evidence for positive long-and short-term effects of vaccinations against COVID-19 in wearable sensor metrics--Insights from the German Corona Data Donation Project",
+      "pub_year": 2022,
+      "citation": "arXiv preprint arXiv:2204.02846, 2022",
+      "author": "Marc Wiedermann and Annika H Rose and Benjamin F Maier and Jakob J Kolb and David Hinrichs and Dirk Brockmann",
+      "journal": "arXiv preprint arXiv:2204.02846",
+      "abstract": "Vaccines are among the most powerful tools used to combat the COVID-19 pandemic. They are highly effective against infection and substantially reduce the risk of severe disease, hospitalization, ICU admission, and death. However, their potential for attenuating long-term effects of a SARS-CoV-2 infection, commonly denoted as Long COVID, remains elusive and is still subject of debate. Such long-term effects can be effectively monitored at the individual level by analyzing physiological data collected by consumer-grade wearable sensors. Here, we investigate changes in resting heart rate, daily physical activity, and sleep duration in response to a SARS-CoV-2 infection stratified by vaccination status. Data was collected over a period of two years in the context of the German Corona Data Donation Project with currently around 190,000 monthly active donors. Compared to their unvaccinated counterparts, we find that vaccinated individuals on average experience smaller changes in their vital data that also return to normal levels more quickly. Likewise, extreme changes in vitals during the acute phase of the disease occur less frequently in vaccinated individuals. Our results solidify evidence that vaccines can mitigate long-term detrimental effects of SARS-CoV-2 infections both in terms of duration and magnitude. Furthermore, they demonstrate the value of large scale, high-resolution wearable sensor data in public health research."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:mVmsd5A6BfQC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=7336919223618866729",
+    "cites_id": [
+      "7336919223618866729"
+    ],
+    "pub_url": "https://arxiv.org/abs/2204.02846",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KY6JRSn50WUJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1,
+      "2022": 2,
+      "2023": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "epipack: An infectious disease modeling package for Python",
+      "pub_year": 2021,
+      "citation": "Journal of Open Source Software 6 (60), 3097, 2021",
+      "author": "Benjamin F Maier",
+      "journal": "Journal of Open Source Software",
+      "volume": "6",
+      "number": "60",
+      "pages": "3097",
+      "abstract": "Analyzing the spread of infectious diseases by means of compartmental mathematical models has been an active area of research for almost a century (Anderson & May, 2010; Keeling & Rohani, 2011; Kermack & McKendrick, 1991). Since the emergence of the coronavirus disease 2019 pandemic in early 2020, the field has seen yet another considerable boost in interest. Researchers have since been working on a large number of different models that are used to forecast case numbers, to analyze the implications of different contact structures between individual people, or to discuss the influence of various mitigation and containment strategies, to only name a few applications (Estrada, 2020).The complexity of detailed epidemiological models often mitigates simple replication and/or adaptation to local circumstances. Typically, modifications are quickly thought up, but their influence on system properties such as the epidemic threshold or outbreak size are less clear. Variations in model formulation often entail the reimplementation of simulation and analysis frameworks for every model iteration, taking up valuable time and resources for debugging and reanalysis. Furthermore, researchers often need to cross-check their results by implementing both deterministic well-mixed models as well as models that consider explicit contact structures (ie, static or temporal networks). Last but not least, analytical derivations are often done using separate computer algebra systems."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:M3ejUd6NZC8C",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=12096690133822193391",
+    "cites_id": [
+      "12096690133822193391"
+    ],
+    "pub_url": "https://joss.theoj.org/papers/10.21105/joss.03097.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:775x8JUT4KcJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1,
+      "2022": 3,
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Estimating the share of SARS-CoV-2-immunologically na\u00efve individuals in Germany up to June 2022",
+      "pub_year": 2023,
+      "citation": "Epidemiology & Infection 151, e38, 2023",
+      "author": "Benjamin F Maier and Annika H Rose and Angelique Burdinski and Pascal Klamser and Hannelore Neuhauser and Ole Wichmann and Lars Schaade and Lothar H Wieler and Dirk Brockmann",
+      "journal": "Epidemiology & Infection",
+      "volume": "151",
+      "pages": "e38",
+      "publisher": "Cambridge University Press",
+      "abstract": "After the winter of 2021/2022, the coronavirus disease 2019 (COVID-19) pandemic had reached a phase where a considerable number of people in Germany have been either infected with a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variant, vaccinated or both, the full extent of which was difficult to estimate, however, because infection counts suffer from under-reporting, and the overlap between the vaccinated and recovered subpopulations is unknown. Yet, reliable estimates regarding population-wide susceptibility were of considerable interest: Since both previous infection and vaccination reduce the risk of severe disease, a low share of immunologically na\u00efve individuals lowers the probability of further severe outbreaks, given that emerging variants do not escape the acquired susceptibility reduction. Here, we estimate the share of immunologically na\u00efve individuals by age group for each of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:qUcmZB5y_30C",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=17611376746486490370,3564151911995670296",
+    "cites_id": [
+      "17611376746486490370",
+      "3564151911995670296"
+    ],
+    "pub_url": "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/estimating-the-share-of-sarscov2immunologically-naive-individuals-in-germany-up-to-june-2022/D465300E4136D1D63B25BD6F48EC2994",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GP8HwEdpdjEJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 1,
+      "2023": 4
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Potential benefits of delaying the second mRNA COVID-19 vaccine dose",
+      "pub_year": 2021,
+      "citation": "arXiv preprint arXiv:2102.13600, 2021",
+      "author": "Benjamin F Maier and Angelique Burdinski and Annika H Rose and Frank Schlosser and David Hinrichs and Cornelia Betsch and Lars Korn and Philipp Sprengholz and Michael Meyer-Hermann and Tanmay Mitra and Karl Lauterbach and Dirk Brockmann",
+      "journal": "arXiv preprint arXiv:2102.13600",
+      "abstract": "Vaccination against COVID-19 with the recently approved mRNA vaccines BNT162b2 (BioNTech/Pfizer) and mRNA-1273 (Moderna) is currently underway in a large number of countries. However, high incidence rates and rapidly spreading SARS-CoV-2 variants are concerning. In combination with acute supply deficits in Europe in early 2021, the question arises of whether stretching the vaccine, for instance by delaying the second dose, can make a significant contribution to preventing deaths, despite associated risks such as lower vaccine efficacy, the potential emergence of escape mutants, enhancement, waning immunity, reduced social acceptance of off-label vaccination, and liability shifts. A quantitative epidemiological assessment of risks and benefits of non-standard vaccination protocols remains elusive. To clarify the situation and to provide a quantitative epidemiological foundation we develop a stochastic epidemiological model that integrates specific vaccine rollout protocols into a risk-group structured infectious disease dynamical model. Using the situation and conditions in Germany as a reference system, we show that delaying the second vaccine dose is expected to prevent deaths in the four to five digit range, should the incidence resurge. We show that this considerable public health benefit relies on the fact that both mRNA vaccines provide substantial protection against severe COVID-19 and death beginning 12 to 14 days after the first dose. The benefits of protocol change are attenuated should vaccine compliance decrease substantially. To quantify the impact of protocol change on vaccination adherence we performed a large \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:4TOpqqG69KYC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=7641313525778219653",
+    "cites_id": [
+      "7641313525778219653"
+    ],
+    "pub_url": "https://arxiv.org/abs/2102.13600",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hQJmkSpmC2oJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1,
+      "2022": 3,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Understanding the impact of digital contact tracing during the COVID-19 pandemic",
+      "pub_year": 2022,
+      "citation": "PLOS Digital Health 1 (12), e0000149, 2022",
+      "author": "Angelique Burdinski and Dirk Brockmann and Benjamin Frank Maier",
+      "journal": "PLOS Digital Health",
+      "volume": "1",
+      "number": "12",
+      "pages": "e0000149",
+      "publisher": "Public Library of Science",
+      "abstract": "Digital contact tracing (DCT) applications have been introduced in many countries to aid the containment of COVID-19 outbreaks. Initially, enthusiasm was high regarding their implementation as a non-pharmaceutical intervention (NPI). However, no country was able to prevent larger outbreaks without falling back to harsher NPIs. Here, we discuss results of a stochastic infectious-disease model that provide insights in how the progression of an outbreak and key parameters such as detection probability, app participation and its distribution, as well as engagement of users impact DCT efficacy informed by results of empirical studies. We further show how contact heterogeneity and local contact clustering impact the intervention\u2019s efficacy. We conclude that DCT apps might have prevented cases on the order of single-digit percentages during single outbreaks for empirically plausible ranges of parameters, ignoring that a substantial part of these contacts would have been identified by manual contact tracing. This result is generally robust against changes in network topology with exceptions for homogeneous-degree, locally-clustered contact networks, on which the intervention prevents more infections. An improvement of efficacy is similarly observed when app participation is highly clustered. We find that DCT typically averts more cases during the super-critical phase of an epidemic when case counts are rising and the measured efficacy therefore depends on the time of evaluation."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:L8Ckcad2t8MC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=14766674714147424443,3781493797236363861",
+    "cites_id": [
+      "14766674714147424443",
+      "3781493797236363861"
+    ],
+    "pub_url": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000149",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:uwiAUmrE7cwJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 2,
+      "2022": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Spreading Processes in Human Systems",
+      "pub_year": 2020,
+      "citation": "Humboldt-Universit\u00e4t zu Berlin, 2020",
+      "author": "Benjamin F Maier",
+      "publisher": "Humboldt-Universit\u00e4t zu Berlin",
+      "abstract": "Human systems have been modeled and analyzed on the basis of complex networks theory in recent time. This abstraction allows for thorough quantitative analyses to investigate which structural and temporal features of a system influence the evolution of spreading processes, such as the passage of information or of infectious diseases. The first part of this work investigates how the ubiquitous modular hierarchical structure of static real-world networks allows for fast delivery of messages. New heuristics are developed to evaluate random walk mean first passage times and cover times on locally clustered networks. A comparison to average medium approximations shows that the emergence of these minima are pure network phenomena. It is further found that not all modular hierarchical network models provide optimal message delivery structure. In the second part, temporally varying face-to-face contact networks are investigated for their susceptibility to infection. Several studies have shown that people tend to spend time in small, densely-connected groups or in isolation, and that their connection behavior follows a circadian rhythm. To what extent both of these features influence the spread of diseases is as yet unclear. Therefore, a new temporal network model is devised here. Based on this model, circadially varying networks can for the first time be interpreted as following trajectories through a newly defined systemic state space. It is further revealed that in many temporally varying networks the system becomes less susceptible to infection when the time-scale of the disease approaches the time-scale of the network variation. This is in direct \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:eQOLeE2rZwMC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=12472056647856256068",
+    "cites_id": [
+      "12472056647856256068"
+    ],
+    "pub_url": "https://edoc.hu-berlin.de/handle/18452/21788",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RHQFAnGlFa0J:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 2,
+      "2022": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Modular hierarchical and power-law small-world networks bear structural optima for minimal first passage times and cover time",
+      "pub_year": 2019,
+      "citation": "Journal of Complex Networks 7 (6), 865-895, 2019",
+      "author": "Benjamin F Maier and Cristi\u00e1n Huepe and Dirk Brockmann",
+      "journal": "Journal of Complex Networks",
+      "volume": "7",
+      "number": "6",
+      "pages": "865-895",
+      "publisher": "Oxford University Press",
+      "abstract": "Networks that are organized as a hierarchy of modules have been the subject of much research, mainly focusing on algorithms that can extract this community structure from data. The question of why modular hierarchical (MH) organizations are so ubiquitous in nature, however, has received less attention. One hypothesis is that MH topologies may provide an optimal structure for certain dynamical processes. We revisit a MH network model that interpolates, using a single parameter, between two known network topologies: from strong hierarchical modularity to an Erd\u0151s\u2013R\u00e9nyi random connectivity structure. We show that this model displays a similar small-world effect as the Kleinberg model, where the connection probability between nodes decays algebraically with distance. We find that there is an optimal structure, in both models, for which the pair-averaged first passage time (FPT) and mean cover time of a \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:qjMakFHDy7sC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=12361485493336526998",
+    "cites_id": [
+      "12361485493336526998"
+    ],
+    "pub_url": "https://academic.oup.com/comnet/article-abstract/7/6/865/5432290",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ltB37o_RjKsJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 1,
+      "2020": 1,
+      "2021": 0,
+      "2022": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Enhancing global preparedness during an ongoing pandemic from partial and noisy data",
+      "pub_year": 2022,
+      "citation": "medRxiv, 2022.08. 19.22278981, 2022",
+      "author": "Pascal Klamser and Valeria d\u2019Andrea and Francesco Di Lauro and Adrian Zachariae and Sebastiano Bontorin and Antonello di Nardo and Matthew Hall and Benjamin F Maier and Luca Ferretti and Dirk Brockmann and Manlio De Domenico",
+      "journal": "medRxiv",
+      "pages": "2022.08. 19.22278981",
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "abstract": "As the coronavirus disease 2019 (COVID-19) spread globally, emerging variants such as B.1.1.529 quickly became dominant worldwide. Sustained community transmission favors the proliferation of mutated sub-lineages with pandemic potential, due to cross-national mobility flows, which are responsible for consecutive cases surge worldwide. We show that, in the early stages of an emerging variant, integrating data from national genomic surveillance and global human mobility with large-scale epidemic modeling allows to quantify its pandemic potential, providing quantifiable indicators for pro-active policy interventions. We validate our framework on worldwide spreading variants and gain insights about the pandemic potential of BA.5, BA.2.75 and other sub- and lineages. We combine the different sources of information in a simple estimate of the pandemic delay and show that only in combination, the pandemic potentials of the lineages are correctly assessed relative to each other. Country-level epidemic intelligence is not enough to contrast the pandemic of respiratory pathogens such as SARS-CoV-2 and a scalable integrated approach, i.e. pandemic intelligence, is required to enhance global preparedness."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:dhFuZR0502QC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=14315541238739898809",
+    "cites_id": [
+      "14315541238739898809"
+    ],
+    "pub_url": "https://www.medrxiv.org/content/10.1101/2022.08.19.22278981.abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:uRGM3ugEq8YJ:scholar.google.com/",
+    "cites_per_year": {
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Absch\u00e4tzung der Infektionswelle durch die SARS-CoV-2 VOC Omikron",
+      "pub_year": 2022,
+      "citation": "Robert Koch Institute 205, 0, 2022",
+      "author": "Benjamin F Maier and Angelique Burdinski and Marc Wiedermann and Matthias an der Heiden and Thomas Harder and Frank Schlosser and Dirk Brockmann",
+      "volume": "205",
+      "pages": "0",
+      "publisher": "Robert Koch Institute",
+      "abstract": "Wir modellieren m\u00f6gliche Verl\u00e4ufe einer durch die SARS-CoV-2 \u201cvariant of concern\u201d(VOC) B. 1.1. 529 8 (\u201cOmikron\u201d) verursachten Infektionswelle in Deutschland unter Ber\u00fccksichtigung verschiedener Parame-9 tersch\u00e4tzungen, kalibriert am Wachstumsverhalten von Omikronf\u00e4llen und F\u00e4llen der im Dezember noch 10 vorherrschenden VOC B. 1.617. 2 (\u201cDelta\u201d). Trotz weiterhin anzunehmender hoher Wirksamkeit der Impf-11 stoffe gegen schwere Verl\u00e4ufe f\u00fchrt eine verminderte Wirksamkeit gegen Infektion zu h\u00f6heren Wachs-12 tumsraten mit gro\u00dfen Ausbr\u00fcchen und daher zu einer potentiell hohen Belastung des Gesundheitssystems 13 und der kritischen Infrastruktur. Im Modell ist mit einer Maximalinzidenz in der Gr\u00f6\u00dfenordnung von ca. 14 300 000 gemeldeten F\u00e4llen pro Tag zu rechnen (Median), jedoch mit einer breiten Streuung (50% PI in 1000: 15 [181,454], 95% PI in 1000:[55,804]). Hierbei handelt es sich um einen Szenarienmedian. Die Modellaus-16 bruchsh\u00f6he ist sensitiv gegen\u00fcber Variationen in der angenommenen Generationszeit und sinkt mit k\u00fcrzerer 17 Generationszeit. Bereits geringe Kontaktreduktionen k\u00f6nnen zur Entlastung beitragen. Fr\u00fche, strikte, und 18 kurze Kontaktreduktionen f\u00fchrten hingegen zu einem starken \u201cRebound\u201d-Effekt mit vergleichsweise hohen 19 Inzidenzen nach dem Ende der entsprechenden Reduktionen. Basierend auf unseren Ergebnissen sch\u00e4tzen 20 wir, dass das relative Risiko (RR) der Intensivpflichtigkeit einer Infektion mit Omikron gg\u00fc. einer Infektion 21 mit Delta Werte einer Gr\u00f6\u00dfenordnung von RR= 10%\u201320% annehmen muss, um eine erneute Extrembelas-22 tung der Intensivstationen zu \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:IWHjjKOFINEC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=14520336956426487590",
+    "cites_id": [
+      "14520336956426487590"
+    ],
+    "pub_url": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Modellierung_Omikronwelle_Bericht.pdf?__blob=publicationFile",
+    "cites_per_year": {
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Modeling the impact of the Omicron infection wave in Germany",
+      "pub_year": 2023,
+      "citation": "Biology Methods and Protocols 8 (1), bpad005, 2023",
+      "author": "Benjamin F Maier and Angelique Burdinski and Marc Wiedermann and Annika H Rose and Frank Schlosser and Matthias an der Heiden and Ole Wichmann and Thomas Harder and Dirk Brockmann",
+      "journal": "Biology Methods and Protocols",
+      "volume": "8",
+      "number": "1",
+      "pages": "bpad005",
+      "publisher": "Oxford University Press",
+      "abstract": "In November 2021, the first infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variant of concern (VOC) B.1.1.529 (\u2018Omicron\u2019) was reported in Germany, alongside global reports of reduced vaccine efficacy (VE) against infections with this variant. The potential threat posed by its rapid spread in Germany was, at the time, difficult to predict. We developed a variant-dependent population-averaged susceptible-exposed-infected-recovered infectious-disease model that included information about variant-specific and waning VEs based on empirical data available at the time. Compared to other approaches, our method aimed for minimal structural and computational complexity and therefore enabled us to respond to changes in the situation in a more agile manner while still being able to analyze the potential influence of (non-)pharmaceutical interventions (NPIs) on the emerging crisis \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:QIV2ME_5wuYC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=6682462114877211082",
+    "cites_id": [
+      "6682462114877211082"
+    ],
+    "pub_url": "https://academic.oup.com/biomethods/article-abstract/8/1/bpad005/7082501",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ygFDZuPfvFwJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Die 4. COVID-19-Welle wurde durch fehlenden Impfschutz angesto\u00dfen: Was ist zu tun?",
+      "pub_year": 2021,
+      "citation": "Robert Koch-Institut, 2021",
+      "author": "Benjamin F Maier and Angelique Burdinski and Pascal Klamser and Marc Wiedermann and Mirjam A Jenny and Cornelia Betsch and Dirk Brockmann",
+      "publisher": "Robert Koch-Institut",
+      "abstract": "Neue Berechnungen auf der Basis eines mathematischen Ansteckungsmodells (es werden zwei verschiedene Szenarien mit unterschiedlichen Impfeffektivit\u00e4ten angenommen)  zeigen, dass eine effektive Erh\u00f6hung der Impfquote dringend notwendig ist: Bei 8 \u2013 9 von 10 SARS-CoV-2-Ansteckungen ist mindestens eine ungeimpfte Person beteiligt \u2013 als Ansteckender, Angesteckter oder beides. Geimpfte spielen nur bei 5 \u2013 6 von 10 Ansteckungen eine Rolle. Die r\u00f6ffentlichten Beispiele illustrieren, dass der Gro\u00dfteil der Neuinfektionen durch fehlenden Impfschutz verursacht wird, obwohl ungeimpfte Personen nur ca. 32 % der Bev\u00f6lkerung ausmachen."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:Wp0gIr-vW9MC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=911923485851281308",
+    "cites_id": [
+      "911923485851281308"
+    ],
+    "pub_url": "https://edoc.rki.de/handle/176904/9069",
+    "cites_per_year": {
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Commentary: A Network Science Summer Course for High School Students",
+      "pub_year": 2020,
+      "citation": "Network Science, 1-13, 2020",
+      "author": "Florian Klimm and Benjamin F Maier",
+      "journal": "Network Science",
+      "pages": "1-13",
+      "publisher": "Cambridge University Press",
+      "abstract": "We discuss a two-week summer course on \u201cNetwork Science\u201d and \u201cComplex Systems\u201d that we taught for 15 German high-school pupils of ages 16\u201318. In this course, we covered topics in graph theory, applied network science, programming, and dynamic systems alike. We find that \u201cNetwork Science\u201d is a well-suited course for introducing students to university-level mathematics. We reflect on difficulties regarding programming exercises and the discussion of more advanced topics in dynamic systems. We make the course material available and encourage fellow network scientists to organize similar outreach events."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:UebtZRa9Y70C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=5280019564320722899",
+    "cites_id": [
+      "5280019564320722899"
+    ],
+    "pub_url": "https://www.cambridge.org/core/journals/network-science/article/commentary-a-network-science-summer-course-for-highschool-students/CFCE737C7A392033AD05E9EDA9FA54CD",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0w9zqtFlRkkJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Thermophoresis in Liquids and its Connection to Equilibrium Quantities",
+      "pub_year": 2020,
+      "citation": "arXiv preprint arXiv:2001.05556, 2020",
+      "author": "Benjamin F Maier",
+      "journal": "arXiv preprint arXiv:2001.05556",
+      "abstract": "Thermophoresis is the process of particles moving along a temperature gradient in thermodynamic systems. Even though it has been studied for over 150 years, there is neither a complete theoretical description of thermophoresis in liquids nor of the Soret coefficient, the quantifiying measure of the Soret equilibrium. Recent studies connect its nature to equilibrium properties of the system, namely the excess enthalpy and the excess entropy, while there is still a debate over which of both describes the Soret coefficient more accurately and whether it can even be represented using those quantities. In this work I present a theoretical description for both cases based on density analysis by means of Brownian motion and dynamical density functional theory, where I assume local equilibrium. The interpretation of the Brownian stochastic differential equation (SDE) as an Ito or Stratonovich SDE is shown to have an influence on the outcome of the density. I argue that a Soret coefficient proportional to the excess enthalpy is connected to a system in a thermal gradient following its equation of state. Furthermore, I derive that the Boltzmann distribution law for external potentials does not hold for systems in thermal gradients but has to be replaced by a more general quantity. The theoretical predictions are consequently tested by means of BD simulations, where several systems are shown to follow their equation of state. The Soret coefficient of a solute in a toy model solvent is shown to be proportional to the solute's equilibrium solvation enthalpy. I further attempt to verify the theoretic derivations by means of MD simulations of noble gas solutes in SPC/E water \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:WF5omc3nYNoC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=14785309522081262700",
+    "cites_id": [
+      "14785309522081262700"
+    ],
+    "pub_url": "https://arxiv.org/abs/2001.05556",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bKzapaz4L80J:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Inferring country-specific import risk of diseases from the world air transportation network",
+      "pub_year": 2023,
+      "citation": "arXiv preprint arXiv:2304.12087, 2023",
+      "author": "Pascal P Klamser and Adrian Zachariae and Benjamin F Maier and Olga Baranov and Clara Jongen and Frank Schlosser and Dirk Brockmann",
+      "journal": "arXiv preprint arXiv:2304.12087",
+      "abstract": "Disease propagation between countries strongly depends on their effective distance, a measure derived from the world air transportation network (WAN). It reduces the complex spreading patterns of a pandemic to a wave-like propagation from the outbreak country, i.e. a linear relationship to the arrival time of the unmitigated spread of a disease. However, in the early stage of an outbreak, what matters to countries' decision makers is knowledge about the relative risk of arrival of active cases, i.e. how likely it is that an active case that boarded at the outbreak location will arrive in their country. As accurate mechanistic models to estimate such risks are still lacking, we propose here the ``import risk'' model that defines an import probability by means of the effective-distance framework. The model assumes that airline passengers are distributed along the shortest path tree that starts at the outbreak's origin. In combination with a random walk, we account for all possible paths, thus inferring predominant connecting flights. Our model outperforms other mobility models, such as the radiation and gravity model with varying distance types, and it improves further if additional geographic information is included. The import risk model's precision increases for countries that are more connected within the WAN, and recovers a geographic distance-dependence that suggests a pull- rather than a push-dynamic of the distribution process."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:hC7cP41nSMkC",
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2304.12087",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Simulations of Dyon Configurations in SU (2) Yang-Mills Theory",
+      "pub_year": 2020,
+      "citation": "Humboldt-Universit\u00e4t zu Berlin, 2020",
+      "author": "Benjamin Frank Maier",
+      "abstract": "Dyonen sind Teilchen aus einem semiklassischen Zugang zur L\u00f6sung der SU(2) Yang-Mills Feldgleichungen bei endlicher Temperatur. In dieser Arbeit werden verschiedene Methoden verwendet, um Dyonen als Erzeuger von Confinement zu untersuchen. Zuerst werden analytische Ausdr\u00fccke f\u00fcr nichtwechselwirkende Dyonen numerisch ausgewertet, um den Polyakov-Loop-Korrelator zu berechnen und folglich die Freie Energie f\u00fcr ein statisches Quark-Antiquark-Paar zu erhalten. F\u00fcr diese wird ein lineares Verhalten bei steigendem Quarkabstand und damit Confinement beobachtet. Anschlie\u00dfend untersuche ich die sogenannte Ewaldsummation, eine Methode, mit der das Eichpotential einer Superposition von Dyonen numerisch effizient berechnet werden kann, was notwendig f\u00fcr die Auswertung des Polyakov-Loop-Korrelators ist. Die Ergebnisse zeigen eine \u00dcbereinstimmung mit den analytischen Resultaten, allerdings hat diese Methode den Vorteil, auch f\u00fcr wechselwirkende Dyonen Berechnungen zu erm\u00f6glichen. Im letzten Teil der Arbeit schlage ich eine Methode vor, wechselwirkende Dyonen zu untersuchen und beschreibe mithilfe der Ewaldsummation einen Metropolisalgorithmus um f\u00fcr diesen Fall valide Dyonkonfigurationen zu erzeugen."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:YsMSGLbcyi4C",
+    "num_citations": 0,
+    "pub_url": "https://edoc.hu-berlin.de/handle/18452/21790",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hax2hx30fUkJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Application of Ewald's Method for Efficient Summation of Dyon Long-Range Potentials",
+      "pub_year": 2012,
+      "citation": "arXiv preprint arXiv:1212.5557, 2012",
+      "author": "Benjamin Maier and Falk Bruckmann and Simon Dinter and Ernst-Michael Ilgenfritz and Michael Muller-Preussker and Marc Wagner",
+      "journal": "arXiv preprint arXiv:1212.5557",
+      "abstract": "We study a model of dyons for SU(2) Yang-Mills theory at finite temperature T < T_c, in particular its ability to generate a confining force between a static quark antiquark pair. The interaction between dyons corresponds to a long-range 1/r potential, which in naive treatments with a finite number of dyons typically gives rise to severe finite volume effects. To avoid such effects we apply the so-called Ewald method, which has its origin in solid state physics. The basic idea of Ewald's method is to consider a finite number of dyons inside a finite cubic volume and enforce periodicity of this volume. We explain the technicalities of Ewald's method and outline how the method can be applied to a wider class of 1/r^p long-range potentials."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:9yKSN-GCB0IC",
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/1212.5557",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IOyePSZ3R0wJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Confining dyon gas with finite-volume effects under control",
+      "pub_year": 2012,
+      "citation": "Verhandlungen der Deutschen Physikalischen Gesellschaft, 2012",
+      "author": "Benjamin Maier and Michael Mueller-Preussker and Falk Bruckmann and Simon Dinter and Ernst-Michael Ilgenfritz and Marc Wagner",
+      "journal": "Verhandlungen der Deutschen Physikalischen Gesellschaft",
+      "abstract": "[en] As an approach to describe the long-range properties of non-Abelian gauge theories at non-zero temperature T< T c, we consider a non-interacting ensemble of dyons (magnetic monopoles) with non-trivial holonomy. We show analytically, that the quark-antiquark free energy from the Polyakov loop correlator grows linearly with the distance, and how the string tension scales with the dyon density. In numerical treatments, the long-range tails of the dyon fields cause severe finite-volume effects. Therefore, we demonstrate the application of Ewald's summation method to this system. Finite-volume effects are shown to be under control, which is a crucial requirement for numerical studies of interacting dyon ensembles."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:d1gkVwhDpl0C",
+    "num_citations": 0,
+    "pub_url": "https://inis.iaea.org/search/search.aspx?orig_q=RN:44035518",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Simulation of dyon ensembles in SU (2) Yang-Mills theory",
+      "pub_year": 2011,
+      "citation": "Verhandlungen der Deutschen Physikalischen Gesellschaft, 2011",
+      "author": "Benjamin Maier and Simon Dinter and Michael Mueller-Preussker and Marc Wagner and Falk Bruckmann and Ernst-Michael Ilgenfritz",
+      "journal": "Verhandlungen der Deutschen Physikalischen Gesellschaft",
+      "abstract": "[en] We study a model of dyons for SU (2) Yang-Mills theory, in particular its ability to generate a confining force between a static quark antiquark pair. The interaction between dyons corresponds to a long range potential, which in a naive treatment with a finite number of dyons gives rise to severe finite volume effects. To avoid such effects we apply the so-called Ewald method, which has its origin in plasma physics. The basic idea of Ewald's method is to consider a finite number of dyons inside a finite cubic volume and enforce periodicity of this volume. In this talk we apply Ewalds method to the logarithmic dyon potential, which is then used to simulate an ensemble of dyons by means of Monte Carlo methods. We also present preliminary results regarding the static quark antiquark potential within this model."
+    },
+    "filled": true,
+    "author_pub_id": "WRU4JG0AAAAJ:u-x6o8ySG0sC",
+    "num_citations": 0,
+    "pub_url": "https://inis.iaea.org/search/search.aspx?orig_q=RN:44000380",
+    "cites_per_year": {}
+  }
+]

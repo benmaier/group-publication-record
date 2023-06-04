@@ -1,0 +1,412 @@
+[
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Comparing information diffusion mechanisms by matching on cascade size",
+      "pub_year": 2021,
+      "citation": "Proceedings of the National Academy of Sciences 118 (46), e2100786118, 2021",
+      "author": "Jonas L Juul and Johan Ugander",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "118",
+      "number": "46",
+      "pages": "e2100786118",
+      "publisher": "National Academy of Sciences",
+      "abstract": "Do some types of information spread faster, broader, or further than others? To understand how information diffusions differ, scholars compare structural properties of the paths taken by content as it spreads through a network, studying so-called cascades. Commonly studied cascade properties include the reach, depth, breadth, and speed of propagation. Drawing conclusions from statistical differences in these properties can be challenging, as many properties are dependent. In this work, we demonstrate the essentiality of controlling for cascade sizes when studying structural differences between collections of cascades. We first revisit two datasets from notable recent studies of online diffusion that reported content-specific differences in cascade topology: an exhaustive corpus of Twitter cascades for verified true- or false-news content by Vosoughi et al. [S. Vosoughi, D. Roy, S. Aral. Science 359, 1146\u20131151 (2018 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:roLk4NBRz8UC",
+    "num_citations": 43,
+    "citedby_url": "/scholar?hl=en&cites=63395019247645380",
+    "cites_id": [
+      "63395019247645380"
+    ],
+    "pub_url": "https://www.pnas.org/doi/abs/10.1073/pnas.2100786118",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:xPLIIm854QAJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 5,
+      "2022": 24,
+      "2023": 14
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Hipsters on networks: How a minority group of individuals can lead to an antiestablishment majority",
+      "pub_year": 2019,
+      "citation": "Physical Review E 99 (2), 022313, 2019",
+      "author": "Jonas S Juul and Mason A Porter",
+      "journal": "Physical Review E",
+      "volume": "99",
+      "number": "2",
+      "pages": "022313",
+      "publisher": "American Physical Society",
+      "abstract": "The spread of opinions, memes, diseases, and \u201calternative facts\u201d in a population depends both on the details of the spreading process and on the structure of the social and communication networks on which they spread. One feature that can change spreading dynamics substantially is heterogeneous behavior among different types of individuals in a social network. In this paper, we explore how antiestablishment nodes (eg, hipsters) influence the spreading dynamics of two competing products. We consider a model in which spreading follows a deterministic rule for updating node states (which indicate which product has been adopted) in which an adjustable probability p Hip of the nodes in a network are hipsters, who choose to adopt the product that they believe is the less popular of the two. The remaining nodes are conformists, who choose which product to adopt by considering which products their immediate \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:qjMakFHDy7sC",
+    "num_citations": 39,
+    "citedby_url": "/scholar?hl=en&cites=2120048295316989039",
+    "cites_id": [
+      "2120048295316989039"
+    ],
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.022313",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:b6QKLbHsax0J:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 2,
+      "2019": 5,
+      "2020": 11,
+      "2021": 7,
+      "2022": 13,
+      "2023": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles",
+      "pub_year": 2021,
+      "citation": "Nature physics 17 (1), 5-8, 2021",
+      "author": "Jonas L Juul and Kaare Gr\u00e6sb\u00f8ll and Lasse Engbo Christiansen and Sune Lehmann",
+      "journal": "Nature physics",
+      "volume": "17",
+      "number": "1",
+      "pages": "5-8",
+      "publisher": "Nature Publishing Group UK",
+      "abstract": "The uncertainty associated with epidemic forecasts is often simulated with ensembles of epidemic trajectories based on combinations of parameters. We show that the standard approach for summarizing such ensembles systematically suppresses critical epidemiological information."
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:eQOLeE2rZwMC",
+    "num_citations": 17,
+    "citedby_url": "/scholar?hl=en&cites=9488214151276714422",
+    "cites_id": [
+      "9488214151276714422"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41567-020-01121-y",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ttmu93_orIMJ:scholar.google.com/",
+    "cites_per_year": {
+      "2020": 1,
+      "2021": 10,
+      "2022": 4,
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Synergistic effects in threshold models on networks",
+      "pub_year": 2018,
+      "citation": "Chaos: An Interdisciplinary Journal of Nonlinear Science 28 (1), 013115, 2018",
+      "author": "Jonas S Juul and Mason A Porter",
+      "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
+      "volume": "28",
+      "number": "1",
+      "pages": "013115",
+      "publisher": "AIP Publishing LLC",
+      "abstract": "Network structure can have a significant impact on the propagation of diseases, memes, and information on social networks. Different types of spreading processes (and other dynamical processes) are affected by network architecture in different ways, and it is important to develop tractable models of spreading processes on networks to explore such issues. In this paper, we incorporate the idea of synergy into a two-state (\u201cactive\u201d or \u201cpassive\u201d) threshold model of social influence on networks. Our model's update rule is deterministic, and the influence of each meme-carrying (i.e., active) neighbor can\u2014depending on a parameter\u2014either be enhanced or inhibited by an amount that depends on the number of active neighbors of a node. Such a synergistic system models social behavior in which the willingness to adopt either accelerates or saturates in a way that depends on the number of neighbors who have adopted \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:u5HHmVD_uO8C",
+    "num_citations": 17,
+    "citedby_url": "/scholar?hl=en&cites=4161097685827000701",
+    "cites_id": [
+      "4161097685827000701"
+    ],
+    "pub_url": "https://aip.scitation.org/doi/abs/10.1063/1.5017962",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fRlrf0wwvzkJ:scholar.google.com/",
+    "cites_per_year": {
+      "2018": 1,
+      "2019": 7,
+      "2020": 1,
+      "2021": 2,
+      "2022": 6
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Descendant distributions for the impact of mutant contagion on networks",
+      "pub_year": 2020,
+      "citation": "Physical Review Research 2 (3), 033005, 2020",
+      "author": "Jonas S Juul and Steven H Strogatz",
+      "journal": "Physical Review Research",
+      "volume": "2",
+      "number": "3",
+      "pages": "033005",
+      "publisher": "American Physical Society",
+      "abstract": "Contagion, broadly construed, refers to anything that can spread infectiously from peer to peer. Examples include communicable diseases, rumors, misinformation, ideas, innovations, bank failures, and electrical blackouts. Sometimes, as in the 1918 Spanish flu epidemic, a contagion mutates at some point as it spreads through a network. Here, using a simple susceptible-infected model of contagion, we explore the downstream impact of a single mutation event. Assuming that this mutation occurs at a random node in the contact network, we calculate the distribution of the number of \u201cdescendants,\u201d d, downstream from the initial \u201cpatient zero\u201d mutant. We find that the tail of the distribution decays as d\u2212 2 for complete graphs, random graphs, small-world networks, networks with block-like structure, and other infinite-dimensional networks. This prediction agrees with the observed statistics of memes propagating and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:YsMSGLbcyi4C",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=1070980193673509395,13640365579077605616",
+    "cites_id": [
+      "1070980193673509395",
+      "13640365579077605616"
+    ],
+    "pub_url": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033005",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:E3pj1c_i3A4J:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 1,
+      "2020": 1,
+      "2021": 4,
+      "2022": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Are fast test results preferable to high test sensitivity in contact-tracing strategies?",
+      "pub_year": 2021,
+      "citation": "medRxiv, 2021.02. 17.21251921, 2021",
+      "author": "Jonas L Juul and Kaare Gr\u00e6sb\u00f8ll",
+      "journal": "medRxiv",
+      "pages": "2021.02. 17.21251921",
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "abstract": "Across the world, countries are fighting to reduce the spread of COVID-19. The backbone of the response is a test-trace-isolate strategy, where suspected infected get tested and isolated and possible secondary cases get traced, tested and isolated. Because more accurate tests often take longer to analyze, and the benefits of contact tracing are strengthened by rapid diagnosis, there exists a trade-off in test sensitivity and test waiting time in test-trace-isolate strategies. Here we ask: How many false negatives can be tolerated in a rapid test so that it reduces transmission better than a slower, more accurate test? How does this change with contact tracing efficiency and test waiting time? We find that a rapid, less sensitive test performs best for many test-parameter choices and that this is true even for modest contact tracing efficiency. For COVID-19-like viral parameters, a test with 40% false negatives and immediate result might reduce transmission as well as a test with no false negatives and a 3-day waiting time. Our analysis suggests employing rapid tests to reduce test waiting times as a viable strategy to reduce transmission when testing infrastructure is under stress."
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:WF5omc3nYNoC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=8170808549453342731",
+    "cites_id": [
+      "8170808549453342731"
+    ],
+    "pub_url": "https://www.medrxiv.org/content/10.1101/2021.02.17.21251921.abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:CyjkvRWLZHEJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 2,
+      "2022": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Entrainment as a means of controlling phase waves in populations of coupled oscillators",
+      "pub_year": 2018,
+      "citation": "Physical Review E 98 (6), 062412, 2018",
+      "author": "Jonas S Juul and Sandeep Krishna and Mogens H Jensen",
+      "journal": "Physical Review E",
+      "volume": "98",
+      "number": "6",
+      "pages": "062412",
+      "publisher": "American Physical Society",
+      "abstract": "We explore waves and entrainment in a model of coupled oscillators, inspired from the cellular oscillators in the presomitic mesoderm (PSM) of mice. The internal clock in each cell is based on a negative feedback loop which couples to the clocks of neighboring cells through a Notch mechanism. We investigate how a morphogen gradient in the mesoderm, which affects the period of oscillating cells, gives rise to phase waves traveling from the posterior to the anterior part of the PSM. We show that the phase waves can be entrained by an external periodic variation in this morphogen and also observe that multiple oscillatory solutions can coexist in the cell population. Together, these provide a way to potentially control phase waves and thereby manipulate somite patterning in embryos, based on entrainment properties of coupled nonlinear oscillators."
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:9yKSN-GCB0IC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=11118375525454179352",
+    "cites_id": [
+      "11118375525454179352"
+    ],
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.062412",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GOwX-qFnTJoJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 2,
+      "2020": 0,
+      "2021": 2,
+      "2022": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Hypergraph patterns and collaboration structure",
+      "pub_year": 2022,
+      "citation": "arXiv preprint arXiv:2210.02163, 2022",
+      "author": "Jonas L Juul and Austin R Benson and Jon Kleinberg",
+      "journal": "arXiv preprint arXiv:2210.02163",
+      "abstract": "Humans collaborate in different contexts such as in creative or scientific projects, in workplaces and in sports. Depending on the project and external circumstances, a newly formed collaboration may include people that have collaborated before in the past, and people with no collaboration history. Such existing relationships between team members have been reported to influence the performance of teams. However, it is not clear how existing relationships between team members should be quantified, and whether some relationships are more likely to occur in new collaborations than others. Here we introduce a new family of structural patterns, m-patterns, which formalize relationships between collaborators and we study the prevalence of such structures in data and a simple random-hypergraph null model. We analyze the frequency with which different collaboration structures appear in our null model and show how such frequencies depend on size and hyperedge density in the hypergraphs. Comparing the null model to data of human and non-human collaborations, we find that some collaboration structures are vastly under- and overrepresented in empirical datasets. Finally, we find that structures of scientific collaborations on COVID-19 papers in some cases are statistically significantly different from those of non-COVID-19 papers. Examining citation counts for 4 different scientific fields, we also find indications that repeat collaborations are more successful for 2-author scientific publications and less successful for 3-author scientific publications as compared to other collaboration structures."
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:0EnyYjriUFMC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=6436676955586611166",
+    "cites_id": [
+      "6436676955586611166"
+    ],
+    "pub_url": "https://arxiv.org/abs/2210.02163",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3seuj5arU1kJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 1,
+      "2023": 3
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Isospectral discrete and quantum graphs with the same flip counts and nodal counts",
+      "pub_year": 2018,
+      "citation": "Journal of Physics A: Mathematical and Theoretical 51 (24), 245101, 2018",
+      "author": "Jonas S Juul and Christopher H Joyner",
+      "journal": "Journal of Physics A: Mathematical and Theoretical",
+      "volume": "51",
+      "number": "24",
+      "pages": "245101",
+      "publisher": "IOP Publishing",
+      "abstract": "The existence of non-isomorphic graphs which share the same Laplace spectrum (to be referred to as isospectral graphs) leads naturally to the following question: what additional information is required in order to resolve isospectral graphs? It was suggested by Band, Shapira and Smilansky that this might be achieved by either counting the number of nodal domains or the number of times the eigenfunctions change sign (the so-called flip count)(Band et al 2006 J. Phys. A: Math. Gen. 39 13999\u20134014; Band and Smilansky 2007 Eur. Phys. J. Spec. Top. 145 171\u20139). Recent examples of (discrete) isospectral graphs with the same flip count and nodal count have been constructed by Ammann by utilising Godsil\u2013McKay switching (Ammann private communication). Here, we provide a simple alternative mechanism that produces systematic examples of both discrete and quantum isospectral graphs with the same flip and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:d1gkVwhDpl0C",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=2993600824507962317",
+    "cites_id": [
+      "2993600824507962317"
+    ],
+    "pub_url": "https://iopscience.iop.org/article/10.1088/1751-8121/aac039/meta",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zRMd0BZoiykJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 1,
+      "2020": 2,
+      "2021": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Constraints on somite formation in developing embryos",
+      "pub_year": 2019,
+      "citation": "Journal of the Royal Society Interface 16, 2019",
+      "author": "Jonas S. Juul and Mogens H. Jensen and Sandeep Krishna",
+      "journal": "Journal of the Royal Society Interface",
+      "volume": "16",
+      "abstract": "Segment formation in vertebrate embryos is a stunning example of biological self-organization. Here, we present an idealized framework, in which we treat the presomitic mesoderm (PSM) as a one-dimensional line of oscillators. We use the framework to derive constraints that connect the size of somites, and the timing of their formation, to the growth of the PSM and the gradient of the somitogenesis clock period across the PSM. Our analysis recapitulates the observations made recently in ex vivo cultures of mouse PSM cells, and makes predictions for how perturbations, such as increased Wnt levels, would alter somite widths. Finally, our analysis makes testable predictions for the shape of the phase profile and somite widths at different stages of PSM growth. In particular, we show that the phase profile is robustly concave when the PSM length is steady and slightly convex in an important special case when it is \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:IjCSPb-OGe4C",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=1531771415011923884",
+    "cites_id": [
+      "1531771415011923884"
+    ],
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2019.0451",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rBfifPzxQRUJ:scholar.google.com/",
+    "cites_per_year": {
+      "2019": 1,
+      "2020": 0,
+      "2021": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Group-specific behavior change following terror attacks",
+      "pub_year": 2023,
+      "citation": "Journal of Computational Social Science 6 (1), 1-18, 2023",
+      "author": "Jonas L Juul and Laura Alessandretti and Jesper Dammeyer and Ingo Zettler and Sune Lehmann and Joachim Mathiesen",
+      "journal": "Journal of Computational Social Science",
+      "volume": "6",
+      "number": "1",
+      "pages": "1-18",
+      "publisher": "Springer Nature Singapore",
+      "abstract": "Terrorists use violence in pursuit of political goals. While terror often has severe consequences for victims, it remains an open question how terror attacks affect the general population. We study the behavioral response of citizens of cities affected by 7 different terror attacks. We compare real-time mobile communication patterns in the first 24 hours following a terror attack to the corresponding patterns on days with no terror attack. We find that the difference between male and female communication patterns are amplified following a terror attack. Knowledge about citizens\u2019 behavior response patterns following terror attacks may have important implications for the public response during and after an attack."
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:5nxA0vEk-isC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=7996605135810437907,12943119356248352469",
+    "cites_id": [
+      "7996605135810437907",
+      "12943119356248352469"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s42001-022-00188-2",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:E6ML0QCm-W4J:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "How a minority can win: Unrepresentative outcomes in a simple model of voter turnout",
+      "pub_year": 2021,
+      "citation": "Physical Review E 104 (5), 054307, 2021",
+      "author": "Ekaterina Landgren and Jonas L Juul and Steven H Strogatz",
+      "journal": "Physical Review E",
+      "volume": "104",
+      "number": "5",
+      "pages": "054307",
+      "publisher": "American Physical Society",
+      "abstract": "The outcome of an election depends not only on which candidate is more popular, but also on how many of their voters actually turn out to vote. Here we consider a simple model in which voters abstain from voting if they think their vote would not matter. Specifically, they do not vote if they feel sure their preferred candidate will win anyway (a condition we call complacency), or if they feel sure their candidate will lose anyway (a condition we call dejectedness). The voters reach these decisions based on a myopic assessment of their local network, which they take as a proxy for the entire electorate: voters know which candidate their neighbors prefer and they assume\u2014perhaps incorrectly\u2014that those neighbors will turn out to vote, so they themselves cast a vote if and only if it would produce a tie or a win for their preferred candidate in their local neighborhood. We explore various network structures and distributions of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:LkGwnXOMwfcC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=7172171708846826810",
+    "cites_id": [
+      "7172171708846826810"
+    ],
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054307",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:OuXrXSusiGMJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 1
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Comparing the efficiency of forward and backward contact tracing",
+      "pub_year": 2022,
+      "citation": "arXiv preprint arXiv:2206.15080, 2022",
+      "author": "Jonas L Juul and Steven H Strogatz",
+      "journal": "arXiv preprint arXiv:2206.15080",
+      "abstract": "Tracing potentially infected contacts of confirmed cases is important when fighting outbreaks of many infectious diseases. The COVID-19 pandemic has motivated researchers to examine how different contact tracing strategies compare in terms of effectiveness (ability to mitigate infections) and cost efficiency (number of prevented infections per isolation). Two important strategies are so-called forward contact tracing (tracing to whom disease spreads) and backward contact tracing (tracing from whom disease spreads). Recently, Kojaku and colleagues reported that backward contact tracing was ``profoundly more effective'' than forward contact tracing, that contact tracing effectiveness ``hinges on reaching the `source' of infection'', and that contact tracing outperformed case isolation in terms of cost efficiency. Here we show that these conclusions are not true in general. They were based in part on simulations that vastly overestimated the effectiveness and efficiency of contact tracing. Our results show that the efficiency of contact tracing strategies is highly contextual; faced with a disease outbreak, the disease dynamics determine whether tracing infection sources or new cases is more impactful. Our results also demonstrate the importance of simulating disease spread and mitigation measures in parallel rather than sequentially."
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:hqOjcs7Dif8C",
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2206.15080",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hUt534g9kQcJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "The Rules of Contagion: Why Things Spread\u2014And Why They Stop: by Adam Kucharski BASIC BOOKS, 2020, 352 PP., US$30.00, ISBN-13: 978154167431",
+      "pub_year": 2022,
+      "citation": "The Mathematical Intelligencer 44 (1), 76-77, 2022",
+      "author": "Sune Lehmann and Jonas L Juul",
+      "volume": "44",
+      "number": "1",
+      "pages": "76-77",
+      "publisher": "Springer US",
+      "abstract": "In The Rules of Contagion: How Things Spread\u2014and Why They Stop, Adam J. Kucharski takes the reader on a journey through a contagious world. Ripe with personal anecdotes, historical context, and small mathematical examples, the journey touches on everything from communicable diseases to the stock market, online propagation of memes, and the social contagion of crime. At the end of this journey, the reader is left with a sense of both similarities and differences between contagions in these different realms.The text is aimed at a general nonscientific audience, but the scope is broad enough that professionals might also find it enlightening\u2014especially since a large fraction of working scientists have become epidemiologists (armchair or otherwise) during the Covid-19 pandemic. The beginning of the book is just excellent. Kucharski begins his text by introducing fundamental epidemiological concepts in the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:_FxGoFyzp5QC",
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/article/10.1007/s00283-021-10107-4",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Synchronisation, shocks and contagion in a connected world",
+      "pub_year": 2019,
+      "citation": "Niels Bohr Institute, 2019",
+      "author": "Jonas S\u00f8gaard Juul",
+      "abstract": "Nothing in our universe is completely isolated; everything is connected. For the past three years, I have had the great privilege of exploring many wonders of our connected world. The projects I have worked on deal with interacting systems of very different nature: From particular processes carried out by stem cells in developmental biology, to idealised contagion in abstract models of connected individuals. The projects also make use of very different methods. In some cases, I seek to answer questions using calculations and simulations. Other projects are entirely data-driven.The diversity in projects is partially due to this work being funded by three different grants. The grants had very different scopes, and each provided one-third of the funding of this doctoral work. But the heterogeneity in topics also illustrates the fantastic importance of understanding how interactions of individual agents shape the world around us. Interactions are simply present in systems of all scales; big or small; biological, engineered, or social. Some interactions are of great importance, while others are nothing but noise."
+    },
+    "filled": true,
+    "author_pub_id": "uJPXFyMAAAAJ:Tyk-4Ss8FVUC",
+    "num_citations": 0,
+    "pub_url": "https://nbi.ku.dk/english/theses/phd-theses/jonas-soegaard-juul/JonasL-Juul.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:BcK3tibSLwIJ:scholar.google.com/",
+    "cites_per_year": {}
+  }
+]

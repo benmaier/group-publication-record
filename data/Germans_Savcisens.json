@@ -1,0 +1,36 @@
+[
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Using Sequences of Life-events to Predict Human Lives",
+      "pub_year": 2023,
+      "citation": "",
+      "author": "Germans Savcisens and Tina Eliassi-Rad and Lars Kai Hansen and Laust Mortensen and Lau Lilleholt and Anna Rogers and Ingo Zettler and Sune Lehmann",
+      "abstract": "Over the past decade, machine learning has revolutionized computers' ability to analyze text through flexible computational models. Due to their structural similarity to written language, transformer-based architectures have also shown promise as tools to make sense of a range of multi-variate sequences from protein-structures, music, electronic health records to weather-forecasts. We can also represent human lives in a way that shares this structural similarity to language. From one perspective, lives are simply sequences of events: People are born, visit the pediatrician, start school, move to a new location, get married, and so on. Here, we exploit this similarity to adapt innovations from natural language processing to examine the evolution and predictability of human lives based on detailed event sequences. We do this by drawing on arguably the most comprehensive registry data in existence, available for an entire nation of more than six million individuals across decades. Our data include information about life-events related to health, education, occupation, income, address, and working hours, recorded with day-to-day resolution. We create embeddings of life-events in a single vector space showing that this embedding space is robust and highly structured. Our models allow us to predict diverse outcomes ranging from early mortality to personality nuances, outperforming state-of-the-art models by a wide margin. Using methods for interpreting deep learning models, we probe the algorithm to understand the factors that enable our predictions. Our framework allows researchers to identify new potential mechanisms that impact life outcomes \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "60I1M-oAAAAJ:MXK_kJrjxJIC",
+    "num_citations": 0,
+    "pub_url": "https://www.researchsquare.com/article/rs-2975478/latest",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "A Sustainable West? Analyzing Clusters of Public Opinion in Sustainability Western Discourses in a Collection of Multilingual Newspapers (1999-2018)",
+      "pub_year": 2023,
+      "citation": "Digital Humanities in the Nordic and Baltic Countries 2023: Sustainability \u2026, 2023",
+      "author": "Germans Savcisens and Elena Fern\u00e1ndez Fern\u00e1ndez",
+      "conference": "Digital Humanities in the Nordic and Baltic Countries 2023: Sustainability, Environment, Community, Data.",
+      "publisher": "CEUR-WS",
+      "abstract": "In this article, we analyze the temporal and geographic evolution of sustainability-related discourses over a time frame of twenty years (1999-2018). We use a collection of multilingual newspapers in English, French, German, Spanish, and Italian, as a proxy. We filter documents using four key terms: sustainable development, climate change, environment, and pollution, seeking to explore how different newspapers encode the same message, aiming to detect points of contact (agreement) and rupture (polarity). Our methodology includes Topic Modelling (Pachinko Allocation [1]), word embeddings [2], Ward\u2019s hierarchical cluster analysis [3], and network analysis [4]. Our results show a progressive simplification of semantic fields over time, reflecting less polarizing views across countries and, therefore, showing an increasing agreement on sustainability-related discourses in our contemporary societies. Moreover, we also notice little variation of newspapers rhetorics over time. Therefore, this article also contributes with a meta-reflection about newspapers behaviour as information containers."
+    },
+    "filled": true,
+    "author_pub_id": "60I1M-oAAAAJ:_FxGoFyzp5QC",
+    "num_citations": 0,
+    "pub_url": "https://orbit.dtu.dk/en/publications/a-sustainable-west-analyzing-clusters-of-public-opinion-in-sustai",
+    "cites_per_year": {}
+  }
+]

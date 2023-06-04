@@ -1,0 +1,27 @@
+[
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Distribution inference risks: Identifying and mitigating sources of leakage",
+      "pub_year": 2022,
+      "citation": "arXiv preprint arXiv:2209.08541, 2022",
+      "author": "Valentin Hartmann and L\u00e9o Meynent and Maxime Peyrard and Dimitrios Dimitriadis and Shruti Tople and Robert West",
+      "journal": "arXiv preprint arXiv:2209.08541",
+      "abstract": "A large body of work shows that machine learning (ML) models can leak sensitive or confidential information about their training data. Recently, leakage due to distribution inference (or property inference) attacks is gaining attention. In this attack, the goal of an adversary is to infer distributional information about the training data. So far, research on distribution inference has focused on demonstrating successful attacks, with little attention given to identifying the potential causes of the leakage and to proposing mitigations. To bridge this gap, as our main contribution, we theoretically and empirically analyze the sources of information leakage that allows an adversary to perpetrate distribution inference attacks. We identify three sources of leakage: (1) memorizing specific information about the  (expected label given the feature values) of interest to the adversary, (2) wrong inductive bias of the model, and (3) finiteness of the training data. Next, based on our analysis, we propose principled mitigation techniques against distribution inference attacks. Specifically, we demonstrate that causal learning techniques are more resilient to a particular type of distribution inference risk termed distributional membership inference than associative learning methods. And lastly, we present a formalization of distribution inference that allows for reasoning about more general adversaries than was previously possible."
+    },
+    "filled": true,
+    "author_pub_id": "5fJ_MikAAAAJ:u5HHmVD_uO8C",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=7192570552736754686",
+    "cites_id": [
+      "7192570552736754686"
+    ],
+    "pub_url": "https://arxiv.org/abs/2209.08541",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:_ivPUc8k0WMJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 2,
+      "2023": 1
+    }
+  }
+]

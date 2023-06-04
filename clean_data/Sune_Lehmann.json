@@ -1,0 +1,2348 @@
+[
+  {
+    "title": "Link communities reveal multiscale complexity in networks",
+    "pub_year": 2010,
+    "citation": "Nature 466 (7307), 761-764, 2010",
+    "author": [
+      "Yong-Yeol Ahn",
+      "James P Bagrow",
+      "Sune Lehmann"
+    ],
+    "journal": "Nature",
+    "volume": "466",
+    "number": "7307",
+    "pages": "761-764",
+    "conference": null,
+    "num_citations": 2296,
+    "pub_url": "https://www.nature.com/articles/nature09182"
+  },
+  {
+    "title": "Understanding the demographics of Twitter users",
+    "pub_year": 2011,
+    "citation": "Proceedings of the International AAAI Conference on Web and Social Media 5 \u2026, 2011",
+    "author": [
+      "Alan Mislove",
+      "Sune Lehmann",
+      "Yong-Yeol Ahn",
+      "Jukka-Pekka Onnela",
+      "James Rosenquist"
+    ],
+    "journal": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "volume": "5",
+    "number": "1",
+    "pages": "554-557",
+    "conference": null,
+    "num_citations": 1071,
+    "pub_url": "https://ojs.aaai.org/index.php/ICWSM/article/view/14168"
+  },
+  {
+    "title": "Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm",
+    "pub_year": 2017,
+    "citation": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language \u2026, 2017",
+    "author": [
+      "Bjarke Felbo",
+      "Alan Mislove",
+      "Anders S\u00f8gaard",
+      "Iyad Rahwan",
+      "Sune Lehmann"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "1615\u20131625",
+    "conference": "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "num_citations": 799,
+    "pub_url": "https://arxiv.org/abs/1708.00524"
+  },
+  {
+    "title": "Mobile phone data for informing public health actions across the COVID-19 pandemic life cycle",
+    "pub_year": 2020,
+    "citation": "Science advances 6 (23), eabc0764, 2020",
+    "author": [
+      "Nuria Oliver",
+      "Bruno Lepri",
+      "Harald Sterly",
+      "Renaud Lambiotte",
+      "S\u00e9bastien Deletaille",
+      "Marco De Nadai",
+      "Emmanuel Letouz\u00e9",
+      "Albert Ali Salah",
+      "Richard Benjamins",
+      "Ciro Cattuto",
+      "Vittoria Colizza",
+      "Nicolas De Cordes",
+      "Samuel P Fraiberger",
+      "Till Koebe",
+      "Sune Lehmann",
+      "Juan Murillo",
+      "Alex Pentland",
+      "Phuong N Pham",
+      "Fr\u00e9d\u00e9ric Pivetta",
+      "Jari Saram\u00e4ki",
+      "Samuel V Scarpino",
+      "Michele Tizzoni",
+      "Stefaan Verhulst",
+      "Patrick Vinck"
+    ],
+    "journal": null,
+    "volume": "6",
+    "number": "23",
+    "pages": "eabc0764",
+    "conference": null,
+    "num_citations": 590,
+    "pub_url": "https://www.science.org/doi/abs/10.1126/sciadv.abc0764"
+  },
+  {
+    "title": "Measuring large-scale social networks with high resolution.",
+    "pub_year": 2014,
+    "citation": "PLOS One 9 (4), e95978, 2014",
+    "author": [
+      "Arkadiusz Stopczynski",
+      "Vedran Sekara",
+      "Piotr Sapiezynski",
+      "Andrea Cuttone",
+      "Jakob Eg Larsen",
+      "Sune Lehmann"
+    ],
+    "journal": "PLOS One",
+    "volume": "9",
+    "number": "4",
+    "pages": "e95978",
+    "conference": null,
+    "num_citations": 434,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095978"
+  },
+  {
+    "title": "Measures for measures",
+    "pub_year": 2006,
+    "citation": "Nature 444 (7122), 1003-1004, 2006",
+    "author": [
+      "Sune Lehmann",
+      "Andrew D Jackson",
+      "Benny E Lautrup"
+    ],
+    "journal": "Nature",
+    "volume": "444",
+    "number": "7122",
+    "pages": "1003-1004",
+    "conference": null,
+    "num_citations": 407,
+    "pub_url": "https://www.nature.com/articles/4441003a"
+  },
+  {
+    "title": "The fundamental structures of dynamic social networks",
+    "pub_year": 2016,
+    "citation": "Proceedings of the National Academy of Sciences of the United States of \u2026, 2016",
+    "author": [
+      "Vedran Sekara",
+      "Arkadiusz Stopczynski",
+      "Sune Lehmann"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "volume": "113",
+    "number": "36",
+    "pages": "9977\u20139982",
+    "conference": null,
+    "num_citations": 274,
+    "pub_url": "https://www.pnas.org/doi/abs/10.1073/pnas.1602803113"
+  },
+  {
+    "title": "Evidence of Complex Contagion of Information in Social Media: An Experiment Using Twitter Bots",
+    "pub_year": 2017,
+    "citation": "PLOS ONE 12 (9), e0184148, 2017",
+    "author": [
+      "Bjarke M\u00f8nsted",
+      "Piotr Sapie\u017cy\u0144ski",
+      "Emilio Ferrara",
+      "Sune Lehmann"
+    ],
+    "journal": "PLOS ONE",
+    "volume": "12",
+    "number": "9",
+    "pages": "e0184148",
+    "conference": null,
+    "num_citations": 260,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184148"
+  },
+  {
+    "title": "Accelerating dynamics of collective attention",
+    "pub_year": 2019,
+    "citation": "Nature communications 10 (1), 1759, 2019",
+    "author": [
+      "Philipp Lorenz-Spreen",
+      "Bjarke M\u00f8rch M\u00f8nsted",
+      "Philipp H\u00f6vel",
+      "Sune Lehmann"
+    ],
+    "journal": "Nature communications",
+    "volume": "10",
+    "number": "1",
+    "pages": "1759",
+    "conference": null,
+    "num_citations": 237,
+    "pub_url": "https://www.nature.com/articles/s41467-019-09311-w"
+  },
+  {
+    "title": "Citation networks in high energy physics",
+    "pub_year": 2003,
+    "citation": "Physical Review E 68 (2), 026113, 2003",
+    "author": [
+      "S Lehmann",
+      "B Lautrup",
+      "AD Jackson"
+    ],
+    "journal": "Physical Review E",
+    "volume": "68",
+    "number": "2",
+    "pages": "026113",
+    "conference": null,
+    "num_citations": 190,
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.68.026113"
+  },
+  {
+    "title": "Biclique communities",
+    "pub_year": 2008,
+    "citation": "Physical Review E 78 (1), 016108, 2008",
+    "author": [
+      "Sune Lehmann",
+      "Martin Schwartz",
+      "Lars Kai Hansen"
+    ],
+    "journal": "Physical Review E",
+    "volume": "78",
+    "number": "1",
+    "pages": "016108",
+    "conference": null,
+    "num_citations": 179,
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.78.016108"
+  },
+  {
+    "title": "Evidence for a conserved quantity in human mobility",
+    "pub_year": 2018,
+    "citation": "Nature Human Behavior, 2018",
+    "author": [
+      "Laura Alessandretti",
+      "Piotr Sapiezynski",
+      "Vedran Sekara",
+      "Sune Lehmann",
+      "Andrea Baronchelli"
+    ],
+    "journal": "Nature Human Behavior",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 168,
+    "pub_url": "https://www.nature.com/articles/s41562-018-0364-x"
+  },
+  {
+    "title": "Tracking human mobility using wifi signals",
+    "pub_year": 2015,
+    "citation": "PloS one 10 (7), e0130824, 2015",
+    "author": [
+      "Piotr Sapiezynski",
+      "Arkadiusz Stopczynski",
+      "Radu Gatej",
+      "Sune Lehmann"
+    ],
+    "journal": "PloS one",
+    "volume": "10",
+    "number": "7",
+    "pages": "e0130824",
+    "conference": null,
+    "num_citations": 168,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130824"
+  },
+  {
+    "title": "Class attendance, peer similarity, and academic performance in a large field study",
+    "pub_year": 2017,
+    "citation": "PLOS ONE 12, e0187078, 2017",
+    "author": [
+      "Valentin Kassarnig",
+      "Andreas Bjerre-Nielsen",
+      "Enys Mones",
+      "Sune Lehmann",
+      "David Dreyer Lassen"
+    ],
+    "journal": "PLOS ONE",
+    "volume": "12",
+    "number": null,
+    "pages": "e0187078",
+    "conference": null,
+    "num_citations": 164,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187078"
+  },
+  {
+    "title": "The strength of the strongest ties in collaborative problem solving",
+    "pub_year": 2014,
+    "citation": "Scientific reports 4 (1), 5277, 2014",
+    "author": [
+      "Yves-Alexandre De Montjoye",
+      "Arkadiusz Stopczynski",
+      "Erez Shmueli",
+      "Alex Pentland",
+      "Sune Lehmann"
+    ],
+    "journal": "Scientific reports",
+    "volume": "4",
+    "number": "1",
+    "pages": "5277",
+    "conference": null,
+    "num_citations": 145,
+    "pub_url": "https://www.nature.com/articles/srep05277"
+  },
+  {
+    "title": "Tweetin'in the rain: Exploring societal-scale effects of weather on mood",
+    "pub_year": 2012,
+    "citation": "Proceedings of the International AAAI Conference on Web and Social Media 6 \u2026, 2012",
+    "author": [
+      "Aniko Hannak",
+      "Eric Anderson",
+      "Lisa Feldman Barrett",
+      "Sune Lehmann",
+      "Alan Mislove",
+      "Mirek Riedewald"
+    ],
+    "journal": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "volume": "6",
+    "number": "1",
+    "pages": "479-482",
+    "conference": null,
+    "num_citations": 136,
+    "pub_url": "https://ojs.aaai.org/index.php/ICWSM/article/view/14322"
+  },
+  {
+    "title": "The art of community detection",
+    "pub_year": 2008,
+    "citation": "Bioessays 30 (10), 934-938, 2008",
+    "author": [
+      "Natali Gulbahce",
+      "Sune Lehmann"
+    ],
+    "journal": "Bioessays",
+    "volume": "30",
+    "number": "10",
+    "pages": "934-938",
+    "conference": null,
+    "num_citations": 135,
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.20820"
+  },
+  {
+    "title": "The scales of human mobility",
+    "pub_year": 2020,
+    "citation": "Nature 587 (7834), 402-407, 2020",
+    "author": [
+      "Laura Alessandretti",
+      "Ulf Aslak",
+      "Sune Lehmann"
+    ],
+    "journal": "Nature",
+    "volume": "587",
+    "number": "7834",
+    "pages": "402-407",
+    "conference": null,
+    "num_citations": 132,
+    "pub_url": "https://www.nature.com/articles/s41586-020-2909-1"
+  },
+  {
+    "title": "Interaction data from the copenhagen networks study",
+    "pub_year": 2019,
+    "citation": "Scientific Data 6 (1), 315, 2019",
+    "author": [
+      "Piotr Sapiezynski",
+      "Arkadiusz Stopczynski",
+      "David Dreyer Lassen",
+      "Sune Lehmann"
+    ],
+    "journal": "Scientific Data",
+    "volume": "6",
+    "number": "1",
+    "pages": "315",
+    "conference": null,
+    "num_citations": 131,
+    "pub_url": "https://www.nature.com/articles/s41597-019-0325-x"
+  },
+  {
+    "title": "Understanding predictability and exploration in human mobility",
+    "pub_year": 2018,
+    "citation": "EPJ Data Science 7, 1-17, 2018",
+    "author": [
+      "Andrea Cuttone",
+      "Sune Lehmann",
+      "Marta C Gonz\u00e1lez"
+    ],
+    "journal": "EPJ Data Science",
+    "volume": "7",
+    "number": null,
+    "pages": "1-17",
+    "conference": null,
+    "num_citations": 124,
+    "pub_url": "https://link.springer.com/content/pdf/10.1140/epjds/s13688-017-0129-1.pdf"
+  },
+  {
+    "title": "A quantitative analysis of indicators of scientific performance",
+    "pub_year": 2008,
+    "citation": "Scientometrics 76 (2), 369-390, 2008",
+    "author": [
+      "Sune Lehmann",
+      "Andrew D Jackson",
+      "Benny E Lautrup"
+    ],
+    "journal": "Scientometrics",
+    "volume": "76",
+    "number": "2",
+    "pages": "369-390",
+    "conference": null,
+    "num_citations": 118,
+    "pub_url": "https://akjournals.com/view/journals/11192/76/2/article-p369.xml"
+  },
+  {
+    "title": "Academic performance and behavioral patterns",
+    "pub_year": 2018,
+    "citation": "EPJ Data Science 7, 1-16, 2018",
+    "author": [
+      "Valentin Kassarnig",
+      "Enys Mones",
+      "Andreas Bjerre-Nielsen",
+      "Piotr Sapiezynski",
+      "David Dreyer Lassen",
+      "Sune Lehmann"
+    ],
+    "journal": "EPJ Data Science",
+    "volume": "7",
+    "number": null,
+    "pages": "1-16",
+    "conference": null,
+    "num_citations": 105,
+    "pub_url": "https://link.springer.com/content/pdf/10.1140/epjds/s13688-018-0138-8.pdf"
+  },
+  {
+    "title": "The strength of friendship ties in proximity sensor data",
+    "pub_year": 2014,
+    "citation": "PloS one 9 (7), e100915, 2014",
+    "author": [
+      "Vedran Sekara",
+      "Sune Lehmann"
+    ],
+    "journal": "PloS one",
+    "volume": "9",
+    "number": "7",
+    "pages": "e100915",
+    "conference": null,
+    "num_citations": 105,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100915"
+  },
+  {
+    "title": "Pulse of the nation: US mood throughout the day inferred from twitter",
+    "pub_year": 2010,
+    "citation": "http://www. ccs. neu. edu/home/amislove/twittermood/, 2010",
+    "author": [
+      "Alan Mislove"
+    ],
+    "journal": "http://www. ccs. neu. edu/home/amislove/twittermood/",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 104,
+    "pub_url": "https://cir.nii.ac.jp/crid/1573950400548888576"
+  },
+  {
+    "title": "The chaperone effect in scientific publishing",
+    "pub_year": 2018,
+    "citation": "Proceedings of the National Academy of Sciences 115 (50), 12603-12607, 2018",
+    "author": [
+      "Vedran Sekara",
+      "Pierre Deville",
+      "Sebastian E Ahnert",
+      "Albert-L\u00e1szl\u00f3 Barab\u00e1si",
+      "Roberta Sinatra",
+      "Sune Lehmann"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "115",
+    "number": "50",
+    "pages": "12603-12607",
+    "conference": null,
+    "num_citations": 102,
+    "pub_url": "https://www.pnas.org/doi/abs/10.1073/pnas.1800471115"
+  },
+  {
+    "title": "Digital proximity tracing on empirical contact networks for pandemic control",
+    "pub_year": 2021,
+    "citation": "Nature communications 12 (1), 1655, 2021",
+    "author": [
+      "Giulia Cencetti",
+      "Gabriele Santin",
+      "Antonio Longa",
+      "Emanuele Pigani",
+      "Alain Barrat",
+      "Ciro Cattuto",
+      "Sune Lehmann",
+      "Marcel Salathe",
+      "Bruno Lepri"
+    ],
+    "journal": "Nature communications",
+    "volume": "12",
+    "number": "1",
+    "pages": "1655",
+    "conference": null,
+    "num_citations": 98,
+    "pub_url": "https://www.nature.com/articles/s41467-021-21809-w"
+  },
+  {
+    "title": "The effectiveness of backward contact tracing in networks",
+    "pub_year": 2021,
+    "citation": "Nature physics 17 (5), 652-658, 2021",
+    "author": [
+      "Sadamori Kojaku",
+      "Laurent H\u00e9bert-Dufresne",
+      "Enys Mones",
+      "Sune Lehmann",
+      "Yong-Yeol Ahn"
+    ],
+    "journal": "Nature physics",
+    "volume": "17",
+    "number": "5",
+    "pages": "652-658",
+    "conference": null,
+    "num_citations": 85,
+    "pub_url": "https://www.nature.com/articles/s41567-021-01187-2"
+  },
+  {
+    "title": "Inferring person-to-person proximity using WiFi signals",
+    "pub_year": 2017,
+    "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous \u2026, 2017",
+    "author": [
+      "Piotr Sapiezynski",
+      "Arkadiusz Stopczynski",
+      "David Kofoed Wind",
+      "Jure Leskovec",
+      "Sune Lehmann"
+    ],
+    "journal": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+    "volume": "1",
+    "number": "2",
+    "pages": "1-20",
+    "conference": null,
+    "num_citations": 85,
+    "pub_url": "https://dl.acm.org/doi/abs/10.1145/3090089"
+  },
+  {
+    "title": "Effect of manual and digital contact tracing on COVID-19 outbreaks: a study on empirical contact data",
+    "pub_year": 2021,
+    "citation": "Journal of the Royal Society Interface 18 (178), 20201000, 2021",
+    "author": [
+      "Alain Barrat",
+      "Ciro Cattuto",
+      "Mikko Kivel\u00e4",
+      "Sune Lehmann",
+      "Jari Saram\u00e4ki"
+    ],
+    "journal": "Journal of the Royal Society Interface",
+    "volume": "18",
+    "number": "178",
+    "pages": "20201000",
+    "conference": null,
+    "num_citations": 84,
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2020.1000"
+  },
+  {
+    "title": "Complex spreading phenomena in social systems",
+    "pub_year": 2018,
+    "citation": "Computational Social Sciences 10, 978-3, 2018",
+    "author": [
+      "Sune Lehmann",
+      "Yong-Yeol Ahn"
+    ],
+    "journal": "Computational Social Sciences",
+    "volume": "10",
+    "number": null,
+    "pages": "978-3",
+    "conference": null,
+    "num_citations": 84,
+    "pub_url": "https://link.springer.com/content/pdf/10.1007/978-3-319-77332-2.pdf"
+  },
+  {
+    "title": "Deterministic modularity optimization",
+    "pub_year": 2007,
+    "citation": "The European Physical Journal B 60, 83-88, 2007",
+    "author": [
+      "Sune Lehmann",
+      "Lars Kai Hansen"
+    ],
+    "journal": "The European Physical Journal B",
+    "volume": "60",
+    "number": null,
+    "pages": "83-88",
+    "conference": null,
+    "num_citations": 81,
+    "pub_url": "https://link.springer.com/article/10.1140/epjb/e2007-00313-2"
+  },
+  {
+    "title": "Multi-scale spatio-temporal analysis of human mobility",
+    "pub_year": 2017,
+    "citation": "PloS one 12 (2), e0171686, 2017",
+    "author": [
+      "Laura Alessandretti",
+      "Piotr Sapiezynski",
+      "Sune Lehmann",
+      "Andrea Baronchelli"
+    ],
+    "journal": "PloS one",
+    "volume": "12",
+    "number": "2",
+    "pages": "e0171686",
+    "conference": null,
+    "num_citations": 76,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171686"
+  },
+  {
+    "title": "Gender differences in nighttime sleep patterns and variability across the adult lifespan: a global-scale wearables study",
+    "pub_year": 2021,
+    "citation": "Sleep 44 (2), zsaa169, 2021",
+    "author": [
+      "Sigga Svala Jonasdottir",
+      "Kelton Minor",
+      "Sune Lehmann"
+    ],
+    "journal": "Sleep",
+    "volume": "44",
+    "number": "2",
+    "pages": "zsaa169",
+    "conference": null,
+    "num_citations": 64,
+    "pub_url": "https://academic.oup.com/sleep/article-abstract/44/2/zsaa169/5901589"
+  },
+  {
+    "title": "Give more data, awareness and control to individual citizens, and they will help COVID-19 containment",
+    "pub_year": 2020,
+    "citation": "Transactions on Data Privacy 13 (1), 61-66, 2020",
+    "author": [
+      "Mirco Nanni",
+      "Gennady Andrienko",
+      "Chiara Boldrini",
+      "Francesco Bonchi",
+      "Ciro Cattuto",
+      "Francesca Chiaromonte",
+      "Giovanni Comand\u00e9",
+      "Marco Conti",
+      "Mark Cot\u00e9",
+      "Frank Dignum",
+      "Virginia Dignum",
+      "Josep Domingo-Ferrer",
+      "Fosca Giannotti",
+      "Riccardo Guidotti",
+      "Dirk Helbing",
+      "Janos Kertesz",
+      "Sune Lehmann",
+      "Bruno Lepri",
+      "Paul Lukowicz",
+      "Anna Monreale",
+      "Katharina Morik",
+      "Nuria Oliver",
+      "Andrea Passarella",
+      "Andrea Passerini",
+      "Dino Pedreschi",
+      "Alex Pentland",
+      "Francesca Pratesi",
+      "Salvatore Rinzivillo",
+      "Salvatore Ruggieri",
+      "Arno Siebes",
+      "Roberto Trasarti",
+      "Jeroen van den Hoven",
+      "Alessandro Vespignani"
+    ],
+    "journal": "Transactions on Data Privacy",
+    "volume": "13",
+    "number": "1",
+    "pages": "61-66",
+    "conference": null,
+    "num_citations": 61,
+    "pub_url": "https://link.springer.com/article/10.1007/s10676-020-09572-w?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20210203&error=cookies_not_supported&code=6b6d6ff2-7a79-407c-88f5-249cc26e3a94"
+  },
+  {
+    "title": "Bipartite networks of Wikipedia's articles and authors: a meso-level approach",
+    "pub_year": 2009,
+    "citation": "Proceedings of the 5th international symposium on Wikis and open \u2026, 2009",
+    "author": [
+      "Rut Jesus",
+      "Martin Schwartz",
+      "Sune Lehmann"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "1-10",
+    "conference": null,
+    "num_citations": 57,
+    "pub_url": "https://dl.acm.org/doi/abs/10.1145/1641309.1641318"
+  },
+  {
+    "title": "Digital daily cycles of individuals",
+    "pub_year": 2015,
+    "citation": "Frontiers in Physics 3, 73, 2015",
+    "author": [
+      "Talayeh Aledavood",
+      "Sune Lehmann",
+      "Jari Saram\u00e4ki"
+    ],
+    "journal": "Frontiers in Physics",
+    "volume": "3",
+    "number": null,
+    "pages": "73",
+    "conference": null,
+    "num_citations": 55,
+    "pub_url": "https://www.frontiersin.org/articles/10.3389/fphy.2015.00073/full"
+  },
+  {
+    "title": "Participatory bluetooth sensing: A method for acquiring spatio-temporal data about participant mobility and interactions at large scale events",
+    "pub_year": 2013,
+    "citation": "Pervasive Computing and Communications Workshops (PERCOM Workshops), 2013 \u2026, 2013",
+    "author": [
+      "Arkadiusz Stopczynski",
+      "Jakob Eg Larsen",
+      "Sune Lehmann",
+      "Lukasz Dynowski",
+      "Marcos Fuentes"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "242-247",
+    "conference": "Pervasive Computing and Communications Workshops (PERCOM Workshops), 2013 IEEE International Conference on",
+    "num_citations": 52,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/6529489/"
+  },
+  {
+    "title": "Sensiblesleep: A bayesian model for learning sleep patterns from smartphone events",
+    "pub_year": 2017,
+    "citation": "PloS one 12 (1), e0169901, 2017",
+    "author": [
+      "Andrea Cuttone",
+      "Per B\u00e6kgaard",
+      "Vedran Sekara",
+      "H\u00e5kan Jonsson",
+      "Jakob Eg Larsen",
+      "Sune Lehmann"
+    ],
+    "journal": "PloS one",
+    "volume": "12",
+    "number": "1",
+    "pages": "e0169901",
+    "conference": null,
+    "num_citations": 51,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169901"
+  },
+  {
+    "title": "Social network differences of chronotypes identified from mobile phone data",
+    "pub_year": 2018,
+    "citation": "EPJ Data Science 7 (1), 46, 2018",
+    "author": [
+      "Talayeh Aledavood",
+      "Sune Lehmann",
+      "Jari Saram\u00e4ki"
+    ],
+    "journal": "EPJ Data Science",
+    "volume": "7",
+    "number": "1",
+    "pages": "46",
+    "conference": null,
+    "num_citations": 50,
+    "pub_url": "https://epjds.epj.org/articles/epjdata/abs/2018/01/13688_2018_Article_174/13688_2018_Article_174.html"
+  },
+  {
+    "title": "Constrained information flows in temporal networks reveal intermittent communities",
+    "pub_year": 2018,
+    "citation": "Physical Review E 97 (6), 062312, 2018",
+    "author": [
+      "Ulf Aslak",
+      "Martin Rosvall",
+      "Sune Lehmann"
+    ],
+    "journal": "Physical Review E",
+    "volume": "97",
+    "number": "6",
+    "pages": "062312",
+    "conference": null,
+    "num_citations": 47,
+    "pub_url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.062312"
+  },
+  {
+    "title": "Modeling the temporal nature of human behavior for demographics prediction",
+    "pub_year": 2017,
+    "citation": "Machine Learning and Knowledge Discovery in Databases: European Conference \u2026, 2017",
+    "author": [
+      "Bjarke Felbo",
+      "P\u00e5l Sunds\u00f8y",
+      "Alex \u2018Sandy\u2019 Pentland",
+      "Sune Lehmann",
+      "Yves-Alexandre de Montjoye"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "140-152",
+    "conference": "Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2017, Skopje, Macedonia, September 18\u201322, 2017, Proceedings, Part III 10",
+    "num_citations": 47,
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-71273-4_12"
+  },
+  {
+    "title": "The role of gender in social network organization",
+    "pub_year": 2017,
+    "citation": "PloS one 12 (12), e0189873, 2017",
+    "author": [
+      "Ioanna Psylla",
+      "Piotr Sapiezynski",
+      "Enys Mones",
+      "Sune Lehmann"
+    ],
+    "journal": "PloS one",
+    "volume": "12",
+    "number": "12",
+    "pages": "e0189873",
+    "conference": null,
+    "num_citations": 46,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189873"
+  },
+  {
+    "title": "Life, death and preferential attachment",
+    "pub_year": 2005,
+    "citation": "EPL (Europhysics Letters) 69, 298, 2005",
+    "author": [
+      "Sune Lehmann",
+      "AD Jackson",
+      "B Lautrup"
+    ],
+    "journal": "EPL (Europhysics Letters)",
+    "volume": "69",
+    "number": null,
+    "pages": "298",
+    "conference": null,
+    "num_citations": 46,
+    "pub_url": "https://iopscience.iop.org/article/10.1209/epl/i2004-10331-2/meta"
+  },
+  {
+    "title": "How physical proximity shapes complex social networks",
+    "pub_year": 2018,
+    "citation": "Scientific reports 8 (1), 1-10, 2018",
+    "author": [
+      "Arkadiusz Stopczynski",
+      "Alex\u2018Sandy\u2019 Pentland",
+      "Sune Lehmann"
+    ],
+    "journal": "Scientific reports",
+    "volume": "8",
+    "number": "1",
+    "pages": "1-10",
+    "conference": null,
+    "num_citations": 44,
+    "pub_url": "https://link.springer.com/content/pdf/10.1038/s41598-018-36116-6.pdf"
+  },
+  {
+    "title": "Measures and mismeasures of scientific quality",
+    "pub_year": 2005,
+    "citation": "arXiv preprint physics/0512238, 2005",
+    "author": [
+      "Sune Lehmann",
+      "Andrew D Jackson",
+      "Benny E Lautrup"
+    ],
+    "journal": "arXiv preprint physics/0512238",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 43,
+    "pub_url": "https://arxiv.org/abs/physics/0512238"
+  },
+  {
+    "title": "Characterizing polarization in online vaccine discourse\u2014A large-scale study",
+    "pub_year": 2022,
+    "citation": "PloS one 17 (2), e0263746, 2022",
+    "author": [
+      "Bjarke M\u00f8nsted",
+      "Sune Lehmann"
+    ],
+    "journal": "PloS one",
+    "volume": "17",
+    "number": "2",
+    "pages": "e0263746",
+    "conference": null,
+    "num_citations": 42,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263746"
+  },
+  {
+    "title": "Understanding the interplay between social and spatial behaviour",
+    "pub_year": 2018,
+    "citation": "EPJ Data Science 7 (1), 36, 2018",
+    "author": [
+      "Laura Alessandretti",
+      "Sune Lehmann",
+      "Andrea Baronchelli"
+    ],
+    "journal": "EPJ Data Science",
+    "volume": "7",
+    "number": "1",
+    "pages": "36",
+    "conference": null,
+    "num_citations": 39,
+    "pub_url": "https://epjds.epj.org/articles/epjdata/abs/2018/01/13688_2018_Article_164/13688_2018_Article_164.html"
+  },
+  {
+    "title": "Opportunities and challenges in crowdsourced wardriving",
+    "pub_year": 2015,
+    "citation": "Proceedings of the 2015 Internet Measurement Conference, 267-273, 2015",
+    "author": [
+      "Piotr Sapiezynski",
+      "Radu Gatej",
+      "Alan Mislove",
+      "Sune Lehmann"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "267-273",
+    "conference": null,
+    "num_citations": 37,
+    "pub_url": "https://dl.acm.org/doi/abs/10.1145/2815675.2815711"
+  },
+  {
+    "title": "Robustness and modular structure in networks",
+    "pub_year": 2015,
+    "citation": "Network Science 3 (4), 2015",
+    "author": [
+      "James P Bagrow",
+      "Sune Lehmann",
+      "Yong-Yeol Ahn"
+    ],
+    "journal": "Network Science",
+    "volume": "3",
+    "number": "4",
+    "pages": null,
+    "conference": null,
+    "num_citations": 36,
+    "pub_url": "https://www.cambridge.org/core/journals/network-science/article/robustness-and-modular-structure-in-networks/E4BA8E6D6B2260607D6AF9E7B9696EBF"
+  },
+  {
+    "title": "Measure of node similarity in multilayer networks",
+    "pub_year": 2016,
+    "citation": "PloS one 11 (6), e0157436, 2016",
+    "author": [
+      "Anders Mollgaard",
+      "Ingo Zettler",
+      "Jesper Dammeyer",
+      "Mogens H Jensen",
+      "Sune Lehmann",
+      "Joachim Mathiesen"
+    ],
+    "journal": "PloS one",
+    "volume": "11",
+    "number": "6",
+    "pages": "e0157436",
+    "conference": null,
+    "num_citations": 34,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157436"
+  },
+  {
+    "title": "Rising temperatures erode human sleep globally",
+    "pub_year": 2022,
+    "citation": "One Earth 5 (5), 534-549, 2022",
+    "author": [
+      "Kelton Minor",
+      "Andreas Bjerre-Nielsen",
+      "Sigga Svala Jonasdottir",
+      "Sune Lehmann",
+      "Nick Obradovich"
+    ],
+    "journal": "One Earth",
+    "volume": "5",
+    "number": "5",
+    "pages": "534-549",
+    "conference": null,
+    "num_citations": 33,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2590332222002093"
+  },
+  {
+    "title": "Privacy in sensor-driven human data collection: A guide for practitioners",
+    "pub_year": 2014,
+    "citation": "arXiv preprint arXiv:1403.5299, 2014",
+    "author": [
+      "Arkadiusz Stopczynski",
+      "Riccardo Pietri",
+      "Alex Pentland",
+      "David Lazer",
+      "Sune Lehmann"
+    ],
+    "journal": "arXiv preprint arXiv:1403.5299",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 33,
+    "pub_url": "https://arxiv.org/abs/1403.5299"
+  },
+  {
+    "title": "Inferring human mobility from sparse low accuracy mobile sensing data",
+    "pub_year": 2014,
+    "citation": "Proceedings of the 2014 ACM International Joint Conference on Pervasive and \u2026, 2014",
+    "author": [
+      "Andrea Cuttone",
+      "Sune Lehmann",
+      "Jakob Eg Larsen"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "995-1004",
+    "conference": null,
+    "num_citations": 32,
+    "pub_url": "https://dl.acm.org/doi/abs/10.1145/2638728.2641283"
+  },
+  {
+    "title": "Inferring stop-locations from wifi",
+    "pub_year": 2016,
+    "citation": "PloS one 11 (2), e0149105, 2016",
+    "author": [
+      "David Kofoed Wind",
+      "Piotr Sapiezynski",
+      "Magdalena Anna Furman",
+      "Sune Lehmann"
+    ],
+    "journal": "PloS one",
+    "volume": "11",
+    "number": "2",
+    "pages": "e0149105",
+    "conference": null,
+    "num_citations": 29,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149105"
+  },
+  {
+    "title": "A mobile personal informatics system with interactive visualizations of mobility and social interactions",
+    "pub_year": 2013,
+    "citation": "Proceedings of the 1st ACM international workshop on Personal data meets \u2026, 2013",
+    "author": [
+      "Andrea Cuttone",
+      "Sune Lehmann",
+      "Jakob Eg Larsen"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "27-30",
+    "conference": null,
+    "num_citations": 28,
+    "pub_url": "https://dl.acm.org/doi/abs/10.1145/2509352.2509397"
+  },
+  {
+    "title": "Design process robustness: a bipartite network analysis reveals the central importance of people",
+    "pub_year": 2018,
+    "citation": "Design Science 4, e1, 2018",
+    "author": [
+      "Sebastiano A Piccolo",
+      "Sune Lehmann",
+      "Anja Maier"
+    ],
+    "journal": "Design Science",
+    "volume": "4",
+    "number": null,
+    "pages": "e1",
+    "conference": null,
+    "num_citations": 21,
+    "pub_url": "https://www.cambridge.org/core/journals/design-science/article/design-process-robustness-a-bipartite-network-analysis-reveals-the-central-importance-of-people/77F4815D5D79419A8712265A7F6B6890"
+  },
+  {
+    "title": "Inferring transportation mode from smartphone sensors: Evaluating the potential of Wi-Fi and Bluetooth",
+    "pub_year": 2020,
+    "citation": "PloS one 15 (7), e0234003, 2020",
+    "author": [
+      "Andreas Bjerre-Nielsen",
+      "Kelton Minor",
+      "Piotr Sapie\u017cy\u0144ski",
+      "Sune Lehmann",
+      "David Dreyer Lassen"
+    ],
+    "journal": "PloS one",
+    "volume": "15",
+    "number": "7",
+    "pages": "e0234003",
+    "conference": null,
+    "num_citations": 20,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234003"
+  },
+  {
+    "title": "Iterations as the result of social and technical factors: empirical evidence from a large-scale design project",
+    "pub_year": 2019,
+    "citation": "Research in Engineering Design 30 (2), 251-270, 2019",
+    "author": [
+      "Sebastiano A Piccolo",
+      "Anja M Maier",
+      "Sune Lehmann",
+      "Chris A McMahon"
+    ],
+    "journal": "Research in Engineering Design",
+    "volume": "30",
+    "number": "2",
+    "pages": "251-270",
+    "conference": null,
+    "num_citations": 20,
+    "pub_url": "https://link.springer.com/article/10.1007/s00163-018-0301-z"
+  },
+  {
+    "title": "Understanding components of mobility during the COVID-19 pandemic",
+    "pub_year": 2022,
+    "citation": "Philosophical Transactions of the Royal Society A 380 (2214), 20210118, 2022",
+    "author": [
+      "Peter Edsberg M\u00f8llgaard",
+      "Sune Lehmann",
+      "Laura Alessandretti"
+    ],
+    "journal": "Philosophical Transactions of the Royal Society A",
+    "volume": "380",
+    "number": "2214",
+    "pages": "20210118",
+    "conference": null,
+    "num_citations": 19,
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2021.0118"
+  },
+  {
+    "title": "Optimizing targeted vaccination across cyber\u2013physical networks: an empirically based mathematical simulation study",
+    "pub_year": 2018,
+    "citation": "Journal of The Royal Society Interface 15 (138), 20170783, 2018",
+    "author": [
+      "Enys Mones",
+      "Arkadiusz Stopczynski",
+      "Alex \u2018Sandy\u2019 Pentland",
+      "Nathaniel Hupert",
+      "Sune Lehmann"
+    ],
+    "journal": "Journal of The Royal Society Interface",
+    "volume": "15",
+    "number": "138",
+    "pages": "20170783",
+    "conference": null,
+    "num_citations": 19,
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2017.0783"
+  },
+  {
+    "title": "Temporal fidelity in dynamic social networks",
+    "pub_year": 2015,
+    "citation": "The European Physical Journal B 88, 1-6, 2015",
+    "author": [
+      "Arkadiusz Stopczynski",
+      "Piotr Sapiezynski",
+      "Alex \u2018Sandy\u2019 Pentland",
+      "Sune Lehmann"
+    ],
+    "journal": "The European Physical Journal B",
+    "volume": "88",
+    "number": null,
+    "pages": "1-6",
+    "conference": null,
+    "num_citations": 19,
+    "pub_url": "https://link.springer.com/article/10.1140/epjb/e2015-60549-7"
+  },
+  {
+    "title": "Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles",
+    "pub_year": 2021,
+    "citation": "Nature physics 17 (1), 5-8, 2021",
+    "author": [
+      "Jonas L Juul",
+      "Kaare Gr\u00e6sb\u00f8ll",
+      "Lasse Engbo Christiansen",
+      "Sune Lehmann"
+    ],
+    "journal": "Nature physics",
+    "volume": "17",
+    "number": "1",
+    "pages": "5-8",
+    "conference": null,
+    "num_citations": 17,
+    "pub_url": "https://www.nature.com/articles/s41567-020-01121-y"
+  },
+  {
+    "title": "Quantifying daily rhythms with non-negative matrix factorization applied to mobile phone data",
+    "pub_year": 2022,
+    "citation": "Scientific reports 12 (1), 5544, 2022",
+    "author": [
+      "Talayeh Aledavood",
+      "Ilkka Kivim\u00e4ki",
+      "Sune Lehmann",
+      "Jari Saram\u00e4ki"
+    ],
+    "journal": "Scientific reports",
+    "volume": "12",
+    "number": "1",
+    "pages": "5544",
+    "conference": null,
+    "num_citations": 16,
+    "pub_url": "https://www.nature.com/articles/s41598-022-09273-y"
+  },
+  {
+    "title": "Fundamental structures in temporal communication networks",
+    "pub_year": 2019,
+    "citation": "Temporal Network Theory, 25-48, 2019",
+    "author": [
+      "Sune Lehmann"
+    ],
+    "journal": "Temporal Network Theory",
+    "volume": null,
+    "number": null,
+    "pages": "25-48",
+    "conference": null,
+    "num_citations": 14,
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-23495-9_2"
+  },
+  {
+    "title": "Communicate hope to motivate the public during the COVID-19 pandemic",
+    "pub_year": 2022,
+    "citation": "Scientific Reports 12 (1), 1-7, 2022",
+    "author": [
+      "Michael Bang Petersen",
+      "Lasse Engbo Christiansen",
+      "Alexander Bor",
+      "Marie Fly Lindholt",
+      "Frederik J\u00f8rgensen",
+      "Rebecca Adler-Nissen",
+      "Andreas Roepstorff",
+      "Sune Lehmann"
+    ],
+    "journal": "Scientific Reports",
+    "volume": "12",
+    "number": "1",
+    "pages": "1-7",
+    "conference": null,
+    "num_citations": 12,
+    "pub_url": "https://link.springer.com/content/pdf/10.1038/s41598-022-06316-2.pdf"
+  },
+  {
+    "title": "Social ties between team members affect patient satisfaction: a data-driven approach to handling complex network analyses",
+    "pub_year": 2020,
+    "citation": "Advances in Health Sciences Education 25, 581-606, 2020",
+    "author": [
+      "Betina Ristorp Andersen",
+      "Jesper L\u00f8ve Hinrich",
+      "Maria Birkvad Rasmussen",
+      "Sune Lehmann",
+      "Charlotte Ringsted",
+      "Ellen L\u00f8kkegaard",
+      "Martin G Tolsgaard"
+    ],
+    "journal": "Advances in Health Sciences Education",
+    "volume": "25",
+    "number": null,
+    "pages": "581-606",
+    "conference": null,
+    "num_citations": 12,
+    "pub_url": "https://link.springer.com/article/10.1007/s10459-019-09941-1"
+  },
+  {
+    "title": "Offline behaviors of online friends",
+    "pub_year": 2018,
+    "citation": "arXiv preprint arXiv:1811.03153, 2018",
+    "author": [
+      "Piotr Sapiezynski",
+      "Arkadiusz Stopczynski",
+      "David Kofoed Wind",
+      "Jure Leskovec",
+      "Sune Lehmann"
+    ],
+    "journal": "arXiv preprint arXiv:1811.03153",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 12,
+    "pub_url": "https://arxiv.org/abs/1811.03153"
+  },
+  {
+    "title": "Dissecting the canon: Visual subject co-popularity networks in art research",
+    "pub_year": 2008,
+    "citation": "Universit\u00e4tsbibliothek der Universit\u00e4t Heidelberg, 2008",
+    "author": [
+      "Maximilian Schich",
+      "Sune Lehmann",
+      "Juyong Park"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 12,
+    "pub_url": "https://archiv.ub.uni-heidelberg.de/artdok/711"
+  },
+  {
+    "title": "Correlations between human mobility and social interaction reveal general activity patterns",
+    "pub_year": 2017,
+    "citation": "PloS one 12 (12), e0188973, 2017",
+    "author": [
+      "Anders Mollgaard",
+      "Sune Lehmann",
+      "Joachim Mathiesen"
+    ],
+    "journal": "PloS one",
+    "volume": "12",
+    "number": "12",
+    "pages": "e0188973",
+    "conference": null,
+    "num_citations": 11,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188973"
+  },
+  {
+    "title": "Live and dead nodes",
+    "pub_year": 2005,
+    "citation": "Computational & Mathematical Organization Theory 11, 161-170, 2005",
+    "author": [
+      "Sune Lehmann",
+      "Andrew D Jackson"
+    ],
+    "journal": "Computational & Mathematical Organization Theory",
+    "volume": "11",
+    "number": null,
+    "pages": "161-170",
+    "conference": null,
+    "num_citations": 11,
+    "pub_url": "https://link.springer.com/article/10.1007/s10588-005-3942-1"
+  },
+  {
+    "title": "Contact activity and dynamics of the social core",
+    "pub_year": 2017,
+    "citation": "EPJ Data Science 6, 1-16, 2017",
+    "author": [
+      "Enys Mones",
+      "Arkadiusz Stopczynski",
+      "Sune Lehmann"
+    ],
+    "journal": "EPJ Data Science",
+    "volume": "6",
+    "number": null,
+    "pages": "1-16",
+    "conference": null,
+    "num_citations": 10,
+    "pub_url": "https://link.springer.com/content/pdf/10.1140/epjds/s13688-017-0103-y.pdf"
+  },
+  {
+    "title": "Using data-and network science to reveal iterations and phase-transitions in the design process",
+    "pub_year": 2017,
+    "citation": "DS 87-2 Proceedings of the 21st International Conference on Engineering \u2026, 2017",
+    "author": [
+      "Sebastiano Piccolo",
+      "Sune Lehmann",
+      "Anja Maier"
+    ],
+    "journal": "DS 87-2 Proceedings of the 21st International Conference on Engineering Design (ICED 17) Vol 2: Design Processes, Design Organisation and Management, Vancouver, Canada, 21-25.08. 2017",
+    "volume": null,
+    "number": null,
+    "pages": "011-020",
+    "conference": null,
+    "num_citations": 10,
+    "pub_url": "https://www.designsociety.org/publication/39555/using_data-and_network_science_to_reveal_iterations_and_phase-transitions_in_the_design_process"
+  },
+  {
+    "title": "Big Data as Uncertain Archives",
+    "pub_year": 2021,
+    "citation": "Uncertain Archives: Critical Keywords for Big Data, 1-28, 2021",
+    "author": [
+      "Bonde Thylstrup",
+      "Daniela Agostinho",
+      "Annie Ring",
+      "Catherine D\u2019Ignazio",
+      "Kristin Veel",
+      "Sarah T Roberts",
+      "Marika Cifor",
+      "Sune Lehmann",
+      "Alana Lentin",
+      "Aristea Fotopoulou",
+      "Tanya Kant"
+    ],
+    "journal": "Uncertain Archives: Critical Keywords for Big Data",
+    "volume": null,
+    "number": null,
+    "pages": "1-28",
+    "conference": null,
+    "num_citations": 8,
+    "pub_url": "https://www.academia.edu/download/65753413/Uncertain_Archives_TOC.pdf"
+  },
+  {
+    "title": "Spreading in social systems: Reflections",
+    "pub_year": 2018,
+    "citation": "Complex Spreading Phenomena in Social Systems: Influence and Contagion in \u2026, 2018",
+    "author": [
+      "Sune Lehmann",
+      "Yong-Yeol Ahn"
+    ],
+    "journal": "Complex Spreading Phenomena in Social Systems: Influence and Contagion in Real-World Social Networks",
+    "volume": null,
+    "number": null,
+    "pages": "351-358",
+    "conference": null,
+    "num_citations": 8,
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-77332-2_19"
+  },
+  {
+    "title": "Privacy and uniqueness of neighborhoods in social networks",
+    "pub_year": 2021,
+    "citation": "Scientific reports 11 (1), 20104, 2021",
+    "author": [
+      "Daniele Romanini",
+      "Sune Lehmann",
+      "Mikko Kivel\u00e4"
+    ],
+    "journal": "Scientific reports",
+    "volume": "11",
+    "number": "1",
+    "pages": "20104",
+    "conference": null,
+    "num_citations": 7,
+    "pub_url": "https://www.nature.com/articles/s41598-021-94283-5"
+  },
+  {
+    "title": "Task-specific information outperforms surveillance-style big data in predictive analytics",
+    "pub_year": 2021,
+    "citation": "Proceedings of the National Academy of Sciences 118 (14), e2020258118, 2021",
+    "author": [
+      "Andreas Bjerre-Nielsen",
+      "Valentin Kassarnig",
+      "David Dreyer Lassen",
+      "Sune Lehmann"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "118",
+    "number": "14",
+    "pages": "e2020258118",
+    "conference": null,
+    "num_citations": 7,
+    "pub_url": "https://www.pnas.org/doi/abs/10.1073/pnas.2020258118"
+  },
+  {
+    "title": "The network of subject co-popularity in Classical Archaeology",
+    "pub_year": 2008,
+    "citation": "",
+    "author": [
+      "Maximilian Schich",
+      "C\u00e9sar Hidalgo",
+      "Sune Lehmann",
+      "Juyong Park"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 7,
+    "pub_url": "https://archiv.ub.uni-heidelberg.de/artdok/715"
+  },
+  {
+    "title": "Neighbourhood matching creates realistic surrogate temporal networks",
+    "pub_year": 2022,
+    "citation": "arXiv preprint arXiv:2205.08820, 2022",
+    "author": [
+      "Antonio Longa",
+      "Giulia Cencetti",
+      "Sune Lehmann",
+      "Andrea Passerini",
+      "Bruno Lepri"
+    ],
+    "journal": "arXiv preprint arXiv:2205.08820",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 5,
+    "pub_url": "https://arxiv.org/abs/2205.08820"
+  },
+  {
+    "title": "Geoplotlib: a python toolbox for visualizing geographical data",
+    "pub_year": 2016,
+    "citation": "arXiv preprint arXiv:1608.01933, 2016",
+    "author": [
+      "Andrea Cuttone",
+      "Sune Lehmann",
+      "Jakob Eg Larsen"
+    ],
+    "journal": "arXiv preprint arXiv:1608.01933",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 5,
+    "pub_url": "https://arxiv.org/abs/1608.01933"
+  },
+  {
+    "title": "The effect of co-location on human communication networks",
+    "pub_year": 2022,
+    "citation": "Nature Computational Science 2 (8), 494-503, 2022",
+    "author": [
+      "Daniel Carmody",
+      "Martina Mazzarello",
+      "Paolo Santi",
+      "Trevor Harris",
+      "Sune Lehmann",
+      "Timur Abbiasov",
+      "Robin Dunbar",
+      "Carlo Ratti"
+    ],
+    "journal": "Nature Computational Science",
+    "volume": "2",
+    "number": "8",
+    "pages": "494-503",
+    "conference": null,
+    "num_citations": 4,
+    "pub_url": "https://www.nature.com/articles/s43588-022-00296-z"
+  },
+  {
+    "title": "Emergence of network effects and predictability in the judicial system",
+    "pub_year": 2021,
+    "citation": "Scientific reports 11 (1), 1-10, 2021",
+    "author": [
+      "Enys Mones",
+      "Piotr Sapie\u017cy\u0144ski",
+      "Simon Thordal",
+      "Henrik Palmer Olsen",
+      "Sune Lehmann"
+    ],
+    "journal": "Scientific reports",
+    "volume": "11",
+    "number": "1",
+    "pages": "1-10",
+    "conference": null,
+    "num_citations": 4,
+    "pub_url": "https://link.springer.com/content/pdf/10.1038/s41598-021-82430-x.pdf"
+  },
+  {
+    "title": "Quantifying long-term impact of court decisions",
+    "pub_year": 2019,
+    "citation": "Applied Network Science 4 (1), 1-15, 2019",
+    "author": [
+      "Jorge C Leit\u00e3o",
+      "Sune Lehmann",
+      "Henrik Palmer Olsen"
+    ],
+    "journal": "Applied Network Science",
+    "volume": "4",
+    "number": "1",
+    "pages": "1-15",
+    "conference": null,
+    "num_citations": 4,
+    "pub_url": "https://appliednetsci.springeropen.com/articles/10.1007/s41109-018-0110-3"
+  },
+  {
+    "title": "Extracting the interdisciplinary specialty structures in social media data-based research: A clustering-based network approach",
+    "pub_year": 2022,
+    "citation": "Journal of Informetrics 16 (3), 101310, 2022",
+    "author": [
+      "Yangliu Fan",
+      "Sune Lehmann",
+      "Anders Blok"
+    ],
+    "journal": "Journal of Informetrics",
+    "volume": "16",
+    "number": "3",
+    "pages": "101310",
+    "conference": null,
+    "num_citations": 3,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1751157722000621"
+  },
+  {
+    "title": "The pulse of the nation",
+    "pub_year": 2021,
+    "citation": "Atlas of forecasts: modeling and mapping desirable futures 131, 2021",
+    "author": [
+      "Alan Mislove",
+      "Sune Lehmann",
+      "Yong-Yeol Ahn",
+      "Jukka-Pekka Onnela",
+      "JN Rosenquist"
+    ],
+    "journal": "Atlas of forecasts: modeling and mapping desirable futures",
+    "volume": "131",
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 3,
+    "pub_url": "https://books.google.com/books?hl=en&lr=&id=CTQ7EAAAQBAJ&oi=fnd&pg=PA131&dq=info:aFE0G-9SZigJ:scholar.google.com&ots=t20owi0XWt&sig=eyeyc8S6j5_YFYcIBi_y14XmvLE"
+  },
+  {
+    "title": "Successive cohorts of twitter users show increasing activity and shrinking content horizons",
+    "pub_year": 2021,
+    "citation": "arXiv preprint arXiv:2108.08641, 2021",
+    "author": [
+      "Frederik Wolf",
+      "Philipp Lorenz-Spreen",
+      "Sune Lehmann"
+    ],
+    "journal": "arXiv preprint arXiv:2108.08641",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 3,
+    "pub_url": "https://arxiv.org/abs/2108.08641"
+  },
+  {
+    "title": "Comment: Citation Statistics",
+    "pub_year": 2009,
+    "citation": "Statistical Science 24 (1), 17-20, 2009",
+    "author": [
+      "Sune Lehmann",
+      "Benny E Lautrup",
+      "Andrew D Jackson"
+    ],
+    "journal": "Statistical Science",
+    "volume": "24",
+    "number": "1",
+    "pages": "17-20",
+    "conference": null,
+    "num_citations": 3,
+    "pub_url": "https://projecteuclid.org/journals/statistical-science/volume-24/issue-1/Comment-Citation-Statistics/10.1214/09-STS285B.short"
+  },
+  {
+    "title": "Dose\u2013response functions and surrogate models for exploring social contagion in the Copenhagen Networks Study",
+    "pub_year": 2021,
+    "citation": "The European Physical Journal Special Topics 230 (16-17), 3311-3334, 2021",
+    "author": [
+      "Jonathan F Donges",
+      "Jakob H Lochner",
+      "Niklas H Kitzmann",
+      "Jobst Heitzig",
+      "Sune Lehmann",
+      "Marc Wiedermann",
+      "J\u00fcrgen Vollmer"
+    ],
+    "journal": "The European Physical Journal Special Topics",
+    "volume": "230",
+    "number": "16-17",
+    "pages": "3311-3334",
+    "conference": null,
+    "num_citations": 2,
+    "pub_url": "https://link.springer.com/article/10.1140/epjs/s11734-021-00279-7"
+  },
+  {
+    "title": "Trip frequency is key ingredient in new law of human travel",
+    "pub_year": 2021,
+    "citation": "Nature 593 (7860), 515-516, 2021",
+    "author": [
+      "Laura Alessandretti",
+      "Sune Lehmann"
+    ],
+    "journal": null,
+    "volume": "593",
+    "number": "7860",
+    "pages": "515-516",
+    "conference": null,
+    "num_citations": 2,
+    "pub_url": "https://www.nature.com/articles/d41586-021-01355-7/feed/"
+  },
+  {
+    "title": "Temporally intermittent communities in brain fMRI correlation networks",
+    "pub_year": 2019,
+    "citation": "Applied Network Science 4, 1-12, 2019",
+    "author": [
+      "Ulf Aslak",
+      "S\u00f8ren FV Nielsen",
+      "Morten M\u00f8rup",
+      "Sune Lehmann"
+    ],
+    "journal": "Applied Network Science",
+    "volume": "4",
+    "number": null,
+    "pages": "1-12",
+    "conference": null,
+    "num_citations": 2,
+    "pub_url": "https://link.springer.com/article/10.1007/s41109-019-0178-4"
+  },
+  {
+    "title": "Who wants to self-track anyway? Measuring the relation between self-tracking behavior and personality traits",
+    "pub_year": 2016,
+    "citation": "arXiv preprint arXiv:1608.01870, 2016",
+    "author": [
+      "Georgios Chatzigeorgakidis",
+      "Andrea Cuttone",
+      "Sune Lehmann",
+      "Jakob Eg Larsen"
+    ],
+    "journal": "arXiv preprint arXiv:1608.01870",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 2,
+    "pub_url": "https://arxiv.org/abs/1608.01870"
+  },
+  {
+    "title": "Community Detection, Current and Future Research Trends.",
+    "pub_year": 2014,
+    "citation": "Encyclopedia of Social Network Analysis and Mining, 214-220, 2014",
+    "author": [
+      "Sune Lehmann"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "214-220",
+    "conference": null,
+    "num_citations": 2,
+    "pub_url": "https://scholar.google.com/scholar?cluster=12913145611100706843&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Spires on the Building of Science",
+    "pub_year": 2003,
+    "citation": "University of Copenhagen. Niels Bohr Institute, 2003",
+    "author": [
+      "Sune Lehmann"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 2,
+    "pub_url": "https://lss.fnal.gov/archive/other/thesis/lehmann-s.pdf"
+  },
+  {
+    "title": "Nature Exposure is Associated With Reduced Smartphone Use",
+    "pub_year": 2023,
+    "citation": "Environment and Behavior, 00139165231167165, 2023",
+    "author": [
+      "Kelton Minor",
+      "Kristoffer Lind Glavind",
+      "Aaron J Schwartz",
+      "Christopher M Danforth",
+      "Sune Lehmann",
+      "Andreas Bjerre-Nielsen"
+    ],
+    "journal": "Environment and Behavior",
+    "volume": null,
+    "number": null,
+    "pages": "00139165231167165",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/00139165231167165"
+  },
+  {
+    "title": "Different networks for different purposes: A network science perspective on collaboration and communication in an engineering design project",
+    "pub_year": 2022,
+    "citation": "Computers in Industry 142, 103745, 2022",
+    "author": [
+      "Sebastiano A Piccolo",
+      "Sune Lehmann",
+      "Anja M Maier"
+    ],
+    "journal": "Computers in Industry",
+    "volume": "142",
+    "number": null,
+    "pages": "103745",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0166361522001427"
+  },
+  {
+    "title": "Chunyun versus lockdown",
+    "pub_year": 2022,
+    "citation": "National Science Review 9 (1), nwab178, 2022",
+    "author": [
+      "Sune Lehmann"
+    ],
+    "journal": "National Science Review",
+    "volume": "9",
+    "number": "1",
+    "pages": "nwab178",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://academic.oup.com/nsr/article-abstract/9/1/nwab178/6380497"
+  },
+  {
+    "title": "Recovering lost and absent information in temporal networks",
+    "pub_year": 2021,
+    "citation": "arXiv preprint arXiv:2107.10835, 2021",
+    "author": [
+      "James P Bagrow",
+      "Sune Lehmann"
+    ],
+    "journal": "arXiv preprint arXiv:2107.10835",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://arxiv.org/abs/2107.10835"
+  },
+  {
+    "title": "A view from data science",
+    "pub_year": 2021,
+    "citation": "Big Data & Society 8 (2), 20539517211040198, 2021",
+    "author": [
+      "Anna Sapienza",
+      "Sune Lehmann"
+    ],
+    "journal": "Big Data & Society",
+    "volume": "8",
+    "number": "2",
+    "pages": "20539517211040198",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://journals.sagepub.com/doi/pdf/10.1177/20539517211040198"
+  },
+  {
+    "title": "Modularity, robustness, and change propagation: a multifaceted relation",
+    "pub_year": 2020,
+    "citation": "Proceedings of the Design Society: DESIGN Conference 1, 2335-2344, 2020",
+    "author": [
+      "SA Piccolo",
+      "S Lehmann",
+      "AM Maier"
+    ],
+    "journal": "Proceedings of the Design Society: DESIGN Conference",
+    "volume": "1",
+    "number": null,
+    "pages": "2335-2344",
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/modularity-robustness-and-change-propagation-a-multifaceted-relation/C9650B03547EF5DBA2009910352F3F9F"
+  },
+  {
+    "title": "Gender-specific behavior change following terror attacks",
+    "pub_year": 2020,
+    "citation": "arXiv preprint arXiv:2004.02957, 2020",
+    "author": [
+      "Jonas S Juul",
+      "Laura Alessandretti",
+      "Jesper Dammeyer",
+      "Ingo Zettler",
+      "Sune Lehmann",
+      "Joachim Mathiesen"
+    ],
+    "journal": "arXiv preprint arXiv:2004.02957",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://arxiv.org/abs/2004.02957"
+  },
+  {
+    "title": "Visualizing multi-channel networks",
+    "pub_year": 2014,
+    "citation": "V\u00e1clav Skala-UNION Agency, 2014",
+    "author": [
+      "Pawe\u0142 Antemijczuk",
+      "Marta Magiera",
+      "Sune Lehmann",
+      "Andrea Cuttone",
+      "Jakob Eg Larsen"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://dspace5.zcu.cz/handle/11025/11939"
+  },
+  {
+    "title": "Using Sequences of Life-events to Predict Human Lives",
+    "pub_year": 2023,
+    "citation": "",
+    "author": [
+      "Germans Savcisens",
+      "Tina Eliassi-Rad",
+      "Lars Kai Hansen",
+      "Laust Mortensen",
+      "Lau Lilleholt",
+      "Anna Rogers",
+      "Ingo Zettler",
+      "Sune Lehmann"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://www.researchsquare.com/article/rs-2975478/latest"
+  },
+  {
+    "title": "Science Communication as a Collective Intelligence Endeavor: A Manifesto and Examples for Implementation",
+    "pub_year": 2023,
+    "citation": "Science Communication, 10755470231162634, 2023",
+    "author": [
+      "Dawn Holford",
+      "Angelo Fasce",
+      "Katy Tapper",
+      "Miso Demko",
+      "Stephan Lewandowsky",
+      "Ulrike Hahn",
+      "Christoph M Abels",
+      "Ahmed Al-Rawi",
+      "Sameer Alladin",
+      "T Sonia Boender",
+      "Hendrik Bruns",
+      "Helen Fischer",
+      "Christian Gilde",
+      "Paul HP Hanel",
+      "Stefan M Herzog",
+      "Astrid Kause",
+      "Sune Lehmann",
+      "Matthew S Nurse",
+      "Caroline Orr",
+      "Niccol\u00f2 Pescetelli",
+      "Maria Petrescu",
+      "Sunita Sah",
+      "Philipp Schmid",
+      "Miroslav Sirota",
+      "Marlene Wulf"
+    ],
+    "journal": "Science Communication",
+    "volume": null,
+    "number": null,
+    "pages": "10755470231162634",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/10755470231162634"
+  },
+  {
+    "title": "Group-specific behavior change following terror attacks",
+    "pub_year": 2023,
+    "citation": "Journal of Computational Social Science 6 (1), 1-18, 2023",
+    "author": [
+      "Jonas L Juul",
+      "Laura Alessandretti",
+      "Jesper Dammeyer",
+      "Ingo Zettler",
+      "Sune Lehmann",
+      "Joachim Mathiesen"
+    ],
+    "journal": "Journal of Computational Social Science",
+    "volume": "6",
+    "number": "1",
+    "pages": "1-18",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/article/10.1007/s42001-022-00188-2"
+  },
+  {
+    "title": "Linking social network structure and function to social preferences",
+    "pub_year": 2023,
+    "citation": "arXiv preprint arXiv:2303.08107, 2023",
+    "author": [
+      "Josefine Bohr Brask",
+      "Andreas Koher",
+      "Darren P Croft",
+      "Sune Lehmann"
+    ],
+    "journal": "arXiv preprint arXiv:2303.08107",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2303.08107"
+  },
+  {
+    "title": "Linking social network structure and function to social preferences",
+    "pub_year": 2023,
+    "citation": "arXiv e-prints, arXiv: 2303.08107, 2023",
+    "author": [
+      "Josefine Bohr Brask",
+      "Andreas Koher",
+      "Darren P Croft",
+      "Sune Lehmann"
+    ],
+    "journal": "arXiv e-prints",
+    "volume": null,
+    "number": null,
+    "pages": "arXiv: 2303.08107",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230308107B/abstract"
+  },
+  {
+    "title": "Dialectograms: Machine Learning Differences between Discursive Communities",
+    "pub_year": 2023,
+    "citation": "arXiv preprint arXiv:2302.05657, 2023",
+    "author": [
+      "Thyge Enggaard",
+      "August Lohse",
+      "Morten Axel Pedersen",
+      "Sune Lehmann"
+    ],
+    "journal": "arXiv preprint arXiv:2302.05657",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2302.05657"
+  },
+  {
+    "title": "Monitoring Public Behavior During a Pandemic Using Surveys: Proof-of-Concept Via Epidemic Modelling",
+    "pub_year": 2022,
+    "citation": "arXiv preprint arXiv:2210.01472, 2022",
+    "author": [
+      "Andreas Koher",
+      "Frederik J\u00f8rgensen",
+      "Michael Bang Petersen",
+      "Sune Lehmann"
+    ],
+    "journal": "arXiv preprint arXiv:2210.01472",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2210.01472"
+  },
+  {
+    "title": "Sleep during travel balances individual sleep needs",
+    "pub_year": 2022,
+    "citation": "Nature Human Behaviour 6 (5), 691-699, 2022",
+    "author": [
+      "Sigga Svala Jonasdottir",
+      "James Bagrow",
+      "Sune Lehmann"
+    ],
+    "journal": "Nature Human Behaviour",
+    "volume": "6",
+    "number": "5",
+    "pages": "691-699",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://www.nature.com/articles/s41562-022-01291-0"
+  },
+  {
+    "title": "Using machine learning to identify quality-of-care predictors for emergency caesarean sections: a retrospective cohort study",
+    "pub_year": 2022,
+    "citation": "BMJ open 12 (3), e049046, 2022",
+    "author": [
+      "Betina Ristorp Andersen",
+      "Ida Ammitzb\u00f8ll",
+      "Jesper Hinrich",
+      "Sune Lehmann",
+      "Charlotte Vibeke Ringsted",
+      "Ellen Christine Leth L\u00f8kkegaard",
+      "Martin G Tolsgaard"
+    ],
+    "journal": "BMJ open",
+    "volume": "12",
+    "number": "3",
+    "pages": "e049046",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://bmjopen.bmj.com/content/12/3/e049046.abstract"
+  },
+  {
+    "title": "The Rules of Contagion: Why Things Spread\u2014And Why They Stop: by Adam Kucharski BASIC BOOKS, 2020, 352 PP., US$30.00, ISBN-13: 978154167431",
+    "pub_year": 2022,
+    "citation": "The Mathematical Intelligencer 44 (1), 76-77, 2022",
+    "author": [
+      "Sune Lehmann",
+      "Jonas L Juul"
+    ],
+    "journal": null,
+    "volume": "44",
+    "number": "1",
+    "pages": "76-77",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/article/10.1007/s00283-021-10107-4"
+  },
+  {
+    "title": "The role of space, time and sociability in predicting social encounters",
+    "pub_year": 2022,
+    "citation": "Environment and Planning B: Urban Analytics and City Science 49 (2), 619-636, 2022",
+    "author": [
+      "Christoph Stich",
+      "Emmanouil Tranos",
+      "Mirco Musolesi",
+      "Sune Lehmann"
+    ],
+    "journal": "Environment and Planning B: Urban Analytics and City Science",
+    "volume": "49",
+    "number": "2",
+    "pages": "619-636",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://journals.sagepub.com/doi/pdf/10.1177/23998083211016871"
+  },
+  {
+    "title": "A manifesto for science communication as collective intelligence",
+    "pub_year": 2022,
+    "citation": "",
+    "author": [
+      "Dawn Holford",
+      "Angelo Fasce",
+      "Katy Tapper",
+      "Miso Demko",
+      "Stephan Lewandowsky",
+      "Ulrike Hahn",
+      "Ahmed Al-Rawi",
+      "Sameer Alladin",
+      "T Sonia Boender",
+      "Hendrik Bruns",
+      "Helen Fischer",
+      "Christian Gilde",
+      "Paul HP Hanel",
+      "Stefan Herzog",
+      "Astrid Kause",
+      "Sune Lehmann",
+      "Matthew S Nurse",
+      "Caroline Orr",
+      "Niccol\u00f2 Pescetelli",
+      "Maria Petrescu",
+      "Sunita Sah",
+      "Philipp Schmid",
+      "Miroslav Sirota",
+      "Marlene Wulf"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://pure.mpg.de/rest/items/item_3388194/component/file_3388196/content"
+  },
+  {
+    "title": "Self-interested behaviour as a social norm",
+    "pub_year": 2020,
+    "citation": "arXiv e-prints, arXiv: 2008.01884, 2020",
+    "author": [
+      "Kamilla Haworth Buchter",
+      "Bjarke M\u00f8nsted",
+      "Sune Lehmann"
+    ],
+    "journal": "arXiv e-prints",
+    "volume": null,
+    "number": null,
+    "pages": "arXiv: 2008.01884",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200801884H/abstract"
+  },
+  {
+    "title": "Interacting contagions",
+    "pub_year": 2020,
+    "citation": "Nature Physics 16 (4), 377-378, 2020",
+    "author": [
+      "Sune Lehmann"
+    ],
+    "journal": "Nature Physics",
+    "volume": "16",
+    "number": "4",
+    "pages": "377-378",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://www.nature.com/articles/s41567-020-0817-9"
+  },
+  {
+    "title": "Inferring transportation mode from smartphone sensors: Evaluating the potential of Wi-Fi and Bluetooth",
+    "pub_year": 2020,
+    "citation": "",
+    "author": [
+      "Kelton Minor",
+      "Piotr Sapie\u017cy\u0144ski",
+      "Sune Lehmann",
+      "David Dreyer Lassen"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://vbn.aau.dk/files/413515004/pone.0234003.pdf"
+  },
+  {
+    "title": "Mobile phone data and COVID-19: Missing an opportunity?(preprint)",
+    "pub_year": 2020,
+    "citation": "",
+    "author": [
+      "Nuria Oliver",
+      "Emmanuel Letouz\u00e9",
+      "Harald Sterly",
+      "S\u00e9bastien Delataille",
+      "Marco De Nadai",
+      "Bruno Lepri",
+      "Renaud Lambiotte",
+      "Richard Benjamins",
+      "Ciro Cattuto",
+      "Vittoria Colizza",
+      "Nicolas de Cordes",
+      "Samuel P Fraiberger",
+      "Till Koebe",
+      "Sune Lehmann",
+      "Juan Murillo",
+      "Alex Pentland",
+      "Phuong N Pham",
+      "Fr\u00e9d\u00e9ric Pivetta",
+      "Albert Ali Salah",
+      "Jari Saram\u00e4ki",
+      "Samuel V Scarpino",
+      "Michele Tizzoni",
+      "Stefaan Verhulst",
+      "Patrick Vinck"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/ppzbmed-2003.12347v1"
+  },
+  {
+    "title": "Vores forskning er ikke til salg",
+    "pub_year": 2014,
+    "citation": "Politiken, 2014",
+    "author": [
+      "Anders S\u00f8gaard",
+      "Rebecca Adler-Nissen",
+      "Steffen Dalsgaard",
+      "Vibe Geds\u00f8 Fr\u00f8kj\u00e6r",
+      "Kristin Veel",
+      "Sune Lehmann",
+      "Kresten Lindorff-Larsen"
+    ],
+    "journal": "Politiken",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://pure.itu.dk/portal/en/publications/vores-forskning-er-ikke-til-salg"
+  },
+  {
+    "title": "Visualizing QS Data Using Time Spirals",
+    "pub_year": 2014,
+    "citation": "Quantified Self Europe Conference (QSEU 2014), 2014",
+    "author": [
+      "Jakob Eg Larsen",
+      "Andrea Cuttone",
+      "Sune Lehmann"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": "Quantified Self Europe Conference (QSEU 2014)",
+    "num_citations": 0,
+    "pub_url": "https://oaklab.org/wp-content/uploads/2014/05/QSEU14_QS_Spiral.pdf"
+  },
+  {
+    "title": "Networks in the Twenty-First Century.",
+    "pub_year": 2014,
+    "citation": "Encyclopedia of Social Network Analysis and Mining, 1136-1141, 2014",
+    "author": [
+      "Sune Lehmann"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "1136-1141",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://scholar.google.com/scholar?cluster=3074368047628616380&hl=en&oi=scholarr"
+  },
+  {
+    "title": "Structures in Complex Bipartite Networks",
+    "pub_year": 2009,
+    "citation": "Open Information Management: Applications of Interconnectivity and \u2026, 2009",
+    "author": [
+      "Sune Lehmann"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": "176-189",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://www.igi-global.com/chapter/open-information-management/27795"
+  },
+  {
+    "title": "Kvaliteten af kvalitetsm\u00e5l (sekund\u00e6rpublikation)",
+    "pub_year": 2007,
+    "citation": "Ugeskrift for l\u00e6ger 169 (38), 3205, 2007",
+    "author": [
+      "Sune Lehmann",
+      "Andrew D Jackson",
+      "Benny E Lautrup"
+    ],
+    "journal": "Ugeskrift for l\u00e6ger",
+    "volume": "169",
+    "number": "38",
+    "pages": "3205",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://www.lautrup.nbi.dk/artikler/kvalitet.pdf"
+  },
+  {
+    "title": "All systems go in Shanghai for connecting innovators",
+    "pub_year": null,
+    "citation": "",
+    "author": [
+      "Hernan Makse",
+      "Adilson Motter",
+      "Vittoria Colizza",
+      "Sune Lehmann"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://www.nature.com/articles/d42473-018-00328-1.pdf"
+  },
+  {
+    "title": "Generating 2-Dimensional Overviews from a Bi-Partite Classification of Images",
+    "pub_year": null,
+    "citation": "",
+    "author": [
+      "M Schich",
+      "S Lehmann"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=57104f1b39c5876d1de7b4cc8ef60d101866807e"
+  },
+  {
+    "title": "Scalable Hierarchical Embeddings of Complex Networks",
+    "pub_year": null,
+    "citation": "",
+    "author": [
+      "Nikolaos Nakis",
+      "Abdulkadir CELIKKANAT",
+      "Sune Lehmann",
+      "Morten M\u00f8rup"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://openreview.net/forum?id=U-GB_gONqbo"
+  },
+  {
+    "title": "Interactive visualization of community dynamics in temporal networks",
+    "pub_year": null,
+    "citation": "",
+    "author": [
+      "Ulf Aslak Jensen",
+      "Sune Lehmann",
+      "Enys Mones"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://scholar.google.com/scholar?cluster=12898256942954466085&hl=en&oi=scholarr"
+  }
+]

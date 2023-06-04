@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Evidence of pandemic fatigue associated with stricter tiered COVID-19 restrictions",
+    "pub_year": 2022,
+    "citation": "PLOS Digital Health 1 (5), e0000035, 2022",
+    "author": [
+      "Federico Delussu",
+      "Michele Tizzoni",
+      "Laetitia Gauvin"
+    ],
+    "journal": "PLOS Digital Health",
+    "volume": "1",
+    "number": "5",
+    "pages": "e0000035",
+    "conference": null,
+    "num_citations": 12,
+    "pub_url": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000035"
+  },
+  {
+    "title": "Experiments and comparison of digital twinning of photovoltaic panels by machine learning models and a cyber-physical model in modelica",
+    "pub_year": 2021,
+    "citation": "IEEE Transactions on Industrial Informatics 18 (6), 4018-4028, 2021",
+    "author": [
+      "Federico Delussu",
+      "Davide Manzione",
+      "Rosa Meo",
+      "Gabriele Ottino",
+      "Mark Asare"
+    ],
+    "journal": "IEEE Transactions on Industrial Informatics",
+    "volume": "18",
+    "number": "6",
+    "pages": "4018-4028",
+    "conference": null,
+    "num_citations": 9,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9525233/"
+  },
+  {
+    "title": "Fuel prediction and reduction in public transportation by sensor monitoring and bayesian networks",
+    "pub_year": 2021,
+    "citation": "Sensors 21 (14), 4733, 2021",
+    "author": [
+      "Federico Delussu",
+      "Faisal Imran",
+      "Christian Mattia",
+      "Rosa Meo"
+    ],
+    "journal": "Sensors",
+    "volume": "21",
+    "number": "14",
+    "pages": "4733",
+    "conference": null,
+    "num_citations": 5,
+    "pub_url": "https://www.mdpi.com/1424-8220/21/14/4733"
+  },
+  {
+    "title": "The limits of human mobility traces to predict the spread of COVID-19",
+    "pub_year": 2023,
+    "citation": "arXiv preprint arXiv:2301.03960, 2023",
+    "author": [
+      "Federico Delussu",
+      "Michele Tizzoni",
+      "Laetitia Gauvin"
+    ],
+    "journal": "arXiv preprint arXiv:2301.03960",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2301.03960"
+  },
+  {
+    "title": "The limits of human mobility traces to predict the spread of COVID-19 (preprint)",
+    "pub_year": 2023,
+    "citation": "",
+    "author": [
+      "Federico Delussu",
+      "Michele Tizzoni",
+      "Laetitia Gauvin"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/ppzbmed-2301.03960v1"
+  },
+  {
+    "title": "Applying Bayesian Networks to Reduce Fuel Consumption in Public Transportation",
+    "pub_year": 2020,
+    "citation": "I-CiTies 2020-6th CINI Annual Conference on ICT for Smart Cities \u2026, 2020",
+    "author": [
+      "Federico Delussu",
+      "Faisal Imran",
+      "Rosa Meo",
+      "Michela Pellegrino"
+    ],
+    "journal": null,
+    "volume": null,
+    "number": "unico",
+    "pages": "1-3",
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://iris.unito.it/handle/2318/1836872"
+  }
+]

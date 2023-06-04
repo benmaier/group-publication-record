@@ -1,0 +1,143 @@
+[
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Evidence of pandemic fatigue associated with stricter tiered COVID-19 restrictions",
+      "pub_year": 2022,
+      "citation": "PLOS Digital Health 1 (5), e0000035, 2022",
+      "author": "Federico Delussu and Michele Tizzoni and Laetitia Gauvin",
+      "journal": "PLOS Digital Health",
+      "volume": "1",
+      "number": "5",
+      "pages": "e0000035",
+      "publisher": "Public Library of Science",
+      "abstract": "Despite the availability of effective vaccines against SARS-CoV-2, non-pharmaceutical interventions remain an important part of the effort to reduce viral circulation caused by emerging variants with the capability of evading vaccine-induced immunity. With the aim of striking a balance between effective mitigation and long-term sustainability, several governments worldwide have adopted systems of tiered interventions, of increasing stringency, that are calibrated according to periodic risk assessments. A key challenge remains in quantifying temporal changes in adherence to interventions, which can decrease over time due to pandemic fatigue, under such kind of multilevel strategies. Here, we examine whether there was a reduction in adherence to tiered restrictions that were imposed in Italy from November 2020 through May 2021, and in particular we assess whether temporal trends in adherence depended on the intensity of the restrictions adopted. We analyzed daily changes in movements and in residential time, combining mobility data with the restriction tier enforced in the Italian regions. Through mixed-effects regression models, we identified a general trend of reduction in adherence and an additional effect of faster waning associated with the most stringent tier. We estimated both effects being of the same order of magnitude, suggesting that adherence decreased twice as fast during the strictest tier as in the least stringent one. Our results provide a quantitative measure of behavioral responses to tiered interventions\u2014a metric of pandemic fatigue\u2014that can be integrated into mathematical models to evaluate future epidemic scenarios."
+    },
+    "filled": true,
+    "author_pub_id": "3yO7jOgAAAAJ:qjMakFHDy7sC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=16705430012192280740",
+    "cites_id": [
+      "16705430012192280740"
+    ],
+    "pub_url": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000035",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:pNDeQBac1ecJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 7,
+      "2023": 5
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Experiments and comparison of digital twinning of photovoltaic panels by machine learning models and a cyber-physical model in modelica",
+      "pub_year": 2021,
+      "citation": "IEEE Transactions on Industrial Informatics 18 (6), 4018-4028, 2021",
+      "author": "Federico Delussu and Davide Manzione and Rosa Meo and Gabriele Ottino and Mark Asare",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "volume": "18",
+      "number": "6",
+      "pages": "4018-4028",
+      "publisher": "IEEE",
+      "abstract": "We present two approaches for digital twinning in the context of the forecast of power production by photovoltaic panels. We employ two digital models that are complementary: the first one is a cyber-physical system, simulating the physical properties of a photovoltaic panel, built by the open- source object-oriented modeling language Modelica. The second model is data-driven, obtained by the application of machine learning techniques on the data collected in an installation of the equipment. Both approaches make use of data from the weather forecast of each day. We compare the results of the two approaches. Finally, we integrate them in more sophisticated hybrid systems that get the benefits of both."
+    },
+    "filled": true,
+    "author_pub_id": "3yO7jOgAAAAJ:9yKSN-GCB0IC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=11852322977392310121",
+    "cites_id": [
+      "11852322977392310121"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9525233/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aTernvPoe6QJ:scholar.google.com/",
+    "cites_per_year": {
+      "2022": 7,
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Fuel prediction and reduction in public transportation by sensor monitoring and bayesian networks",
+      "pub_year": 2021,
+      "citation": "Sensors 21 (14), 4733, 2021",
+      "author": "Federico Delussu and Faisal Imran and Christian Mattia and Rosa Meo",
+      "journal": "Sensors",
+      "volume": "21",
+      "number": "14",
+      "pages": "4733",
+      "publisher": "MDPI",
+      "abstract": "We exploit the use of a controller area network (CAN-bus) to monitor sensors on the buses of local public transportation in a big European city. The aim is to advise fleet managers and policymakers on how to reduce fuel consumption so that air pollution is controlled and public services are improved. We deploy heuristic algorithms and exhaustive ones to generate Bayesian networks among the monitored variables. The aim is to describe the relevant relationships between the variables, to discover and confirm the possible cause\u2013effect relationships, to predict the fuel consumption dependent on the contextual conditions of traffic, and to enable an intervention analysis to be conducted on the variables so that our goals are achieved. We propose a validation technique using Bayesian networks based on Granger causality: it relies upon observations of the time series formed by successive values of the variables in time. We use the same method based on Granger causality to rank the Bayesian networks obtained as well. A comparison of the Bayesian networks discovered against the ground truth is proposed in a synthetic data set, specifically generated for this study: the results confirm the validity of the Bayesian networks that agree on most of the existing relationships."
+    },
+    "filled": true,
+    "author_pub_id": "3yO7jOgAAAAJ:d1gkVwhDpl0C",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=8315247992037557741",
+    "cites_id": [
+      "8315247992037557741"
+    ],
+    "pub_url": "https://www.mdpi.com/1424-8220/21/14/4733",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7cWtIP6xZXMJ:scholar.google.com/",
+    "cites_per_year": {
+      "2021": 1,
+      "2022": 2,
+      "2023": 2
+    }
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "The limits of human mobility traces to predict the spread of COVID-19",
+      "pub_year": 2023,
+      "citation": "arXiv preprint arXiv:2301.03960, 2023",
+      "author": "Federico Delussu and Michele Tizzoni and Laetitia Gauvin",
+      "journal": "arXiv preprint arXiv:2301.03960",
+      "abstract": "Mobile phone data have been widely used to model the spread of COVID-19, however, quantifying and comparing their predictive value across different settings is challenging. Their quality is affected by various factors and their relationship with epidemiological indicators varies over time. Here we adopt a model-free approach based on transfer entropy to quantify the relationship between mobile phone-derived mobility metrics and COVID-19 cases and deaths in more than 200 European subnational regions. We found that past knowledge of mobility does not provide statistically significant information on COVID-19 cases or deaths in most of the regions. In the remaining ones, measures of contact rates were often more informative than movements in predicting the spread of the disease, while the most predictive metrics between mid-range and short-range movements depended on the region considered. We finally identify geographic and demographic factors, such as users' coverage and commuting patterns, that can help determine the best metric for predicting disease incidence in a particular location. Our approach provides epidemiologists and public health officials with a general framework to evaluate the usefulness of human mobility data in responding to epidemics."
+    },
+    "filled": true,
+    "author_pub_id": "3yO7jOgAAAAJ:u-x6o8ySG0sC",
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2301.03960",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:v-CUwII8x1QJ:scholar.google.com/",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "The limits of human mobility traces to predict the spread of COVID-19 (preprint)",
+      "pub_year": 2023,
+      "citation": "",
+      "author": "Federico Delussu and Michele Tizzoni and Laetitia Gauvin",
+      "abstract": "Mobile phone data have been widely used to model the spread of COVID-19, however, quantifying and comparing their predictive value across different settings is challenging. Their quality is affected by various factors and their relationship with epidemiological indicators varies over time. Here we adopt a model-free approach based on transfer entropy to quantify the relationship between mobile phone-derived mobility metrics and COVID-19 cases and deaths in more than 200 European subnational regions. We found that past knowledge of mobility does not provide statistically significant information on COVID-19 cases or deaths in most of the regions. In the remaining ones, measures of contact rates were often more informative than movements in predicting the spread of the disease, while the most predictive metrics between mid-range and short-range movements depended on the region considered. We finally identify geographic and demographic factors, such as users' coverage and commuting patterns, that can help determine the best metric for predicting disease incidence in a particular location. Our approach provides epidemiologists and public health officials with a general framework to evaluate the usefulness of human mobility data in responding to epidemics."
+    },
+    "filled": true,
+    "author_pub_id": "3yO7jOgAAAAJ:u5HHmVD_uO8C",
+    "num_citations": 0,
+    "pub_url": "https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/ppzbmed-2301.03960v1",
+    "cites_per_year": {}
+  },
+  {
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+      "title": "Applying Bayesian Networks to Reduce Fuel Consumption in Public Transportation",
+      "pub_year": 2020,
+      "citation": "I-CiTies 2020-6th CINI Annual Conference on ICT for Smart Cities \u2026, 2020",
+      "author": "Federico Delussu and Faisal Imran and Rosa Meo and Michela Pellegrino",
+      "number": "unico",
+      "pages": "1-3",
+      "abstract": "In this work we analyse data collected from sensors installed on some vehicles of the local public transportation system in a European city. Our analysis is conducted by means of generation and application of Bayesian networks to describe the dependence relationships between variables and to predict the target variable of fuel consumption. We experimented with different algorithms that explore the search space of the possible alternatives guided by heuristics. We compare them with the results obtained with the technology of High Performance Computing, that allowed us to do an exhaustive search and find the optimal solution from the viewpoint of the likelihood evaluation measure. We solve the model evaluation and selection problem by application of an alternative evaluation measure: Granger causality. In addition we compared the predictive ability of the target by the obtained networks. Finally, we conducted \"what- if\" analysis under the form of intervention and counterfactual analysis and show which decisions policy makers and the service owners should afford to reduce costs and pollution."
+    },
+    "filled": true,
+    "author_pub_id": "3yO7jOgAAAAJ:2osOgNQ5qMEC",
+    "num_citations": 0,
+    "pub_url": "https://iris.unito.it/handle/2318/1836872",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FqXcyKeD6tYJ:scholar.google.com/",
+    "cites_per_year": {}
+  }
+]

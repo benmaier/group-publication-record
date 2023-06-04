@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Macroprudential Stress Test of the Euro Area Banking System Amid the Coronavirus (COVID-19) Pandemic",
+    "pub_year": 2021,
+    "citation": "European Central Bank report on euro area macroprudential stress test, ECB, 2021",
+    "author": [
+      "Katarzyna Barbara Budnik",
+      "Louis Boucherie",
+      "Marcin Borsuk",
+      "Ivan Dimitrov",
+      "Giacomo Giraldo",
+      "Johannes Gro\u00df",
+      "Martina Jancokova",
+      "Max Lampe",
+      "Gianluca Vagliano",
+      "Matjaz Volk"
+    ],
+    "journal": "European Central Bank report on euro area macroprudential stress test, ECB",
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "conference": null,
+    "num_citations": 1,
+    "pub_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4112397"
+  },
+  {
+    "title": "Characterizing Polarization in Social Networks using the Signed Relational Latent Distance Model",
+    "pub_year": 2023,
+    "citation": "Proceedings of The 26th International Conference on Artificial Intelligence \u2026, 2023",
+    "author": [
+      "Nikolaos Nakis",
+      "Abdulkadir Celikkanat",
+      "Louis Boucherie",
+      "Christian Djurhuus",
+      "Felix Burmester",
+      "Daniel Mathias Holmelund",
+      "Monika Frolcov\u00e1",
+      "Morten M\u00f8rup"
+    ],
+    "journal": null,
+    "volume": "206",
+    "number": "11489-11505",
+    "pages": null,
+    "conference": "Proceedings of The 26th International Conference on Artificial Intelligence and Statistics",
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2301.09507"
+  },
+  {
+    "title": "Looking at the evolution of macroprudential policy stance: A growth-at-risk experiment with a semi-structural model",
+    "pub_year": 2022,
+    "citation": "ECB Occasional Paper, 2022",
+    "author": [
+      "Louis Boucherie",
+      "Katarzyna Barbara Budnik",
+      "Jiri Panos"
+    ],
+    "journal": "ECB Occasional Paper",
+    "volume": null,
+    "number": "2022/301",
+    "pages": null,
+    "conference": null,
+    "num_citations": 0,
+    "pub_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4217219"
+  }
+]

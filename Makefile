@@ -3,7 +3,7 @@ default: processdata md
 
 prep:
 	mkdir -p data
-	mkdir -p cleaned_data
+	mkdir -p clean_data
 	mkdir -p output
 
 scrape:

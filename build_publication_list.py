@@ -8,20 +8,21 @@ def fname(s):
     return 'data/'+anyascii(s).replace(' ','_').replace('"','') + '.json'
 
 authors = [
-            '"Benjamin F. Maier"',
-            'Jonas L. Juul',
-            'Sune Lehmann',
-            'Laura Alessandretti',
-            "Louis Boucherie"',
-            'Germans Savcisens',
-            '"Anna Sapienza"',
-            'Federico Delussu',
-            'Josefine Bohr Brask',
-            'Peter Edsberg Møllgaard'
-            'Kelton Minor',
-            'Lasse Mohr Mikkelsen',
-            'Silvia De Sojo Caso',
-            'Léo Meynent',
+            #'"Benjamin F. Maier"',
+            #'Jonas L. Juul',
+            #'Sune Lehmann',
+            #'Laura Alessandretti',
+            #"Louis Boucherie"',
+            #'Germans Savcisens',
+            'Antonio Desiderio',
+            #'"Anna Sapienza"',
+            #'Federico Delussu',
+            #'Josefine Bohr Brask',
+            #'Peter Edsberg Møllgaard'
+            #'Kelton Minor',
+            #'Lasse Mohr Mikkelsen',
+            #'Silvia De Sojo Caso',
+            #'Léo Meynent',
         ]
 
 

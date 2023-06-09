@@ -1,6 +1,6 @@
 ### Publications
 
-This is a combined list of publications that we authored or co-authored. If you're into numbers like that, our work has accumulated 13224 citations with an h-index of 47 over the years (as of 2023-06-04, data by Google Scholar).
+This is a combined list of publications that we authored or co-authored. If you're into numbers like that, our work has accumulated 14929 citations with an h-index of 50 over the years (as of 2023-06-09, data by Google Scholar).
 
 #### 2023
 
@@ -23,8 +23,11 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Characterizing Polarization in Social Networks using the Signed Relational Latent Distance Model](https://arxiv.org/abs/2301.09507)  
   Nikolaos Nakis, Abdulkadir Celikkanat, Louis Boucherie, Christian Djurhuus, Felix Burmester, Daniel Mathias Holmelund, Monika Frolcová, Morten Mørup  
   Proceedings of The 26th International Conference on Artificial Intelligence …
+- [Using Sequences of Life-events to Predict Human Lives](https://www.researchsquare.com/article/rs-2975478/latest)  
+  Germans Savcisens, Tina Eliassi-Rad, Lars Kai Hansen, Laust Mortensen, Lau Lilleholt, Anna Rogers, Ingo Zettler, Sune Lehmann  
+  Preprint (Research Square)
 - [Science Communication as a Collective Intelligence Endeavor: A Manifesto and Examples for Implementation](https://journals.sagepub.com/doi/abs/10.1177/10755470231162634)  
-  Dawn Holford, Angelo Fasce, Katy Tapper, Miso Demko, Stephan Lewandowsky, Ulrike Hahn, Christoph M Abels, Ahmed Al-Rawi, Sameer Alladin, T Sonia Boender, Hendrik Bruns, Helen Fischer, Christian Gilde, Paul HP Hanel, Stefan M Herzog, Astrid Kause, Sune Lehmann, Matthew S Nurse, Caroline Orr, Niccolò Pescetelli, Maria Petrescu, Sunita Sah, Philipp Schmid, Miroslav Sirota, Marlene Wulf  
+  Dawn Holford, Angelo Fasce, Katy Tapper, Miso Demko, Stephan Lewandowsky, Ulrike Hahn, Christoph M Abels, Ahmed Al-Rawi, Sameer Alladin, ..., Marlene Wulf  
   Science Communication, 10755470231162634
 - [Group-specific behavior change following terror attacks](https://link.springer.com/article/10.1007/s42001-022-00188-2)  
   Jonas L Juul, Laura Alessandretti, Jesper Dammeyer, Ingo Zettler, Sune Lehmann, Joachim Mathiesen  
@@ -35,14 +38,17 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Dialectograms: Machine Learning Differences between Discursive Communities](https://arxiv.org/abs/2302.05657)  
   Thyge Enggaard, August Lohse, Morten Axel Pedersen, Sune Lehmann  
   arXiv preprint arXiv:2302.05657
-- [A Sustainable West? Analyzing Clusters of Public Opinion in Sustainability Western Discourses in a Collection of Multilingual Newspapers (1999-2018)](https://orbit.dtu.dk/en/publications/a-sustainable-west-analyzing-clusters-of-public-opinion-in-sustai)  
-  Germans Savcisens, Elena Fernández Fernández  
-  Digital Humanities in the Nordic and Baltic Countries 2023: Sustainability …
+- [A Sustainable West? Analyzing Clusters of Public Opinion over Time and Space in a Collection of Multilingual Newspapers (1999-2018)](https://pure.au.dk/portal/files/313268479/DHNB2023_BookofAbstracts.pdf#page=103)  
+  Elena Fernandez Fernandez, Germans Savcisens  
+  Book of, 81
 - [The limits of human mobility traces to predict the spread of COVID-19](https://arxiv.org/abs/2301.03960)  
   Federico Delussu, Michele Tizzoni, Laetitia Gauvin  
   arXiv preprint arXiv:2301.03960
+- [A systematic review of ambient heat and sleep in a warming climate](https://www.medrxiv.org/content/10.1101/2023.03.28.23287841.abstract)  
+  Guillaume Chevance, Kelton Minor, Constanza Vielma, Emmanuel Campi, Cristina O’Callaghan-Gordo, Xavier Basagaña, Joan Ballester, Paquito Bernard  
+  medRxiv.03. 28.23287841
 - [The role of global reanalyses in climate services for health: Insights from the Lancet Countdown](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.2122)  
-  Claudia Di Napoli, Marina Romanello, Kelton Minor, Jonathan Chambers, Shouro Dasgupta, Luis E Escobar, Yun Hang, Risto Hänninen, Yang Liu, Martin Lotto Batista, Rachel Lowe, Kris A Murray, Fereidoon Owfi, Mahnaz Rabbaniha, Liuhua Shi, Mikhail Sofiev, Meisam Tabatabaei, Elizabeth JZ Robinson  
+  Claudia Di Napoli, Marina Romanello, Kelton Minor, Jonathan Chambers, Shouro Dasgupta, Luis E Escobar, Yun Hang, Risto Hänninen, Yang Liu, ..., Elizabeth JZ Robinson  
   Meteorological applications 30 (2), e2122
 - [Adverse weather amplifies social media activity](https://arxiv.org/abs/2302.08456)  
   Kelton Minor, Esteban Moro, Nick Obradovich  
@@ -54,9 +60,15 @@ This is a combined list of publications that we authored or co-authored. If you'
 #### 2022
 
 
+- [The 2022 report of the Lancet Countdown on health and climate change: health at the mercy of fossil fuels](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01540-9/fulltext?trk=organization_guest_main-feed-card_feed-article-content)  
+  Marina Romanello, Claudia Di Napoli, Paul Drummond, Carole Green, Harry Kennard, Pete Lampard, Daniel Scamman, Nigel Arnell, Sonja Ayeb-Karlsson, ..., Anthony Costello  
+  The Lancet 400 (10363), 1619-1654, cited by: 157
 - [Characterizing polarization in online vaccine discourse—A large-scale study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263746)  
   Bjarke Mønsted, Sune Lehmann  
   PloS one 17 (2), e0263746, cited by: 42
+- [What human mobility data tell us about COVID-19 spread](https://www.nature.com/articles/s42254-021-00407-1)  
+  Laura Alessandretti  
+  Nature Reviews Physics 4 (1), 12-13, cited by: 41
 - [Rising temperatures erode human sleep globally](https://www.sciencedirect.com/science/article/pii/S2590332222002093)  
   Kelton Minor, Andreas Bjerre-Nielsen, Sigga Svala Jonasdottir, Sune Lehmann, Nick Obradovich  
   One Earth 5 (5), 534-549, cited by: 33
@@ -87,6 +99,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Germany’s fourth COVID-19 wave was mainly driven by the unvaccinated](https://www.nature.com/articles/s43856-022-00176-7)  
   Benjamin F Maier, Marc Wiedermann, Angelique Burdinski, Pascal P Klamser, Mirjam A Jenny, Cornelia Betsch, Dirk Brockmann  
   Communications Medicine 2 (1), 1-9, cited by: 7
+- [Self-induced consensus of Reddit users to characterise the GameStop short squeeze](https://www.nature.com/articles/s41598-022-17925-2)  
+  Anna Mancini, Antonio Desiderio, Riccardo Di Clemente, Giulio Cimini  
+  Scientific reports 12 (1), 13780, cited by: 6
 - [Evidence for positive long-and short-term effects of vaccinations against COVID-19 in wearable sensor metrics--Insights from the German Corona Data Donation Project](https://arxiv.org/abs/2204.02846)  
   Marc Wiedermann, Annika H Rose, Benjamin F Maier, Jakob J Kolb, David Hinrichs, Dirk Brockmann  
   arXiv preprint arXiv:2204.02846, cited by: 6
@@ -115,14 +130,20 @@ This is a combined list of publications that we authored or co-authored. If you'
   Valentin Hartmann, Léo Meynent, Maxime Peyrard, Dimitrios Dimitriadis, Shruti Tople, Robert West  
   arXiv preprint arXiv:2209.08541, cited by: 3
 - [Enhancing global preparedness during an ongoing pandemic from partial and noisy data](https://www.medrxiv.org/content/10.1101/2022.08.19.22278981.abstract)  
-  Pascal Klamser, Valeria d’Andrea, Francesco Di Lauro, Adrian Zachariae, Sebastiano Bontorin, Antonello di Nardo, Matthew Hall, Benjamin F Maier, Luca Ferretti, Dirk Brockmann, Manlio De Domenico  
+  Pascal Klamser, Valeria d’Andrea, Francesco Di Lauro, Adrian Zachariae, Sebastiano Bontorin, Antonello di Nardo, Matthew Hall, Benjamin F Maier, Luca Ferretti, ..., Manlio De Domenico  
   medRxiv.08. 19.22278981, cited by: 2
+- [Abschätzung der Infektionswelle durch die SARS-CoV-2 VOC Omikron](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Modellierung_Omikronwelle_Bericht.pdf?__blob=publicationFile)  
+  Benjamin F Maier, Angelique Burdinski, Marc Wiedermann, Matthias an der Heiden, Thomas Harder, Frank Schlosser, Dirk Brockmann  
+  Robert Koch Institute 205, 0, cited by: 2
 - [Different networks for different purposes: A network science perspective on collaboration and communication in an engineering design project](https://www.sciencedirect.com/science/article/pii/S0166361522001427)  
   Sebastiano A Piccolo, Sune Lehmann, Anja M Maier  
   Computers in Industry 142, 103745, cited by: 1
 - [Chunyun versus lockdown](https://academic.oup.com/nsr/article-abstract/9/1/nwab178/6380497)  
   Sune Lehmann  
   National Science Review 9 (1), nwab178, cited by: 1
+- [Multiplex mobility network and metapopulation epidemic simulations of Italy based on open data](https://iopscience.iop.org/article/10.1088/2632-072X/ac9a29/meta)  
+  Antonio Desiderio, Gaetano Salina, Giulio Cimini  
+  Journal of Physics: Complexity 3 (4), cited by: 1
 - [Climate Change and Substance-Use Behaviors: A Risk-Pathways Framework](https://journals.sagepub.com/doi/abs/10.1177/17456916221132739)  
   Francis Vergunst, Helen L Berry, Kelton Minor, Nicholas Chadi  
   Perspectives on Psychological Science, 17456916221132739, cited by: 1
@@ -138,9 +159,15 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Using machine learning to identify quality-of-care predictors for emergency caesarean sections: a retrospective cohort study](https://bmjopen.bmj.com/content/12/3/e049046.abstract)  
   Betina Ristorp Andersen, Ida Ammitzbøll, Jesper Hinrich, Sune Lehmann, Charlotte Vibeke Ringsted, Ellen Christine Leth Løkkegaard, Martin G Tolsgaard  
   BMJ open 12 (3), e049046
+- [The Rules of Contagion: Why Things Spread—And Why They Stop: by Adam Kucharski BASIC BOOKS, 2020, 352 PP., US$30.00, ISBN-13: 978154167431](https://link.springer.com/article/10.1007/s00283-021-10107-4)  
+  Sune Lehmann, Jonas L Juul  
+  The Mathematical Intelligencer 44 (1), 76-77
 - [The role of space, time and sociability in predicting social encounters](https://journals.sagepub.com/doi/pdf/10.1177/23998083211016871)  
   Christoph Stich, Emmanouil Tranos, Mirco Musolesi, Sune Lehmann  
   Environment and Planning B: Urban Analytics and City Science 49 (2), 619-636
+- [A manifesto for science communication as collective intelligence](https://pure.mpg.de/rest/items/item_3388194/component/file_3388196/content)  
+  Dawn Holford, Angelo Fasce, Katy Tapper, Miso Demko, Stephan Lewandowsky, Ulrike Hahn, Ahmed Al-Rawi, Sameer Alladin, T Sonia Boender, ..., Marlene Wulf  
+  mpg.de
 - [Comparing the efficiency of forward and backward contact tracing](https://arxiv.org/abs/2206.15080)  
   Jonas L Juul, Steven H Strogatz  
   arXiv preprint arXiv:2206.15080
@@ -150,6 +177,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Urban Mobility](https://arxiv.org/abs/2211.00355)  
   Laura Alessandretti, Michael Szell  
   arXiv preprint arXiv:2211.00355
+- [Experience Exceeds Awareness of Anthropogenic Climate Change in Greenland](https://www.researchsquare.com/article/rs-2304659/latest.pdf)  
+  Kelton Minor, Manumina Lund-Jensen, Lawrence Hamilton, Mette Bendixen, David Dreyer Lassen, Minik Rosing  
+  Preprint (Research Square)
 - [Awareness of Human-Caused Climate Change in Greenland: Illuminating a Science-Society Gulf](https://ui.adsabs.harvard.edu/abs/2022AGUFMSY34B..01M/abstract)  
   Kelton Minor, Lawrence Hamilton, Manumina Lund Jensen, Mette Bendixen, Minik Rosing, David Dreyer Lassen  
   AGU Fall Meeting Abstracts 2022, SY34B-01
@@ -160,6 +190,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 #### 2021
 
 
+- [The 2021 report of the Lancet Countdown on health and climate change: code red for a healthy future](https://www.thelancet.com/article/S0140-6736(21)01787-6/fulltext)  
+  Marina Romanello, Alice McGushin, Claudia Di Napoli, Paul Drummond, Nick Hughes, Louis Jamart, Harry Kennard, Pete Lampard, Baltazar Solano Rodriguez, ..., Ian Hamilton  
+  The Lancet 398 (10311), 1619-1662, cited by: 566
 - [Mapping the NFT revolution: market trends, trade networks, and visual features](https://www.nature.com/articles/s41598-021-00053-8)  
   Matthieu Nadini, Laura Alessandretti, Flavio Di Giacinto, Mauro Martino, Luca Maria Aiello, Andrea Baronchelli  
   Scientific reports 11 (1), 20902, cited by: 322
@@ -178,6 +211,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Comparing information diffusion mechanisms by matching on cascade size](https://www.pnas.org/doi/abs/10.1073/pnas.2100786118)  
   Jonas L Juul, Johan Ugander  
   Proceedings of the National Academy of Sciences 118 (46), e2100786118, cited by: 43
+- [First lattice calculation of radiative leptonic decay rates of pseudoscalar mesons](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.014502)  
+  A Desiderio, R Frezzotti, M Garofalo, D Giusti, Martin Hansen, V Lubicz, G Martinelli, CT Sachrajda, F Sanfilippo, ..., N Tantalo  
+  Physical Review D 103 (1), 014502, cited by: 41
 - [Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles](https://www.nature.com/articles/s41567-020-01121-y)  
   Jonas L Juul, Kaare Græsbøll, Lasse Engbo Christiansen, Sune Lehmann  
   Nature physics 17 (1), 5-8, cited by: 17
@@ -188,7 +224,7 @@ This is a combined list of publications that we authored or co-authored. If you'
   Federico Delussu, Davide Manzione, Rosa Meo, Gabriele Ottino, Mark Asare  
   IEEE Transactions on Industrial Informatics 18 (6), 4018-4028, cited by: 9
 - [Big Data as Uncertain Archives](https://www.academia.edu/download/65753413/Uncertain_Archives_TOC.pdf)  
-  Bonde Thylstrup, Daniela Agostinho, Annie Ring, Catherine D’Ignazio, Kristin Veel, Sarah T Roberts, Marika Cifor, Sune Lehmann, Alana Lentin, Aristea Fotopoulou, Tanya Kant  
+  Bonde Thylstrup, Daniela Agostinho, Annie Ring, Catherine D’Ignazio, Kristin Veel, Sarah T Roberts, Marika Cifor, Sune Lehmann, Alana Lentin, ..., Tanya Kant  
   Uncertain Archives: Critical Keywords for Big Data, 1-28, cited by: 8
 - [Temporal and cultural limits of privacy in smartphone app usage](https://link.springer.com/content/pdf/10.1038/s41598-021-82294-1.pdf)  
   Vedran Sekara, Laura Alessandretti, Enys Mones, Håkan Jonsson  
@@ -209,7 +245,7 @@ This is a combined list of publications that we authored or co-authored. If you'
   Federico Delussu, Faisal Imran, Christian Mattia, Rosa Meo  
   Sensors 21 (14), 4733, cited by: 5
 - [Potential benefits of delaying the second mRNA COVID-19 vaccine dose](https://arxiv.org/abs/2102.13600)  
-  Benjamin F Maier, Angelique Burdinski, Annika H Rose, Frank Schlosser, David Hinrichs, Cornelia Betsch, Lars Korn, Philipp Sprengholz, Michael Meyer-Hermann, Tanmay Mitra, Karl Lauterbach, Dirk Brockmann  
+  Benjamin F Maier, Angelique Burdinski, Annika H Rose, Frank Schlosser, David Hinrichs, Cornelia Betsch, Lars Korn, Philipp Sprengholz, Michael Meyer-Hermann, ..., Dirk Brockmann  
   arXiv preprint arXiv:2102.13600, cited by: 5
 - [Emergence of network effects and predictability in the judicial system](https://link.springer.com/content/pdf/10.1038/s41598-021-82430-x.pdf)  
   Enys Mones, Piotr Sapieżyński, Simon Thordal, Henrik Palmer Olsen, Sune Lehmann  
@@ -226,6 +262,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Dose–response functions and surrogate models for exploring social contagion in the Copenhagen Networks Study](https://link.springer.com/article/10.1140/epjs/s11734-021-00279-7)  
   Jonathan F Donges, Jakob H Lochner, Niklas H Kitzmann, Jobst Heitzig, Sune Lehmann, Marc Wiedermann, Jürgen Vollmer  
   The European Physical Journal Special Topics 230 (16-17), 3311-3334, cited by: 2
+- [Trip frequency is key ingredient in new law of human travel](https://www.nature.com/articles/d41586-021-01355-7/feed/)  
+  Laura Alessandretti, Sune Lehmann  
+  Nature 593 (7860), 515-516, cited by: 2
 - [A new computational model for human navigation](https://www.nature.com/articles/s43588-021-00118-8)  
   Laura Alessandretti  
   Nature Computational Science 1 (10), 642-643, cited by: 2
@@ -244,9 +283,18 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Law of human travel uncovered](https://orbit.dtu.dk/en/publications/law-of-human-travel-uncovered)  
   Laura Alessandretti, Sune Lehmann Jørgensen  
   Nature 593 (7860), 515-516, cited by: 1
+- [Die 4. COVID-19-Welle wurde durch fehlenden Impfschutz angestoßen: Was ist zu tun?](https://edoc.rki.de/handle/176904/9069)  
+  Benjamin F Maier, Angelique Burdinski, Pascal Klamser, Marc Wiedermann, Mirjam A Jenny, Cornelia Betsch, Dirk Brockmann  
+  Robert Koch-Institut, cited by: 1
 - [From centre to centres: polycentric structures in individual mobility](https://arxiv.org/abs/2108.08113)  
   Rohit Sahasrabuddhe, Renaud Lambiotte, Laura Alessandretti  
   arXiv preprint arXiv:2108.08113
+- [Animal social networks](https://orbit.dtu.dk/files/258688001/cnab001.pdf)  
+  Josefine Bohr Brask, Samuel Ellis, Darren P Croft  
+  dtu.dk
+- [A view from data science](https://philpapers.org/rec/LEHAVF)  
+  Sune Lehmann, Anna Sapienza  
+  philpapers.org
 
 #### 2020
 
@@ -254,6 +302,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Effective containment explains subexponential growth in recent confirmed COVID-19 cases in China](https://www.science.org/doi/abs/10.1126/science.abb4557)  
   Benjamin F Maier, Dirk Brockmann  
   Science 368 (6492), 742-746, cited by: 926
+- [Mobile phone data for informing public health actions across the COVID-19 pandemic life cycle](https://www.science.org/doi/abs/10.1126/sciadv.abc0764)  
+  Nuria Oliver, Bruno Lepri, Harald Sterly, Renaud Lambiotte, Sébastien Deletaille, Marco De Nadai, Emmanuel Letouzé, Albert Ali Salah, Richard Benjamins, ..., Patrick Vinck  
+  Science advances 6 (23), eabc0764, cited by: 590
 - [COVID-19 lockdown induces disease-mitigating structural changes in mobility networks](https://www.pnas.org/doi/abs/10.1073/pnas.2012326117)  
   Frank Schlosser, Benjamin F Maier, Olivia Jack, David Hinrichs, Adrian Zachariae, Dirk Brockmann  
   Proceedings of the National Academy of Sciences 117 (52), 32883-32890, cited by: 293
@@ -264,7 +315,7 @@ This is a combined list of publications that we authored or co-authored. If you'
   Laura Alessandretti, Ulf Aslak, Sune Lehmann  
   Nature 587 (7834), 402-407, cited by: 132
 - [Give more data, awareness and control to individual citizens, and they will help COVID-19 containment](https://link.springer.com/article/10.1007/s10676-020-09572-w?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20210203&error=cookies_not_supported&code=6b6d6ff2-7a79-407c-88f5-249cc26e3a94)  
-  Mirco Nanni, Gennady Andrienko, Chiara Boldrini, Francesco Bonchi, Ciro Cattuto, Francesca Chiaromonte, Giovanni Comandé, Marco Conti, Mark Coté, Frank Dignum, Virginia Dignum, Josep Domingo-Ferrer, Fosca Giannotti, Riccardo Guidotti, Dirk Helbing, Janos Kertesz, Sune Lehmann, Bruno Lepri, Paul Lukowicz, Anna Monreale, Katharina Morik, Nuria Oliver, Andrea Passarella, Andrea Passerini, Dino Pedreschi, Alex Pentland, Francesca Pratesi, Salvatore Rinzivillo, Salvatore Ruggieri, Arno Siebes, Roberto Trasarti, Jeroen van den Hoven, Alessandro Vespignani  
+  Mirco Nanni, Gennady Andrienko, Chiara Boldrini, Francesco Bonchi, Ciro Cattuto, Francesca Chiaromonte, Giovanni Comandé, Marco Conti, Mark Coté, ..., Alessandro Vespignani  
   Transactions on Data Privacy 13 (1), 61-66, cited by: 61
 - [Does streaming esports affect players’ behavior and performance?](https://journals.sagepub.com/doi/pdf/10.1177/1555412019838095)  
   Akira Matsui, Anna Sapienza, Emilio Ferrara  
@@ -285,7 +336,7 @@ This is a combined list of publications that we authored or co-authored. If you'
   Andreas Bjerre-Nielsen, Kelton Minor, Piotr Sapieżyński, Sune Lehmann, David Dreyer Lassen  
   PloS one 15 (7), e0234003, cited by: 20
 - [Comprehensive integrated NGS-based surveillance and contact-network modeling unravels transmission dynamics of vancomycin-resistant enterococci in a high-risk population within a tertiary care hospital](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235160)  
-  Bernd Neumann, Jennifer K Bender, Benjamin F Maier, Alice Wittig, Stephan Fuchs, Dirk Brockmann, Torsten Semmler, Hermann Einsele, Sabrina Kraus, Lothar H Wieler, Ulrich Vogel, Guido Werner  
+  Bernd Neumann, Jennifer K Bender, Benjamin F Maier, Alice Wittig, Stephan Fuchs, Dirk Brockmann, Torsten Semmler, Hermann Einsele, Sabrina Kraus, ..., Guido Werner  
   PloS one 15 (6), e0235160, cited by: 16
 - [Infostop: scalable stop-location detection in multi-user mobility data](https://arxiv.org/abs/2003.14370)  
   Ulf Aslak, Laura Alessandretti  
@@ -302,6 +353,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Descendant distributions for the impact of mutant contagion on networks](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033005)  
   Jonas S Juul, Steven H Strogatz  
   Physical Review Research 2 (3), 033005, cited by: 8
+- [Spreading Processes in Human Systems](https://edoc.hu-berlin.de/handle/18452/21788)  
+  Benjamin F Maier  
+  Humboldt-Universität zu Berlin, cited by: 3
 - [Modularity, robustness, and change propagation: a multifaceted relation](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/modularity-robustness-and-change-propagation-a-multifaceted-relation/C9650B03547EF5DBA2009910352F3F9F)  
   SA Piccolo, S Lehmann, AM Maier  
   Proceedings of the Design Society: DESIGN Conference 1, 2335-2344, cited by: 1
@@ -320,9 +374,21 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Interacting contagions](https://www.nature.com/articles/s41567-020-0817-9)  
   Sune Lehmann  
   Nature Physics 16 (4), 377-378
+- [Inferring transportation mode from smartphone sensors: Evaluating the potential of Wi-Fi and Bluetooth](https://vbn.aau.dk/files/413515004/pone.0234003.pdf)  
+  Kelton Minor, Piotr Sapieżyński, Sune Lehmann, David Dreyer Lassen  
+  aau.dk
+- [Mobile phone data and COVID-19: Missing an opportunity?(preprint)](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/ppzbmed-2003.12347v1)  
+  Nuria Oliver, Emmanuel Letouzé, Harald Sterly, Sébastien Delataille, Marco De Nadai, Bruno Lepri, Renaud Lambiotte, Richard Benjamins, Ciro Cattuto, ..., Patrick Vinck  
+  bvsalud.org
+- [Applying Bayesian Networks to Reduce Fuel Consumption in Public Transportation](https://iris.unito.it/handle/2318/1836872)  
+  Federico Delussu, Faisal Imran, Rosa Meo, Michela Pellegrino  
+  I-CiTies 2020-6th CINI Annual Conference on ICT for Smart Cities …
 - [Animal social networks--an introduction for complex systems scientists](https://ui.adsabs.harvard.edu/abs/2020arXiv200509598B/abstract)  
   Josefine Bohr Brask, Samuel Ellis, Darren P Croft  
   arXiv e-prints, arXiv: 2005.09598
+- [Simulations of Dyon Configurations in SU (2) Yang-Mills Theory](https://edoc.hu-berlin.de/handle/18452/21790)  
+  Benjamin Frank Maier  
+  Humboldt-Universität zu Berlin
 
 #### 2019
 
@@ -339,8 +405,11 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Deep neural networks for optimal team composition](https://www.frontiersin.org/articles/10.3389/fdata.2019.00014/full)  
   Anna Sapienza, Palash Goyal, Emilio Ferrara  
   Frontiers in big Data 2, 14, cited by: 37
+- [Greenlandic Perspectives on Climate Change 2018–2019: Results from a National Survey](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3667214)  
+  Kelton Minor, Gustav Agneman, Davidsen Navarana, Kleemann Nadine, Markussen Ulunnguaq, Lassen David Dreyer, Rosing Minik Thorleif  
+  University of Greenland and University of Copenhagen. Kraks Fond Institute …, cited by: 30
 - [Evolution of non-kin cooperation: social assortment by cooperative phenotype in guppies](https://royalsocietypublishing.org/doi/abs/10.1098/rsos.181493)  
-  Josefine Bohr Brask, Darren P Croft, Mathew Edenbrow, Richard James, Bronwyn H Bleakley, Indar W Ramnarine, Robert JP Heathcote, Charles R Tyler, Patrick B Hamilton, Torben Dabelsteen, Safi K Darden  
+  Josefine Bohr Brask, Darren P Croft, Mathew Edenbrow, Richard James, Bronwyn H Bleakley, Indar W Ramnarine, Robert JP Heathcote, Charles R Tyler, Patrick B Hamilton, ..., Safi K Darden  
   Royal Society Open Science 6 (1), 181493, cited by: 27
 - [Wikipedia and cryptocurrencies: interplay between collective attention and market performance](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00012/full)  
   Abeer ElBahrawy, Laura Alessandretti, Andrea Baronchelli  
@@ -358,7 +427,7 @@ This is a combined list of publications that we authored or co-authored. If you'
   Sune Lehmann  
   Temporal Network Theory, 25-48, cited by: 14
 - [Massive multi-agent data-driven simulations of the github ecosystem](https://link.springer.com/chapter/10.1007/978-3-030-24209-1_1)  
-  Jim Blythe, John Bollenbacher, Di Huang, Pik-Mai Hui, Rachel Krohn, Diogo Pacheco, Goran Muric, Anna Sapienza, Alexey Tregubov, Yong-Yeol Ahn, Alessandro Flammini, Kristina Lerman, Filippo Menczer, Tim Weninger, Emilio Ferrara  
+  Jim Blythe, John Bollenbacher, Di Huang, Pik-Mai Hui, Rachel Krohn, Diogo Pacheco, Goran Muric, Anna Sapienza, Alexey Tregubov, ..., Emilio Ferrara  
   Advances in Practical Applications of Survivable Agents and Multi-Agent …, cited by: 13
 - [Netwulf: Interactive visualization of networks in Python](https://joss.theoj.org/papers/10.21105/joss.01425.pdf)  
   Ulf Aslak, Benjamin F. Maier  
@@ -367,7 +436,7 @@ This is a combined list of publications that we authored or co-authored. If you'
   Yilei Zeng, Anna Sapienza, Emilio Ferrara  
   IEEE Transactions on Games 13 (4), 358-367, cited by: 12
 - [The DARPA SocialSim Challenge: Massive Multi-Agent Simulations of the Github Ecosystem.](https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1835.pdf)  
-  James Blythe, Emilio Ferrara, Di Huang, Kristina Lerman, Goran Muric, Anna Sapienza, Alexey Tregubov, Diogo Pacheco, John Bollenbacher, Alessandro Flammini, Pik-Mai Hui, Filippo Menczer  
+  James Blythe, Emilio Ferrara, Di Huang, Kristina Lerman, Goran Muric, Anna Sapienza, Alexey Tregubov, Diogo Pacheco, John Bollenbacher, ..., Filippo Menczer  
   AAMAS, 1835-1837, cited by: 12
 - [Generalization of the small-world effect on a model approaching the Erdős–Rényi random graph](https://link.springer.com/content/pdf/10.1038/s41598-019-45576-3.pdf)  
   Benjamin F Maier  
@@ -376,7 +445,7 @@ This is a combined list of publications that we authored or co-authored. If you'
   Zhao Wang, Anna Sapienza, Aron Culotta, Emilio Ferrara  
   2019 IEEE Conference on Games (CoG), 1-8, cited by: 10
 - [Wearable proximity sensors for monitoring a mass casualty incident exercise: feasibility study](https://www.jmir.org/2019/4/e12251/)  
-  Laura Ozella, Laetitia Gauvin, Luca Carenzo, Marco Quaggiotto, Pier Luigi Ingrassia, Michele Tizzoni, André Panisson, Davide Colombo, Anna Sapienza, Kyriaki Kalimeri, Francesco Della Corte, Ciro Cattuto  
+  Laura Ozella, Laetitia Gauvin, Luca Carenzo, Marco Quaggiotto, Pier Luigi Ingrassia, Michele Tizzoni, André Panisson, Davide Colombo, Anna Sapienza, ..., Ciro Cattuto  
   Journal of medical internet research 21 (4), e12251, cited by: 10
 - [Quantifying long-term impact of court decisions](https://appliednetsci.springeropen.com/articles/10.1007/s41109-018-0110-3)  
   Jorge C Leitão, Sune Lehmann, Henrik Palmer Olsen  
@@ -390,6 +459,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Temporally intermittent communities in brain fMRI correlation networks](https://link.springer.com/article/10.1007/s41109-019-0178-4)  
   Ulf Aslak, Søren FV Nielsen, Morten Mørup, Sune Lehmann  
   Applied Network Science 4, 1-12, cited by: 2
+- [Synchronisation, shocks and contagion in a connected world](https://nbi.ku.dk/english/theses/phd-theses/jonas-soegaard-juul/JonasL-Juul.pdf)  
+  Jonas Søgaard Juul  
+  Niels Bohr Institute
 - [Connected cooperators and Trojan horses: How correlations between cooperativeness and social connectedness affect the evolution of cooperation](https://arxiv.org/abs/1908.05923)  
   Josefine Bohr Brask, Jonatan Bohr Brask  
   arXiv preprint arXiv:1908.05923
@@ -415,6 +487,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Complex spreading phenomena in social systems](https://link.springer.com/content/pdf/10.1007/978-3-319-77332-2.pdf)  
   Sune Lehmann, Yong-Yeol Ahn  
   Computational Social Sciences 10, 978-3, cited by: 84
+- [Discover: Mining online chatter for emerging cyber threats](https://dl.acm.org/doi/abs/10.1145/3184558.3191528)  
+  Anna Sapienza, Sindhu Kiranmai Ernala, Alessandro Bessi, Kristina Lerman, Emilio Ferrara  
+  Companion Proceedings of the The Web Conference 2018, 983-990, cited by: 61
 - [Social network differences of chronotypes identified from mobile phone data](https://epjds.epj.org/articles/epjdata/abs/2018/01/13688_2018_Article_174/13688_2018_Article_174.html)  
   Talayeh Aledavood, Sune Lehmann, Jari Saramäki  
   EPJ Data Science 7 (1), 46, cited by: 50
@@ -433,6 +508,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Understanding the interplay between social and spatial behaviour](https://epjds.epj.org/articles/epjdata/abs/2018/01/13688_2018_Article_164/13688_2018_Article_164.html)  
   Laura Alessandretti, Sune Lehmann, Andrea Baronchelli  
   EPJ Data Science 7 (1), 36, cited by: 39
+- [Recommending teammates with deep neural networks](https://dl.acm.org/doi/abs/10.1145/3209542.3209569)  
+  Palash Goyal, Anna Sapienza, Emilio Ferrara  
+  Proceedings of the 29th on Hypertext and Social Media, 57-61, cited by: 23
 - [Design process robustness: a bipartite network analysis reveals the central importance of people](https://www.cambridge.org/core/journals/design-science/article/design-process-robustness-a-bipartite-network-analysis-reveals-the-central-importance-of-people/77F4815D5D79419A8712265A7F6B6890)  
   Sebastiano A Piccolo, Sune Lehmann, Anja Maier  
   Design Science 4, e1, cited by: 21
@@ -463,6 +541,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Isospectral discrete and quantum graphs with the same flip counts and nodal counts](https://iopscience.iop.org/article/10.1088/1751-8121/aac039/meta)  
   Jonas S Juul, Christopher H Joyner  
   Journal of Physics A: Mathematical and Theoretical 51 (24), 245101, cited by: 4
+- [Individual mobility in context: From high resolution trajectories to social behaviour](https://openaccess.city.ac.uk/id/eprint/20077/)  
+  L Alessandretti  
+  City, University of London, cited by: 3
 - [Playing under the influence (of Twitch) : The effects of streaming on gamers’ performance.](None)  
   Akira Matsui, Anna Sapienza, Emilio Ferrara  
   E-sports Conference
@@ -518,6 +599,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Using data-and network science to reveal iterations and phase-transitions in the design process](https://www.designsociety.org/publication/39555/using_data-and_network_science_to_reveal_iterations_and_phase-transitions_in_the_design_process)  
   Sebastiano Piccolo, Sune Lehmann, Anja Maier  
   DS 87-2 Proceedings of the 21st International Conference on Engineering …, cited by: 10
+- [Tensor decomposition techniques for analysing time-varying networks](None)  
+  Anna Sapienza  
+  Politecnico di Torino
 
 #### 2016
 
@@ -535,7 +619,7 @@ This is a combined list of publications that we authored or co-authored. If you'
   Laura Alessandretti, Márton Karsai, Laetitia Gauvin  
   Royal Society open science 3 (7), 160156, cited by: 29
 - [Rac signal adaptation controls neutrophil mobilization from the bone marrow](https://www.science.org/doi/abs/10.1126/scisignal.aah5882)  
-  Carlo Cosimo Campa, Giulia Germena, Elisa Ciraolo, Francesca Copperi, Anna Sapienza, Irene Franco, Alessandra Ghigo, Annalisa Camporeale, Augusta Di Savino, Miriam Martini, Alessia Perino, Remco TA Megens, Angela RM Kurz, Christoph Scheiermann, Markus Sperandio, Andrea Gamba, Emilio Hirsch  
+  Carlo Cosimo Campa, Giulia Germena, Elisa Ciraolo, Francesca Copperi, Anna Sapienza, Irene Franco, Alessandra Ghigo, Annalisa Camporeale, Augusta Di Savino, ..., Emilio Hirsch  
   Science Signaling 9 (459), ra124-ra124, cited by: 16
 - [Geoplotlib: a python toolbox for visualizing geographical data](https://arxiv.org/abs/1608.01933)  
   Andrea Cuttone, Sune Lehmann, Jakob Eg Larsen  
@@ -553,6 +637,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Digital daily cycles of individuals](https://www.frontiersin.org/articles/10.3389/fphy.2015.00073/full)  
   Talayeh Aledavood, Sune Lehmann, Jari Saramäki  
   Frontiers in Physics 3, 73, cited by: 55
+- [Opportunities and challenges in crowdsourced wardriving](https://dl.acm.org/doi/abs/10.1145/2815675.2815711)  
+  Piotr Sapiezynski, Radu Gatej, Alan Mislove, Sune Lehmann  
+  Proceedings of the 2015 Internet Measurement Conference, 267-273, cited by: 37
 - [Robustness and modular structure in networks](https://www.cambridge.org/core/journals/network-science/article/robustness-and-modular-structure-in-networks/E4BA8E6D6B2260607D6AF9E7B9696EBF)  
   James P Bagrow, Sune Lehmann, Yong-Yeol Ahn  
   Network Science 3 (4), cited by: 36
@@ -565,6 +652,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Anomaly detection in temporal graph data: An iterative tensor decomposition and masking approach](https://hub.hku.hk/handle/10722/248213)  
   Anna Sapienza, André Panisson, JTK Wu, Laetitia Gauvin, Ciro Cattuto  
   International Workshop on Advanced Analytics and Learning on Temporal Data …, cited by: 11
+- [Anomaly detection in temporal graph data: An iterative tensor](https://core.ac.uk/download/pdf/129920900.pdf)  
+  A Sapienza, A Panisson, JTK Wu, L Gauvin, C Cattuto  
+  core.ac.uk
 
 #### 2014
 
@@ -581,12 +671,24 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Privacy in sensor-driven human data collection: A guide for practitioners](https://arxiv.org/abs/1403.5299)  
   Arkadiusz Stopczynski, Riccardo Pietri, Alex Pentland, David Lazer, Sune Lehmann  
   arXiv preprint arXiv:1403.5299, cited by: 33
+- [Inferring human mobility from sparse low accuracy mobile sensing data](https://dl.acm.org/doi/abs/10.1145/2638728.2641283)  
+  Andrea Cuttone, Sune Lehmann, Jakob Eg Larsen  
+  Proceedings of the 2014 ACM International Joint Conference on Pervasive and …, cited by: 32
+- [Community Detection, Current and Future Research Trends.](https://scholar.google.com/scholar?cluster=12913145611100706843&hl=en&oi=scholarr)  
+  Sune Lehmann  
+  Encyclopedia of Social Network Analysis and Mining, 214-220, cited by: 2
+- [Visualizing multi-channel networks](https://dspace5.zcu.cz/handle/11025/11939)  
+  Paweł Antemijczuk, Marta Magiera, Sune Lehmann, Andrea Cuttone, Jakob Eg Larsen  
+  Václav Skala-UNION Agency, cited by: 1
 - [Vores forskning er ikke til salg](https://pure.itu.dk/portal/en/publications/vores-forskning-er-ikke-til-salg)  
   Anders Søgaard, Rebecca Adler-Nissen, Steffen Dalsgaard, Vibe Gedsø Frøkjær, Kristin Veel, Sune Lehmann, Kresten Lindorff-Larsen  
   Politiken
 - [Visualizing QS Data Using Time Spirals](https://oaklab.org/wp-content/uploads/2014/05/QSEU14_QS_Spiral.pdf)  
   Jakob Eg Larsen, Andrea Cuttone, Sune Lehmann  
   Quantified Self Europe Conference (QSEU 2014)
+- [Networks in the Twenty-First Century.](https://scholar.google.com/scholar?cluster=3074368047628616380&hl=en&oi=scholarr)  
+  Sune Lehmann  
+  Encyclopedia of Social Network Analysis and Mining, 1136-1141
 
 #### 2013
 
@@ -594,6 +696,9 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Participatory bluetooth sensing: A method for acquiring spatio-temporal data about participant mobility and interactions at large scale events](https://ieeexplore.ieee.org/abstract/document/6529489/)  
   Arkadiusz Stopczynski, Jakob Eg Larsen, Sune Lehmann, Lukasz Dynowski, Marcos Fuentes  
   Pervasive Computing and Communications Workshops (PERCOM Workshops) …, cited by: 52
+- [A mobile personal informatics system with interactive visualizations of mobility and social interactions](https://dl.acm.org/doi/abs/10.1145/2509352.2509397)  
+  Andrea Cuttone, Sune Lehmann, Jakob Eg Larsen  
+  Proceedings of the 1st ACM international workshop on Personal data meets …, cited by: 28
 
 #### 2012
 
@@ -640,9 +745,15 @@ This is a combined list of publications that we authored or co-authored. If you'
 #### 2009
 
 
+- [Bipartite networks of Wikipedia's articles and authors: a meso-level approach](https://dl.acm.org/doi/abs/10.1145/1641309.1641318)  
+  Rut Jesus, Martin Schwartz, Sune Lehmann  
+  Proceedings of the 5th international symposium on Wikis and open …, cited by: 57
 - [Comment: Citation Statistics](https://projecteuclid.org/journals/statistical-science/volume-24/issue-1/Comment-Citation-Statistics/10.1214/09-STS285B.short)  
   Sune Lehmann, Benny E Lautrup, Andrew D Jackson  
   Statistical Science 24 (1), 17-20, cited by: 3
+- [Structures in Complex Bipartite Networks](https://www.igi-global.com/chapter/open-information-management/27795)  
+  Sune Lehmann  
+  Open Information Management: Applications of Interconnectivity and …
 
 #### 2008
 
@@ -656,6 +767,12 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [A quantitative analysis of indicators of scientific performance](https://akjournals.com/view/journals/11192/76/2/article-p369.xml)  
   Sune Lehmann, Andrew D Jackson, Benny E Lautrup  
   Scientometrics 76 (2), 369-390, cited by: 118
+- [Dissecting the canon: Visual subject co-popularity networks in art research](https://archiv.ub.uni-heidelberg.de/artdok/711)  
+  Maximilian Schich, Sune Lehmann, Juyong Park  
+  Universitätsbibliothek der Universität Heidelberg, cited by: 12
+- [The network of subject co-popularity in Classical Archaeology](https://archiv.ub.uni-heidelberg.de/artdok/715)  
+  Maximilian Schich, César Hidalgo, Sune Lehmann, Juyong Park  
+  uni-heidelberg.de, cited by: 7
 
 #### 2007
 
@@ -693,4 +810,7 @@ This is a combined list of publications that we authored or co-authored. If you'
 - [Citation networks in high energy physics](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.68.026113)  
   S Lehmann, B Lautrup, AD Jackson  
   Physical Review E 68 (2), 026113, cited by: 190
+- [Spires on the Building of Science](https://lss.fnal.gov/archive/other/thesis/lehmann-s.pdf)  
+  Sune Lehmann  
+  University of Copenhagen. Niels Bohr Institute, cited by: 2
 

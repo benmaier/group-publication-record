@@ -6,7 +6,19 @@ from rich import print
 
 from itertools import groupby
 
+import re
+import tldextract
+
+MAX_AUTHOR = 10
 USE_TITLE_AS_LINK_TO_PAPER = True
+
+
+def extract_domain(url):
+    extracted = tldextract.extract(url)
+    domain = extracted.domain + '.' + extracted.suffix
+    return domain
+
+
 
 def get_id(pub):
     return pub['title'] + ' ' + ','.join(pub['author'])
@@ -20,29 +32,41 @@ for file in files:
     pubs.extend(these_pubs)
 
 
+for pub in pubs:
+    #if pub['journal'] is None and pub['conference'] is None and (pub['citation']=='' or pub['citation'] is None):
+    #    print(pub)
+    if pub['journal'] is None and pub['conference'] is None and (pub['citation']=='' or pub['citation'] is None) and pub['pub_url'] is not None:
+        if 'researchsquare' in pub['pub_url']:
+            pub['journal'] = 'Research Square'
+            pub['citation'] = 'Preprint (Research Square)'
+        elif 'scholar.google' not in pub['pub_url']:
+            pub['citation'] = extract_domain(pub['pub_url'])
+        #print(pub)
 
-pubs = list(filter(lambda p: not (p['conference'] is None and p['journal'] is None) and p['pub_year'] is not None, pubs))
+pubs = list(filter(lambda p: not (p['conference'] is None and p['journal'] is None and (p['citation']=='' or p['citation'] is None)) and p['pub_year'] is not None, pubs))
 
-titles = set([ pub['title'] for pub in pubs])
+
 
 # this block for filtering titles that end on preprint
-#newpubs = []
-#for pub in pubs:
-#    title = pub['title']
-#    if title.endswith('(preprint)') or title.endswith('(Preprint)'):
-#        if title.endswith('(preprint)'):
-#            title = title.split('(preprint)')[0]
-#        if title.endswith('(Preprint)'):
-#            title = title.split('(Preprint)')[0]
-#        cleantitle = title.rstrip(' ')
-#        print(title, cleantitle)
-#        if cleantitle not in titles:
-#            newpubs.append(pub)
-#    else:
-#        newpubs.append(pub)
-#
-#print(len(pubs))
-#print(len(newpubs))
+titles = set([ pub['title'] for pub in pubs])
+newpubs = []
+for pub in pubs:
+    title = pub['title']
+    if title.endswith('(preprint)') or title.endswith('(Preprint)'):
+        if title.endswith('(preprint)'):
+            title = title.split('(preprint)')[0]
+        if title.endswith('(Preprint)'):
+            title = title.split('(Preprint)')[0]
+        cleantitle = title.rstrip(' ')
+        #print(title, cleantitle)
+        if cleantitle not in titles:
+            newpubs.append(pub)
+    else:
+        newpubs.append(pub)
+
+pubs = newpubs
+print(len(pubs))
+print(len(newpubs))
 
 
 counted_pubs = set()
@@ -55,6 +79,7 @@ for pub in pubs:
 
 print("Length of list of publications =",len(pubs))
 print("Length of list of unique publications =",len(newpubs))
+
 
 
 def construct_entry(pub):
@@ -76,6 +101,9 @@ def construct_entry(pub):
         title = f"[{title}]({pub['pub_url']})"
     else:
         title_decorator = "**"
+
+    if len(pub['author']) > MAX_AUTHOR:
+        pub['author'] = pub['author'][:MAX_AUTHOR-1] + ['...'] + [pub['author'][-1]]
 
     #The two spaces at the end of the lines are necessary
     #to get Markdown to render a non-paragraph line break
